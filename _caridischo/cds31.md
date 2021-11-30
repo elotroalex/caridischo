@@ -14,7 +14,7 @@ blurb: The Digital Library of the Caribbean (dLOC) is a cooperative digital libr
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '094'
 layout: caridischo_item
 collection: caridischo

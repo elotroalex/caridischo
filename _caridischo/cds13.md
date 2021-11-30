@@ -15,7 +15,7 @@ blurb: The website is designed to provide online access to both the French origi
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 added_year: '2020'
-notes: 
+notes:
 order: '034'
 layout: caridischo_item
 collection: caridischo

@@ -8,7 +8,7 @@ open_access: 'TRUE'
 status: Active
 language: en, fr
 creators: Marlene L. Daut
-stewards: 
+stewards:
 blurb: The La Gazette Royale project, which I first began to develop in 2014, is designed
   to gather together and in one place for the first time all of the known issues of
   the two newspapers published during Henry Christophe’s rule of northern Haiti, as
@@ -17,7 +17,7 @@ blurb: The La Gazette Royale project, which I first began to develop in 2014, is
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 added_year: '2020'
-notes: 
+notes:
 order: '166'
 layout: caridischo_item
 collection: caridischo

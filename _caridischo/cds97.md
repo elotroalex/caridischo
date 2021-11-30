@@ -15,7 +15,7 @@ blurb: 'After 1807, over 250,000 people were involved in an international effort
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '165'
 layout: caridischo_item
 collection: caridischo

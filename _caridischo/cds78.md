@@ -8,14 +8,14 @@ open_access: 'TRUE'
 status: Active
 language: en, fr
 creators: Eirann Cohen, Rachel Kirk, Soraya Limare
-stewards: 
+stewards:
 blurb: A bilingual environmental digital humanities project that looks at gender and
   ecology in the Francophone Caribbean though the themes of sugar, bananas, beaches,
   and gardens.
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '145'
 layout: caridischo_item
 collection: caridischo

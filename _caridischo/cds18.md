@@ -13,7 +13,7 @@ blurb: Digital Collection of the Aruba National Library.
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '080'
 layout: caridischo_item
 collection: caridischo

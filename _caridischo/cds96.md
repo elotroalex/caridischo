@@ -18,7 +18,7 @@ blurb: Imagined Homeland (Dominica’s Literary Geographies) aims to digitally r
 added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 added_year: '2020'
-notes: 
+notes:
 order: '164'
 layout: caridischo_item
 collection: caridischo

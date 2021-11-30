@@ -8,12 +8,12 @@ open_access: 'TRUE'
 status: Active
 language: en, fr
 creators: Marlene L. Daut
-stewards: 
+stewards:
 blurb: An online bibliography of Haitian fiction from 1787 to 1899.
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 added_year: '2020'
-notes: 
+notes:
 order: '138'
 layout: caridischo_item
 collection: caridischo

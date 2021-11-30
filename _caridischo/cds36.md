@@ -14,7 +14,7 @@ blurb: This website presents information about selected trials for religious cri
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '099'
 layout: caridischo_item
 collection: caridischo

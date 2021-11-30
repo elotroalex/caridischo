@@ -20,7 +20,7 @@ blurb: "\r\nThe Caribbean Review of Gender Studies stimulates cross-cultural exc
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '100'
 layout: caridischo_item
 collection: caridischo

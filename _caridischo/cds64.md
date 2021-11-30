@@ -8,7 +8,7 @@ open_access: 'TRUE'
 status: In Development
 language: en
 creators: Kaiama Glover, Alex Gil
-stewards: 
+stewards:
 blurb: 'In the Same Boats is a work of multimodal scholarship designed to encourage
   the collaborative production of humanistic knowledge within scholarly communities.
   The platform comprises two interactive visualizations that trace the movements of
@@ -23,7 +23,7 @@ blurb: 'In the Same Boats is a work of multimodal scholarship designed to encour
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '130'
 layout: caridischo_item
 collection: caridischo

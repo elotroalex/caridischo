@@ -16,7 +16,7 @@ blurb: Mapping Marronage is an interactive visualization of the trans-Atlantic n
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '154'
 layout: caridischo_item
 collection: caridischo

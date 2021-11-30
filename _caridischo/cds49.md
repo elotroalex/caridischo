@@ -8,7 +8,7 @@ open_access: 'TRUE'
 status: Active
 language: en
 creators: Schuyler Esprit
-stewards: 
+stewards:
 blurb: Create Caribbean Inc. aims to develop the creative capacity of youth in Dominica
   and the Eastern Caribbean through a focus on education and research in the arts,
   humanities and social sciences. Our goal is to foster a culture of intellectual
@@ -18,7 +18,7 @@ blurb: Create Caribbean Inc. aims to develop the creative capacity of youth in D
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '113'
 layout: caridischo_item
 collection: caridischo

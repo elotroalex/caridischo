@@ -16,7 +16,7 @@ blurb: The Early Caribbean Digital Archive is an open access collection of pre-t
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 added_year: '2020'
-notes: 
+notes:
 order: '131'
 layout: caridischo_item
 collection: caridischo

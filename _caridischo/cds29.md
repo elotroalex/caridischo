@@ -7,7 +7,7 @@ link: https://alexanderstreet.com/products/caribbean-literature
 open_access: 'FALSE'
 status: Active
 language: en
-creators: 
+creators:
 stewards: Alexander Street Press
 blurb: The literature of the Caribbean is exceptional, both in language and subject.
   More than a million and a half Africans, along with many Indians and South Asians,
@@ -21,7 +21,7 @@ blurb: The literature of the Caribbean is exceptional, both in language and subj
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '091'
 layout: caridischo_item
 collection: caridischo

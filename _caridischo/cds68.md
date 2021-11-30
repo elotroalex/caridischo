@@ -7,14 +7,14 @@ link: https://www.curacaohistory.com/
 open_access: 'TRUE'
 status: Stable
 language: en
-creators: 
+creators:
 stewards: Nationaal Archief Curaçao
 blurb: Experience the modern & ancient historic past events, people and governments
   of Curaçao
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '134'
 layout: caridischo_item
 collection: caridischo

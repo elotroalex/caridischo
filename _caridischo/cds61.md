@@ -8,14 +8,14 @@ open_access: 'TRUE'
 status: Stable
 language: en
 creators: Kimberly Bain
-stewards: 
+stewards:
 blurb: Focusing in on the Chinese female migrants who traveled to the island of Trinidad
   between 1860-1884, I will attempt help begin filling this gap, this lack of the
   female narrative.
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '127'
 layout: caridischo_item
 collection: caridischo

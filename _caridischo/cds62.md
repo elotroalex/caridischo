@@ -14,7 +14,7 @@ blurb: The Road to Independence is a multimedia web resource to celebrate Domini
 added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 added_year: '2020'
-notes: 
+notes:
 order: '128'
 layout: caridischo_item
 collection: caridischo

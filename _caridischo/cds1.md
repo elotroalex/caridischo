@@ -20,7 +20,7 @@ blurb: 'archipelagos is a born-digital, peer-reviewed publication devoted to cre
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '000'
 layout: caridischo_item
 collection: caridischo

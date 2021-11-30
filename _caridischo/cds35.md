@@ -8,12 +8,12 @@ open_access: 'TRUE'
 status: In Disrepair
 language: en
 creators: 'Laura Lomas et al. '
-stewards: 
+stewards:
 blurb: An online video archive of performances by Carmelita Tropicana
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '098'
 layout: caridischo_item
 collection: caridischo

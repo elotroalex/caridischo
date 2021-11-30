@@ -16,7 +16,7 @@ blurb: Initiated by the former General Council of Martinique, the Banque Numéri
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '086'
 layout: caridischo_item
 collection: caridischo

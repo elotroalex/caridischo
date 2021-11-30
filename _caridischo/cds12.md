@@ -14,7 +14,7 @@ blurb: This website is designed to give personal and scholarly perspectives on a
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '023'
 layout: caridischo_item
 collection: caridischo

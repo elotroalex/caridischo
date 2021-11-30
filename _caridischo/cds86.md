@@ -17,7 +17,7 @@ blurb: An Island Luminous is a site to help readers learn about Haiti’s histor
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '153'
 layout: caridischo_item
 collection: caridischo

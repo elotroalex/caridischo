@@ -15,7 +15,7 @@ blurb: Welcome to Digital Aponte, a site dedicated to the life and work of José
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '126'
 layout: caridischo_item
 collection: caridischo

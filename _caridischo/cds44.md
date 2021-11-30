@@ -7,7 +7,7 @@ link: https://merrick.library.miami.edu/digitalprojects/chc.php
 open_access: 'TRUE'
 status: Active
 language: en, es
-creators: 
+creators:
 stewards: University of Miami
 blurb: Below are descriptions and links to Cuban Heritage Collection digital collections
   with digital manuscripts, photographs, letters, maps and other resources held in

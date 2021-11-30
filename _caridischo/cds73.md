@@ -18,7 +18,7 @@ blurb: First Blacks in the Americas is a fully bilingual (English and Spanish) d
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '140'
 layout: caridischo_item
 collection: caridischo

@@ -13,7 +13,7 @@ blurb: Stories of Environmental Justice
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '137'
 layout: caridischo_item
 collection: caridischo

@@ -8,13 +8,13 @@ open_access: 'TRUE'
 status: Active
 language: en
 creators: " Tao Leigh Goffe Jeffrey Palmer"
-stewards: 
+stewards:
 blurb: The Dark Laboratory is an engine for collaboration, design, and study of Black
   and Indigenous ecologies through creative technology.
 added_by: Tao Leigh Goffe
 twitter: "@taoleighgoffe"
 added_year: '2020'
-notes: 
+notes:
 order: '102'
 layout: caridischo_item
 collection: caridischo

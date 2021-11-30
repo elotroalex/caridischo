@@ -8,13 +8,13 @@ open_access: 'TRUE'
 status: Stable
 language: en
 creators: Julia Gaffield
-stewards: 
+stewards:
 blurb: This website seeks to encourage the discussion about Haiti’s founding documents
   and their influences on the broader Atlantic.
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '150'
 layout: caridischo_item
 collection: caridischo

@@ -7,7 +7,7 @@ link: https://archivomesoamericano.org/
 open_access: 'TRUE'
 status: Active
 language: es, en
-creators: 
+creators:
 stewards: Digital Collection Services, Indiana University
 blurb: 'El Archivo Mesoamericano representa un archivo digital que consiste de grabaciones
   históricas y etnográficas, montado en colaboración con estas instituciones respectivas:
@@ -21,7 +21,7 @@ blurb: 'El Archivo Mesoamericano representa un archivo digital que consiste de g
 added_by: Mary Borgo Ton
 twitter: "@maryeborgo"
 added_year: '2020'
-notes: 
+notes:
 order: '087'
 layout: caridischo_item
 collection: caridischo

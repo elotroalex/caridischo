@@ -8,12 +8,12 @@ open_access: 'TRUE'
 status: In Disrepair
 language: en
 creators: Steve Hyland, Jr.
-stewards: 
+stewards:
 blurb: Reflections on the political messaging of the revolution to Cubans.
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '045'
 layout: caridischo_item
 collection: caridischo

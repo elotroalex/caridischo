@@ -1,16 +1,19 @@
-{% assign collection = site[include.collection] %}
+{% assign collection = site[include.collection] %} {% if include.only and
+include.facet_by %} {% assign subset = collection | where: include.facet_by,
+include.only | sort: 'order' %} {% endif %}
 
-{% if include.only and include.facet_by %}
-  {% assign subset = collection | where: include.facet_by, include.only | sort: 'order' %}
-{% endif %}
-
-<div id='wax-gallery-{{ include.collection }}-container' class='wax-gallery-container full-width'>
-  <div class='wax-inline-container'>
-    <div id="{{ include.collection }}-facet-buttons" class="facet-buttons"></div>
+<div
+  id="wax-gallery-{{ include.collection }}-container"
+  class="wax-gallery-container full-width"
+>
+  <div class="wax-inline-container">
+    <div
+      id="{{ include.collection }}-facet-buttons"
+      class="facet-buttons"
+    ></div>
     <div id="wax-gallery-{{ include.collection }}" class="wax-gallery"></div>
   </div>
 </div>
-
 
 <script type="text/javascript">
   $( document ).ready(function() {
@@ -21,14 +24,14 @@
     {% if subset %}
       {% for item in subset %}
         {%- capture item_html -%}
-          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{site.baseurl}}/img/derivatives/banner/{{ item.pid }}.png'/><div class='overlay'><p class='info'>{{ item.label }}</p></div></div></a></div>"
+          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{site.baseurl}}/img/derivatives/simple/{{ item.pid }}/fullwidth.jpg'/><div class='overlay'><p class='info'>{{ item.label }}</p></div></div></a></div>"
         {%- endcapture -%}
         gallery.append({{ item_html | strip_newlines }});
       {% endfor %}
     {% else %}
       {% for item in collection %}
         {%- capture item_html -%}
-          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{site.baseurl}}/img/derivatives/banner/{{ item.pid }}.png' alt='{{ item.label }}'/><div class='overlay'><p class='info'>{{ item.label }}</p></div></div></a></div>"
+          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{site.baseurl}}/img/derivatives/simple/{{ item.pid }}/fullwidth.jpg' alt='{{ item.label }}'/><div class='overlay'><p class='info'>{{ item.label }}</p></div></div></a></div>"
         {%- endcapture -%}
         gallery.append({{ item_html | strip_newlines }});
       {% endfor %}

@@ -7,7 +7,7 @@ link: https://archive.org/details/jcbhaiti
 open_access: 'TRUE'
 status: Active
 language: en, fr
-creators: 
+creators:
 stewards: Brown University
 blurb: Our rare books, maps and newspapers tell the story of the founding of the French
   colony of Saint Domingue (once the most lucrative colony in the Americas), its demise
@@ -16,7 +16,7 @@ blurb: Our rare books, maps and newspapers tell the story of the founding of the
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '151'
 layout: caridischo_item
 collection: caridischo

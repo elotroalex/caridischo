@@ -7,14 +7,14 @@ link: https://www.nationaalarchief.cw/
 open_access: 'TRUE'
 status: Active
 language: du
-creators: 
+creators:
 stewards: National Archives of Curaçao
 blurb: A new voyage of discovery ... Search, browse and discover the original sources
   of Curaçao History.
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '141'
 layout: caridischo_item
 collection: caridischo

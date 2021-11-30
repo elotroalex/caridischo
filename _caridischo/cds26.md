@@ -8,7 +8,7 @@ open_access: 'TRUE'
 status: Stable
 language: en
 creators: Jennifer Caroccio
-stewards: 
+stewards:
 blurb: Jennifer Caroccio is a doctoral student in the American Studies Program at
   Rutgers-University-Newark. Her research interests are in U.S. Latin@ culture & literature,
   folktales, and graphic novels. Employing Women of Color Feminist, Postcolonial,
@@ -17,7 +17,7 @@ blurb: Jennifer Caroccio is a doctoral student in the American Studies Program a
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '088'
 layout: caridischo_item
 collection: caridischo

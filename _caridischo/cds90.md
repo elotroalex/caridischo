@@ -13,10 +13,10 @@ blurb: This project is planning the creation of publicly accessible database for
   Waterloo Center for the Arts, which hosts the largest public collection of Haitian
   art outside Haiti. We are also working on expanding digital resources regarding
   Haitian art.
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '158'
 layout: caridischo_item
 collection: caridischo

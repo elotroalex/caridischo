@@ -7,7 +7,7 @@ link: https://uwispace.sta.uwi.edu/dspace/handle/2139/10
 open_access: 'TRUE'
 status: Active
 language: en
-creators: 
+creators:
 stewards: UWI - St. Augustine
 blurb: This archive was established by the UWI Libraries to support the dissemination
   of knowledge by providing open access to the digitally preserved intellectual output

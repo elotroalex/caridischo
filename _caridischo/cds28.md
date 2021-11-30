@@ -13,7 +13,7 @@ blurb: Digitized ephemera material from the Barbados Archives.
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
 added_year: '2020'
-notes: 
+notes:
 order: '090'
 layout: caridischo_item
 collection: caridischo

@@ -16,7 +16,7 @@ blurb: 'Caribbean Diasporas: Panorama of Carnival Practices is a Digital Humanit
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '121'
 layout: caridischo_item
 collection: caridischo

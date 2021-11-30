@@ -17,7 +17,7 @@ blurb: This collection focusing on Caribbean Sexualitities and Social Justice ac
 added_by: Kaneesha Parsard
 twitter: "@kaneeshaparsard"
 added_year: '2020'
-notes: 
+notes:
 order: '160'
 layout: caridischo_item
 collection: caridischo

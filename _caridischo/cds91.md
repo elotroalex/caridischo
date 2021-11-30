@@ -14,10 +14,10 @@ blurb: "The América Negra Magazine was a biannual publication of the Human Expe
   and analysis of human populations. The Magazine emphasized the black and indigenous
   communities of the American continent and their relationships with populations from
   other parts of the world.\r\n"
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '159'
 layout: caridischo_item
 collection: caridischo

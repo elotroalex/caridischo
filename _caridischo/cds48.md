@@ -15,7 +15,7 @@ blurb: This is a course designed to pique your interest, hone your internet skil
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '112'
 layout: caridischo_item
 collection: caridischo

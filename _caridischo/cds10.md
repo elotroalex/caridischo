@@ -8,14 +8,14 @@ open_access: 'TRUE'
 status: Active
 language: en
 creators: Marisa Parham
-stewards: 
+stewards:
 blurb: ".break .dance is a time-based web experience opened in response to a prompt
   for a SX Archipelagos issue, launched by Alex Gil and Kaiama Glover, and guest-edited
   by Jessica Marie Johnson"
 added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 added_year: '2020'
-notes: 
+notes:
 order: '001'
 layout: caridischo_item
 collection: caridischo

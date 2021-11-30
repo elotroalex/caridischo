@@ -14,7 +14,7 @@ blurb: Maroon Country is a multimedia educational resource focused on the histor
 added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 added_year: '2020'
-notes: 
+notes:
 order: '161'
 layout: caridischo_item
 collection: caridischo

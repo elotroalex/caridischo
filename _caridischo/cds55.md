@@ -15,7 +15,7 @@ blurb: 'The Dominica History web resource is a collaboration between the Divisio
 added_by: 'Schuyler Esprit '
 twitter: "@schuyleresprit"
 added_year: '2020'
-notes: 
+notes:
 order: '120'
 layout: caridischo_item
 collection: caridischo

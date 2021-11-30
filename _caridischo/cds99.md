@@ -28,7 +28,7 @@ blurb: "The Puerto Rico Architectural Historic Archive will be an online digital
 added_by: Joshua Ortiz Baco
 twitter: "@jgob"
 added_year: '2020'
-notes: 
+notes:
 order: '167'
 layout: caridischo_item
 collection: caridischo

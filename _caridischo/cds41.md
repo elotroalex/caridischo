@@ -7,16 +7,16 @@ link: https://centroca.hunter.cuny.edu/index.php
 open_access: 'FALSE'
 status: Stable
 language: en
-creators: 
+creators:
 stewards: Hunter College
 blurb: Centro is a research institute that is dedicated to the study and interpretation
   of the Puerto Rican experience in the United States and that produces and disseminates
   relevant interdisciplinary research. Centro also collects, preserves, and provides
   access to library resources documenting Puerto Rican history and culture.
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '105'
 layout: caridischo_item
 collection: caridischo

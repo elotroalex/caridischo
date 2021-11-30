@@ -7,8 +7,8 @@ link: https://compass.fivecolleges.edu/collections/digital-photographic-archive-
 open_access: 'FALSE'
 status: Active
 language: en
-creators: 
-stewards: 
+creators:
+stewards:
 blurb: Based on a common need for a robust infrastructure to manage their digital
   cultural heritage, Hampshire, Mount Holyoke, and Smith colleges together launched
   the Compass digital repository in June 2017. Compass supports our institutional
@@ -19,7 +19,7 @@ blurb: Based on a common need for a robust infrastructure to manage their digita
 added_by: 'Arturo Victoriano '
 twitter: "@ArturoVictoria4"
 added_year: '2020'
-notes: 
+notes:
 order: '122'
 layout: caridischo_item
 collection: caridischo

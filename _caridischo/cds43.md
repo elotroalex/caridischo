@@ -21,7 +21,7 @@ blurb: Funded by the Collections as Data program with support from the Mellon Fo
 added_by: Perry Collins
 twitter: "@perrycollins"
 added_year: '2020'
-notes: 
+notes:
 order: '107'
 layout: caridischo_item
 collection: caridischo

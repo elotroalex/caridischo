@@ -8,13 +8,13 @@ open_access: 'TRUE'
 status: In Disrepair
 language: en, fr
 creators: Alex Gil, et al
-stewards: 
+stewards:
 blurb: A Zotero collection of primary and secondary sources by and about Martinican
   poet Aimé Césaire.
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '092'
 layout: caridischo_item
 collection: caridischo

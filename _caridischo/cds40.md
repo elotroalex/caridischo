@@ -14,7 +14,7 @@ blurb: Gephi visualization of a network of hyperlinks between websites related t
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '104'
 layout: caridischo_item
 collection: caridischo

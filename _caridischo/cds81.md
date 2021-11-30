@@ -9,9 +9,9 @@ open_access: 'TRUE'
 status: In Development
 language: en
 creators: Mark Daniel Triana
-stewards: 
-blurb: '&quot;In Whispers and Furtive Glances: Assessing Cuban Digital Literacies and
-  (H)ac(k)tivism in Post-Embargo Cuba&quot; is a prospective digital humanities project
+stewards:
+blurb: '\"In Whispers and Furtive Glances: Assessing Cuban Digital Literacies and
+  (H)ac(k)tivism in Post-Embargo Cuba\" is a prospective digital humanities project
   that discusses the ways in which Cuban peoples have cultivated a unique and compelling
   digital presence in the twenty-first century despite the many challenges that have
   been posed by surveillance, lack of material access, and severe network and hardware
@@ -19,7 +19,7 @@ blurb: '&quot;In Whispers and Furtive Glances: Assessing Cuban Digital Literacie
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '148'
 layout: caridischo_item
 collection: caridischo

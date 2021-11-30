@@ -14,7 +14,7 @@ blurb: What can we learn from GTMOâ€™s past? What should we remember about whatâ
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '152'
 layout: caridischo_item
 collection: caridischo

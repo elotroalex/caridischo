@@ -8,7 +8,7 @@ open_access: 'TRUE'
 status: In Development
 language: en
 creators: Schuyler Esprit
-stewards: 
+stewards:
 blurb: The Carisealand (Caribbean Sea and Land) digital research project, launched
   in 2015 by scholar, teacher, and activist Schuyler K Esprit, provides an interactive
   framework within which to imagine a more sustainable way of life for Caribbean people,
@@ -20,7 +20,7 @@ blurb: The Carisealand (Caribbean Sea and Land) digital research project, launch
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 added_year: '2020'
-notes: 
+notes:
 order: '096'
 layout: caridischo_item
 collection: caridischo

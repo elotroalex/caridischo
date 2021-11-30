@@ -8,14 +8,14 @@ open_access: 'TRUE'
 status: Stable
 language: en
 creators: Chris Forster, Roopika Risam
-stewards: 
+stewards:
 blurb: This is an open-source edition of Claude McKay's 1922 collection of poems Harlem
   Shadows. It seeks to aggregate the most comprehensive set of documents related to
   Harlem Shadows and make them available to students and readers of McKay.
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '133'
 layout: caridischo_item
 collection: caridischo

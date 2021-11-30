@@ -8,14 +8,14 @@ open_access: 'TRUE'
 status: Active
 language: en
 creators: Kevin Adonis Browne, Dawn Cumberbatch
-stewards: 
+stewards:
 blurb: "​The Caribbean Memory Project promotes public awareness and participation
   in the collection and circulation of everyday archives for cultural, social, and
   historical research."
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 added_year: '2020'
-notes: 
+notes:
 order: '097'
 layout: caridischo_item
 collection: caridischo

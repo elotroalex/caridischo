@@ -14,7 +14,7 @@ blurb: This timemap locates the main cholera outbreaks in the Caribbean in the 1
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '083'
 layout: caridischo_item
 collection: caridischo

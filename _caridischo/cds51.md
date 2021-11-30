@@ -16,7 +16,7 @@ blurb: 'The Cuban Theater Digital Archive (CTDA) is a resource for research, tea
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '116'
 layout: caridischo_item
 collection: caridischo

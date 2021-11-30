@@ -8,7 +8,7 @@ open_access: 'TRUE'
 status: In Disrepair
 language: en
 creators: Dhanashree Thorat
-stewards: 
+stewards:
 blurb: This project maps, spatially and chronologically, the migration of Indian indentured
   workers to Trinidad, one of the colonies to which a large number of indentured workers
   were sent. Between 1845 and 1917, about 143,900 indentured Indian labourers were
@@ -16,7 +16,7 @@ blurb: This project maps, spatially and chronologically, the migration of Indian
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '142'
 layout: caridischo_item
 collection: caridischo

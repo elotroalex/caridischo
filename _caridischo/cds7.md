@@ -16,10 +16,10 @@ blurb: The banjo has a rich history in the Caribbean, the region where we first 
   in this region, from the 1680s, and those from North America, which are from the
   late 1730s. Here, we offer a few avenues for understanding the fascinating history
   of the banjo in the Caribbean.
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '136'
 layout: caridischo_item
 collection: caridischo

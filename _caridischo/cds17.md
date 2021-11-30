@@ -7,16 +7,16 @@ link: https://www.patrimoines-martinique.org/
 open_access: 'TRUE'
 status: Active
 language: fr
-creators: 
-stewards: 
+creators:
+stewards:
 blurb: Initiated by the former General Council of Martinique, the Banque Numérique
   des Patrimoines Martiniquais is an access portal to documentary resources on the
   cultural and historical heritage of Martinique backed by the geographic information
   system of Martinique (SIGMA).
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '078'
 layout: caridischo_item
 collection: caridischo

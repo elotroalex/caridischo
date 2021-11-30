@@ -16,7 +16,7 @@ blurb: This a digital space that explores the cultural meaning of the hurricane 
 added_by: Winnie Pérez Martínez
 twitter: "@_wepm"
 added_year: '2020'
-notes: 
+notes:
 order: '093'
 layout: caridischo_item
 collection: caridischo

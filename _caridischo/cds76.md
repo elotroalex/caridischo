@@ -13,7 +13,7 @@ blurb: 'Bibliography (under construction) about the Jewish community of Barbados
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
 added_year: '2020'
-notes: 
+notes:
 order: '143'
 layout: caridischo_item
 collection: caridischo

@@ -15,7 +15,7 @@ blurb: Île en île is an open access, non-profit website intended to provide a 
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '132'
 layout: caridischo_item
 collection: caridischo

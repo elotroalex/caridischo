@@ -11,10 +11,10 @@ creators: Amaury Rodriguez
 stewards: Marxists Internet Archive (MIA)
 blurb: 'This project preserves Dominican history from below, left-wing revolutionary
   movements and class struggle via transcribed texts, translations and images. '
-added_by: 
-twitter: 
+added_by:
+twitter:
 added_year: '2020'
-notes: 
+notes:
 order: '115'
 layout: caridischo_item
 collection: caridischo

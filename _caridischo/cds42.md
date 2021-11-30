@@ -18,7 +18,7 @@ blurb: Supported by the Andrew W. Mellon Foundation, the Archivo de Respuestas E
 added_by: Christina Boyles
 twitter: "@clboyles"
 added_year: '2020'
-notes: 
+notes:
 order: '106'
 layout: caridischo_item
 collection: caridischo

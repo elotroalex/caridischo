@@ -14,7 +14,7 @@ blurb: This site provides access to the raw data and documentation which contain
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 added_year: '2020'
-notes: 
+notes:
 order: '118'
 layout: caridischo_item
 collection: caridischo

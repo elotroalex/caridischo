@@ -8,7 +8,7 @@ open_access: 'TRUE'
 status: Active
 language: en, fr
 creators: Raphaël Lauro and Jeanne Jégousso
-stewards: 
+stewards:
 blurb: The Library of Glissant Studies is a collective project which would not be
   possible without the help and support of dozen of dedicated individuals and institutions
   across the world. Our team aim at developing researches in the field of Glissant
@@ -17,7 +17,7 @@ blurb: The Library of Glissant Studies is a collective project which would not b
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '162'
 layout: caridischo_item
 collection: caridischo

@@ -19,7 +19,7 @@ blurb: This site began as a collaborative WordPress project put together by stud
 added_by: Alex Gil
 twitter: "@elotroalex"
 added_year: '2020'
-notes: 
+notes:
 order: '110'
 layout: caridischo_item
 collection: caridischo

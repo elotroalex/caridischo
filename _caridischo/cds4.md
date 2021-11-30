@@ -9,11 +9,11 @@ status: In Development
 language: en
 creators: Early Caribbean Digital Archive; Amalia S. Levi
 stewards: Early Caribbean Digital Archive
-blurb: Companion site for public workshops around the &quot;Barbados Runaways&quot; collection.
+blurb: Companion site for public workshops around the \"Barbados Runaways\" collection.
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
 added_year: '2020'
-notes: 
+notes:
 order: '103'
 layout: caridischo_item
 collection: caridischo
