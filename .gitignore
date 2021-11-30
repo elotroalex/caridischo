@@ -4,5 +4,5 @@ _site
 .DS_Store
 Gemfile.lock
 .jekyll-cache
-img
+# img
 _data/raw_images
