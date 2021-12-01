@@ -39,7 +39,7 @@ In no particular order...
 
 ### Scholarly Editions
 
-Not all editions are made the same, and by extension, not all collections of documents. We give pride of place to the curatorial work that enriches our literary and historical documents with scholarly research, and gives due attention to the materiality of our documentary record. The call to care for the cultural and historical documents that tell the stories of our brutal colonization, resistance, life, justice and freedom is particularly poignant for our communities. We believe, following the lead of Kim Gallon's "[Making a Case for the Black Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb)," that the "technologies of recovery" are central to the Caribbean Digital as well, and in this scholarly genre we find some of its most promising avenues.
+Not all editions are made the same, and by extension, not all collections of documents. We give pride of place to the editorial work that enriches our literary and historical documents with scholarly research, and pays due attention to the materiality of our documentary record. The call to care for the cultural and historical documents that tell the stories of our brutal colonization, resistance, life, justice and freedom is particularly poignant for our communities. We believe, following the lead of Kim Gallon's "[Making a Case for the Black Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb)," that the "technologies of recovery" are central to the Caribbean Digital as well, and in this scholarly genre we find some of its most promising avenues.
 
 In no particular order...
 
