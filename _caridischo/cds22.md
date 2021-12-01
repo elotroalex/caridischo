@@ -1,10 +1,10 @@
 ---
 pid: cds22
-caridischo_genre: Cabinet of Wonders
 label: Caribbean Literary Heritage
+caridischo_genre: Cabinet of Wonders
 claimed_genre: a project
 link: https://www.caribbeanliteraryheritage.com/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators: Project team led by Alison Donnell
@@ -13,10 +13,13 @@ blurb: Caribbean Literary Heritage is a project funded by the Leverhulme Trust t
   promotes literary and archival preservation in the Caribbean and the diaspora, as
   well as bridging connections between the literary past and present with an interest
   in exploring the new challenges and possibilities of born digital initiatives.
+related_to:
 added_by: Nadine Zubair
 twitter: "@NadineZubair"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '085'
 layout: caridischo_item
 collection: caridischo

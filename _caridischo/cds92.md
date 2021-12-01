@@ -1,11 +1,11 @@
 ---
 pid: cds92
-caridischo_genre: Collections & Curations
 label: 'Caribbean Sexualities: Love | Hope | Community: Sexualities & Social Justice
   in the Caribbean'
+caridischo_genre: Thematic Curations
 claimed_genre: online collection
 link: caribbeansexualities.org
-open_access: 'TRUE'
+access: open
 status: Stable
 language: en
 creators: Rosamond S. King, Angelique V. Nixon
@@ -14,10 +14,13 @@ blurb: This collection focusing on Caribbean Sexualitities and Social Justice ac
   the region offers a space for reflection, sharing, and exchange. We feature related
   content already published in print but published online for the first time, alongside
   new materials and resources.
+related_to:
 added_by: Kaneesha Parsard
 twitter: "@kaneeshaparsard"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '160'
 layout: caridischo_item
 collection: caridischo

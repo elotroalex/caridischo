@@ -1,10 +1,10 @@
 ---
 pid: cds78
-caridischo_genre: Collections & Curations
 label: Ecologies Entrelacées
+caridischo_genre: Thematic Curations
 claimed_genre: a digital humanities project
 link: https://www.ecologiesentrelacees.com/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en, fr
 creators: Eirann Cohen, Rachel Kirk, Soraya Limare
@@ -12,10 +12,13 @@ stewards:
 blurb: A bilingual environmental digital humanities project that looks at gender and
   ecology in the Francophone Caribbean though the themes of sugar, bananas, beaches,
   and gardens.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '145'
 layout: caridischo_item
 collection: caridischo

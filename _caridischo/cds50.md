@@ -1,20 +1,23 @@
 ---
 pid: cds50
-caridischo_genre: Collections & Curations
 label: Documents from the History of the Dominican Republic
+caridischo_genre: Scholarly Editions
 claimed_genre: project
 link: https://www.marxists.org/history/dominican-republic/index.htm
-open_access: 'TRUE'
+access: open
 status: Active
 language: en, es
 creators: Amaury Rodriguez
 stewards: Marxists Internet Archive (MIA)
-blurb: 'This project preserves Dominican history from below, left-wing revolutionary
-  movements and class struggle via transcribed texts, translations and images. '
+blurb: This project preserves Dominican history from below, left-wing revolutionary
+  movements and class struggle via transcribed texts, translations and images.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '115'
 layout: caridischo_item
 collection: caridischo

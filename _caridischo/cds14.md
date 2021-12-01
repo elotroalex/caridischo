@@ -1,19 +1,22 @@
 ---
 pid: cds14
-caridischo_genre: Collections & Curations
 label: Branding the Cuban Revolution
+caridischo_genre: Thematic Curations
 claimed_genre: "[digital collection]"
 link: https://brandingrevolution.omeka.net/exhibits/show/branding-the-cuban-revolution
-open_access: 'TRUE'
+access: open
 status: In Disrepair
 language: en
 creators: Steve Hyland, Jr.
 stewards:
 blurb: Reflections on the political messaging of the revolution to Cubans.
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '045'
 layout: caridischo_item
 collection: caridischo

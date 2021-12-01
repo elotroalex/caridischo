@@ -1,10 +1,10 @@
 ---
 pid: cds33
-caridischo_genre: Collections & Curations
 label: Carisealand
+caridischo_genre: Cabinet of Wonders
 claimed_genre: digital research project
 link: http://archipelagosjournal.org/issue04/esprit-carisealand.html
-open_access: 'TRUE'
+access: open
 status: In Development
 language: en
 creators: Schuyler Esprit
@@ -17,10 +17,13 @@ blurb: The Carisealand (Caribbean Sea and Land) digital research project, launch
   collaborations with scholars and artists in an effort to find solutions to social
   injustices resulting from climate change activity; and to present models for alternate
   Caribbean futures.
+related_to:
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '096'
 layout: caridischo_item
 collection: caridischo

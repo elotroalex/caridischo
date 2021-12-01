@@ -1,10 +1,10 @@
 ---
 pid: cds46
-caridischo_genre: Collections & Curations
 label: 'Claude McKay''s Early Poetry (1911-1922): A Digital Collection'
+caridischo_genre: Scholarly Editions
 claimed_genre: digital collection
 link: https://scalar.lehigh.edu/mckay/index
-open_access: 'TRUE'
+access: open
 status: Stable
 language: en
 creators: Amardeep Singh
@@ -16,10 +16,13 @@ blurb: This site began as a collaborative WordPress project put together by stud
   Jamaica, Constab Ballads, Spring in New Hampshire, and Harlem Shadows, as well as
   uncollected poetry published in various Jamaican, British, and American magazines
   from the 1910s and 20s not included in those volumes.
+related_to:
 added_by: Alex Gil
 twitter: "@elotroalex"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '110'
 layout: caridischo_item
 collection: caridischo

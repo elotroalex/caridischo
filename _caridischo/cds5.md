@@ -1,10 +1,10 @@
 ---
 pid: cds5
-caridischo_genre: Collections & Curations
 label: Alma Jordan Library Digital Collections
+caridischo_genre: Digital Libraries
 claimed_genre: digital collections
 link: https://uwispace.sta.uwi.edu/dspace/handle/2139/10
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators:
@@ -13,10 +13,13 @@ blurb: This archive was established by the UWI Libraries to support the dissemin
   of knowledge by providing open access to the digitally preserved intellectual output
   of the University. Here we aim to collect together in one place the research and
   scholarship of members of the UWI community.
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes: Herein lie subcollections
+sub_collections:
+open_data:
 order: '114'
 layout: caridischo_item
 collection: caridischo

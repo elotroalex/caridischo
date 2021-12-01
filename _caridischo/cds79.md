@@ -1,22 +1,25 @@
 ---
 pid: cds79
-caridischo_genre: Publications & Blogs
 label: Haitian History Blog
+caridischo_genre: Publications & Blogs
 claimed_genre: blog
 link: https://haitianhistory.tumblr.com/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators:
 stewards:
-blurb: 'Welcome to the Haitian History Blog, a space dedicated to discussions on Haiti’s
+blurb: Welcome to the Haitian History Blog, a space dedicated to discussions on Haiti’s
   political history. “Political history” here can be understood in a broad sense,
   one that encompasses questions relating to society, governance, intellectual history
-  and foreign relations forged between Haiti and its neighbours in the Americas. '
+  and foreign relations forged between Haiti and its neighbours in the Americas.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '146'
 layout: caridischo_item
 collection: caridischo

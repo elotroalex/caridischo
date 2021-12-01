@@ -1,19 +1,22 @@
 ---
 pid: cds35
-caridischo_genre: Collections & Curations
 label: Carmelita Tropicana Online Digital Archive
+caridischo_genre: Thematic Curations
 claimed_genre: digital archive
 link: http://tropicanavideoarchive.blogspot.com/
-open_access: 'TRUE'
+access: open
 status: In Disrepair
 language: en
 creators: 'Laura Lomas et al. '
 stewards:
 blurb: An online video archive of performances by Carmelita Tropicana
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '098'
 layout: caridischo_item
 collection: caridischo

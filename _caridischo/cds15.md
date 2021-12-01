@@ -1,10 +1,10 @@
 ---
 pid: cds15
-caridischo_genre: Publications & Blogs
 label: Arquitecture of necessity/Arquitectura de la necesidad
-claimed_genre: "[blog]"
+caridischo_genre: Publications & Blogs
+claimed_genre: blog
 link: http://architectureofnecessity.com/
-open_access: 'TRUE'
+access: open
 status: Archived
 language: es
 creators: Ernesto Oroza
@@ -13,10 +13,13 @@ blurb: 'Architecture of Necessity is a concept with a double function. It initia
   operates as a descriptive and austere term in its rhetorical value that points to
   an architecture of urgency and precariousness. Its second and most important function
   is metaphorical: it enunciates an architecture that is its own diagram.'
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '056'
 layout: caridischo_item
 collection: caridischo

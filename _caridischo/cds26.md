@@ -1,10 +1,10 @@
 ---
 pid: cds26
-caridischo_genre: Publications & Blogs
 label: A Boricua Abroad
+caridischo_genre: Publications & Blogs
 claimed_genre: "[blog]"
 link: https://aboricuaabroad.wordpress.com/
-open_access: 'TRUE'
+access: open
 status: Stable
 language: en
 creators: Jennifer Caroccio
@@ -14,10 +14,13 @@ blurb: Jennifer Caroccio is a doctoral student in the American Studies Program a
   folktales, and graphic novels. Employing Women of Color Feminist, Postcolonial,
   and Critical Race theories, she examines issues of racial identity and misogyny
   in Caribbean and Caribbean-American texts.
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '088'
 layout: caridischo_item
 collection: caridischo

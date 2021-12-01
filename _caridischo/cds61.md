@@ -1,10 +1,10 @@
 ---
 pid: cds61
-caridischo_genre: Collections & Curations
 label: 'Ghosts in the Water: Chinese Women in Trinidad'
+caridischo_genre: Thematic Curations
 claimed_genre: a project
 link: https://ghostsinthewater.wordpress.com/
-open_access: 'TRUE'
+access: open
 status: Stable
 language: en
 creators: Kimberly Bain
@@ -12,10 +12,13 @@ stewards:
 blurb: Focusing in on the Chinese female migrants who traveled to the island of Trinidad
   between 1860-1884, I will attempt help begin filling this gap, this lack of the
   female narrative.
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '127'
 layout: caridischo_item
 collection: caridischo

@@ -1,20 +1,23 @@
 ---
 pid: cds16
+label: Bibliography for &quot; runaway&quot;  enslaved people
 caridischo_genre: Reference
-label: Bibliography for \"runaway\" enslaved people
 claimed_genre: a bibliography
 link: https://docs.google.com/document/d/16oamSiSVIzrI6Sd_wvPSXVNlNscEhG71GwsLH27WaK0/edit
-open_access: 'TRUE'
+access: open
 status: In Development
 language: en
 creators: Amalia S. Levi & Dr. Paola A. Schiappacasse
 stewards:
-blurb: Bibliography developed during the public workshops for the \"Barbados Runaways\"
-  collection.
+blurb: Bibliography developed during the public workshops for the &quot; Barbados
+  Runaways&quot;  collection.
+related_to:
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '067'
 layout: caridischo_item
 collection: caridischo

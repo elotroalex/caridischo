@@ -1,10 +1,10 @@
 ---
 pid: cds8
-caridischo_genre: Collections & Curations
 label: Biblioteca de Literatura Afrocolombiana
+caridischo_genre: Thematic Curations
 claimed_genre: colección digital
 link: http://babel.banrepcultural.org/digital/collection/p17054coll7
-open_access: 'TRUE'
+access: open
 status: Stable
 language: es
 creators:
@@ -13,10 +13,13 @@ blurb: 'The Afro-Colombian Literature Library contains 18 titles and an essay wr
   by prominent Afro-Colombian authors in the last 200 years; among them are the important
   works of authors such as: Manuel Zapata Olivella, Oscar Collazos, Helcías Martán
   Góngora, Arnoldo Palacios, Rogerio Velásquez, Candelario Obeso, among others.'
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '147'
 layout: caridischo_item
 collection: caridischo

@@ -1,10 +1,10 @@
 ---
 pid: cds29
-caridischo_genre: Collections & Curations
 label: Caribbean Literature
+caridischo_genre: Thematic Curations
 claimed_genre: collection
 link: https://alexanderstreet.com/products/caribbean-literature
-open_access: 'FALSE'
+access: vendor
 status: Active
 language: en
 creators:
@@ -18,10 +18,13 @@ blurb: The literature of the Caribbean is exceptional, both in language and subj
   parts of the Americas, makes for a body of work that is essential for the study
   of the Caribbean and the Black Diaspora—and indeed central for our understanding
   of the New World.
+related_to:
 added_by: Alex Gil
 twitter: "@elotroalex"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '091'
 layout: caridischo_item
 collection: caridischo

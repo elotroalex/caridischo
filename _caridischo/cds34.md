@@ -1,10 +1,10 @@
 ---
 pid: cds34
-caridischo_genre: Collections & Curations
 label: Caribbean Memory Project
+caridischo_genre: Thematic Curations
 claimed_genre: collection of archives
 link: https://www.caribbeanmemoryproject.com/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators: Kevin Adonis Browne, Dawn Cumberbatch
@@ -12,10 +12,13 @@ stewards:
 blurb: "​The Caribbean Memory Project promotes public awareness and participation
   in the collection and circulation of everyday archives for cultural, social, and
   historical research."
+related_to:
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '097'
 layout: caridischo_item
 collection: caridischo

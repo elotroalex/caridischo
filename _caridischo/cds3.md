@@ -1,20 +1,23 @@
 ---
 pid: cds3
-caridischo_genre: Reference
 label: 'AImé Césaire: Open Blibiography on Zotero'
+caridischo_genre: Reference
 claimed_genre: a bibliography
 link: https://www.zotero.org/groups/232193/aime_cesaire/library
-open_access: 'TRUE'
+access: open
 status: In Disrepair
 language: en, fr
 creators: Alex Gil, et al
 stewards:
 blurb: A Zotero collection of primary and secondary sources by and about Martinican
   poet Aimé Césaire.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '092'
 layout: caridischo_item
 collection: caridischo

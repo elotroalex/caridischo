@@ -1,10 +1,10 @@
 ---
 pid: cds43
-caridischo_genre: Cabinet of Wonders
 label: 'dLOC as Data: A Thematic Approach to Caribbean Newspapers'
+caridischo_genre: Cabinet of Wonders
 claimed_genre: an initiative
 link: http://dlocasdata.domains.uflib.ufl.edu/
-open_access: 'TRUE'
+access: open
 status: In Development
 language: en
 creators: Perry Collins, Hadassah St. Hubert, Miguel Asencio, Jamie Rogers; http://dlocasdata.domains.uflib.ufl.edu/project-team/
@@ -18,10 +18,13 @@ blurb: Funded by the Collections as Data program with support from the Mellon Fo
   such as Chronicling America. To meet the needs of the dLOC community for teaching
   and research, we will demonstrate the potential of newspaper data by creating a
   pilot thematic tool kit focused on hurricanes and tropical cyclones.
+related_to: cds31
 added_by: Perry Collins
 twitter: "@perrycollins"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '107'
 layout: caridischo_item
 collection: caridischo

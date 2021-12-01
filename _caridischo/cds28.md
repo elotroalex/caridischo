@@ -1,19 +1,22 @@
 ---
 pid: cds28
-caridischo_genre: Collections & Curations
 label: Barbados Ephemera Collection
+caridischo_genre: Thematic Curations
 claimed_genre: digitized ephemera
 link: https://meap.library.ucla.edu/ephemera-barbados
-open_access: 'TRUE'
+access: open
 status: In Development
 language: en
 creators: Amalia S. Levi; Modern Endangered Archives Program
 stewards: Modern Endangered Archives Program
 blurb: Digitized ephemera material from the Barbados Archives.
+related_to:
 added_by: Amalia S. Levi
 twitter: "@amaliasl"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '090'
 layout: caridischo_item
 collection: caridischo

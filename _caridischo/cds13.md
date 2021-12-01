@@ -1,10 +1,10 @@
 ---
 pid: cds13
-caridischo_genre: Collections & Curations
 label: A Colony in Crisis
+caridischo_genre: Thematic Curations
 claimed_genre: a curation and translations
 link: https://colonyincrisis.lib.umd.edu
-open_access: 'TRUE'
+access: open
 status: Active
 language: en, ht
 creators: Abby R. Broughton, Kelsey Corlett-Rivera, Nathan H. Dize, Brittany de Gail
@@ -12,10 +12,13 @@ stewards: Vanderbilt University
 blurb: The website is designed to provide online access to both the French originals
   and the English translations of key primary sources dealing with the grain shortage
   faced by the colony of Saint-Domingue in 1789
+related_to:
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '034'
 layout: caridischo_item
 collection: caridischo

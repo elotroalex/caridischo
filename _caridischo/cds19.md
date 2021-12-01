@@ -1,10 +1,10 @@
 ---
 pid: cds19
-caridischo_genre: Publications & Blogs
 label: Age of Revolutions
+caridischo_genre: Publications & Blogs
 claimed_genre: an open-access, peer-reviewed academic journal
 link: https://ageofrevolutions.com/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators: Bryan Banks Cindy Ermus
@@ -14,10 +14,13 @@ blurb: The word “revolution” is a human tool. At any point in time, its mean
   of Revolutions — we are participating in the humanities, surveying revolutionary
   changes in history, encouraging the comparative study of revolutions, and exploring
   the hopes imbued in the term “revolution.”
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '081'
 layout: caridischo_item
 collection: caridischo

@@ -1,20 +1,23 @@
 ---
 pid: cds36
-caridischo_genre: Reference
 label: Caribbean Religious Trials
+caridischo_genre: Reference
 claimed_genre: website
 link: https://www.caribbeanreligioustrials.org/
-open_access: 'TRUE'
+access: open
 status: In Development
 language: en
 creators: Diana Paton et al.
 stewards: University of Edinburgh
 blurb: This website presents information about selected trials for religious crimes
   held in the Caribbean between the 1760s and the 1980s.
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '099'
 layout: caridischo_item
 collection: caridischo

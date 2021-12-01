@@ -1,10 +1,10 @@
 ---
 pid: cds44
-caridischo_genre: Collections & Curations
 label: Cuban Heritage Connection
+caridischo_genre: Digital Libraries
 claimed_genre: digital collections
 link: https://merrick.library.miami.edu/digitalprojects/chc.php
-open_access: 'TRUE'
+access: open
 status: Active
 language: en, es
 creators:
@@ -12,10 +12,13 @@ stewards: University of Miami
 blurb: Below are descriptions and links to Cuban Heritage Collection digital collections
   with digital manuscripts, photographs, letters, maps and other resources held in
   the University of Miami Libraries Cuban Heritage Collection.
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes: There are approximately infinity subcollections
+sub_collections:
+open_data:
 order: '108'
 layout: caridischo_item
 collection: caridischo

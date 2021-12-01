@@ -1,10 +1,10 @@
 ---
 pid: cds90
-caridischo_genre: Collections & Curations
 label: 'Haitian Art: a Digital Crossroads'
+caridischo_genre: Thematic Curations
 claimed_genre: grant project
 link: https://hadc.sites.grinnell.edu/
-open_access: 'FALSE'
+access: closed
 status: In Development
 language: en
 creators: Fredo Rivera, Petrouchka Moïse
@@ -13,10 +13,13 @@ blurb: This project is planning the creation of publicly accessible database for
   Waterloo Center for the Arts, which hosts the largest public collection of Haitian
   art outside Haiti. We are also working on expanding digital resources regarding
   Haitian art.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '158'
 layout: caridischo_item
 collection: caridischo

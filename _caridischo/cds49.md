@@ -1,10 +1,10 @@
 ---
 pid: cds49
-caridischo_genre: Cabinet of Wonders
 label: Create Caribbean
+caridischo_genre: Cabinet of Wonders
 claimed_genre: a digital humanities center
 link: http://createcaribbean.org/create/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators: Schuyler Esprit
@@ -15,10 +15,13 @@ blurb: Create Caribbean Inc. aims to develop the creative capacity of youth in D
   inquiry, encourage the use of digital technology in academic research, and increase
   outreach and community participation in the preservation and dissemination of Caribbean
   history, heritage and other research areas of significance.
+related_to:
 added_by: Alex Gil
 twitter: "@elotroalex"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '113'
 layout: caridischo_item
 collection: caridischo

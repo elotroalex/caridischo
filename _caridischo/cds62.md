@@ -1,20 +1,23 @@
 ---
 pid: cds62
-caridischo_genre: Collections & Curations
 label: 'Dominica History: The Road To Independence '
+caridischo_genre: Thematic Curations
 claimed_genre: digital archive
 link: https://dominicahistory.org/start/
-open_access: 'TRUE'
+access: open
 status: In Disrepair
 language: en
 creators: 'Schuyler Esprit '
 stewards: Create Caribbean
 blurb: The Road to Independence is a multimedia web resource to celebrate Dominica’s
   2015 History Week.
+related_to:
 added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '128'
 layout: caridischo_item
 collection: caridischo

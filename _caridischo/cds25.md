@@ -1,10 +1,10 @@
 ---
 pid: cds25
-caridischo_genre: Collections & Curations
 label: Archivo Mesoamericano
+caridischo_genre: Thematic Curations
 claimed_genre: archivo
 link: https://archivomesoamericano.org/
-open_access: 'TRUE'
+access: open
 status: Active
 language: es, en
 creators:
@@ -17,11 +17,14 @@ blurb: 'El Archivo Mesoamericano representa un archivo digital que consiste de g
   is a digital archive of annotated historical and ethnographic video materials created
   in collaboration with the Center for Research and Advanced Studies in Social Anthropology
   (CIESAS) in Mexico, the Institute of History of Nicaragua and Central America (IHNCA)
-  in Nicaragua, and the Museum of the Word and the Image (MUPI) in El Salvador. '
+  in Nicaragua, and the Museum of the Word and the Image (MUPI) in El Salvador.'
+related_to:
 added_by: Mary Borgo Ton
 twitter: "@maryeborgo"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '087'
 layout: caridischo_item
 collection: caridischo

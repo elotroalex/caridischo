@@ -1,10 +1,10 @@
 ---
 pid: cds98
-caridischo_genre: Collections & Curations
 label: La Gazette Royale d'Haïti
+caridischo_genre: Thematic Curations
 claimed_genre: digital archive
 link: http://lagazetteroyale.com
-open_access: 'TRUE'
+access: open
 status: Active
 language: en, fr
 creators: Marlene L. Daut
@@ -14,10 +14,13 @@ blurb: The La Gazette Royale project, which I first began to develop in 2014, is
   the two newspapers published during Henry Christophe’s rule of northern Haiti, as
   well as the six different versions of the Almanach Royal d’Hayti issued by the royal
   press.
+related_to:
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '166'
 layout: caridischo_item
 collection: caridischo

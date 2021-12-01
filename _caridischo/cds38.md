@@ -1,10 +1,10 @@
 ---
 pid: cds38
-caridischo_genre: Collections & Curations
 label: Collections of Cultural Property | Centro León
+caridischo_genre: Digital Libraries
 claimed_genre: eMuseum
 link: https://centroleon.org.do/cl/
-open_access: 'FALSE'
+access: closed
 status: Active
 language: es
 creators: María Amalia León de Jorge
@@ -18,10 +18,13 @@ blurb: The Eduardo León Jimenes Cultural Center (León Center) is located in th
   room, classroom, educational workshop, auditorium, media library, cafeteria, shop
   , Caribbean patio and gardens, all of which comply with the international standards
   established by ICOM / UNESCO for their design and operation.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '101'
 layout: caridischo_item
 collection: caridischo

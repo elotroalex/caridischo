@@ -1,10 +1,10 @@
 ---
 pid: cds1
-caridischo_genre: Publications & Blogs
 label: archipelagos journal
+caridischo_genre: Publications & Blogs
 claimed_genre: an academic journal
 link: http://archipelagosjournal.org/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en, fr, es
 creators: Kaiama Glover, Alex Gil
@@ -17,10 +17,13 @@ blurb: 'archipelagos is a born-digital, peer-reviewed publication devoted to cre
   of the regional and diasporic Caribbean. archipelagos responds to this challenge
   with three distinct dimensions of critical production: scholarly essays; digital
   scholarship projects; and digital project reviews.'
+related_to:
 added_by: Alex Gil
 twitter: "@elotroalex"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '000'
 layout: caridischo_item
 collection: caridischo

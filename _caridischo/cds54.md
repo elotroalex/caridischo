@@ -1,10 +1,10 @@
 ---
 pid: cds54
-caridischo_genre: Collections & Curations
 label: Digital Grainger
+caridischo_genre: Scholarly Editions
 claimed_genre: an online edition
 link: http://caribbeandigitalnyc.net/2020/
-open_access: 'TRUE'
+access: open
 status: Stable
 language: en
 creators: Julie Chun Kim, Cristobal Silva, Alex Gil, Kimberly Takahata, Ami Yoon,
@@ -14,10 +14,13 @@ blurb: The first edition of The Sugar-Cane, a 168-page poem about eighteenth-cen
   Caribbean sugar plantations, appeared in London in 1764. We have created one full-text
   version of the poem and a page-by-page reading experience, as well as excerpts that
   highlight counter-plantation themes within the poem.
+related_to:
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '119'
 layout: caridischo_item
 collection: caridischo

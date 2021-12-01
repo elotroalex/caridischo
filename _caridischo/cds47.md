@@ -1,10 +1,10 @@
 ---
 pid: cds47
-caridischo_genre: Collections & Curations
 label: Digital Archeological Archive of Comparative Slavery
+caridischo_genre: Thematic Curations
 claimed_genre: digital archeological archive
 link: https://www.daacs.org
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators: Jillian E. Galle
@@ -12,10 +12,13 @@ stewards:
 blurb: DAACS is a community resource, conceived and maintained in the Department of
   Archaeology at Monticello, in collaboration with the research institutions and archaeologists
   working throughout the Atlantic World.
+related_to:
 added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '111'
 layout: caridischo_item
 collection: caridischo

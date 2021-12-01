@@ -18,7 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title: "CariDiScho2020"
+title: "CariDiScho"
+year: "2021"
 description: "A Directory of Caribbean Digital Scholarship"
 url: ""
 baseurl: "/caridischo"
@@ -61,7 +62,7 @@ collections:
     output: true # makes sure pages are output as html files
     layout: "caridischo_item" # the layout for the pages to use
     metadata:
-      source: "caridischo.csv" # path to the metadata file within `_data`
+      source: "2021.csv" # path to the metadata file within `_data`
     images:
       source: "raw_images/caridischo" # path to the directory of images within `_data`
   test: # name of collection

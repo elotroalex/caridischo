@@ -1,25 +1,28 @@
 ---
 pid: cds81
-caridischo_genre: Cabinet of Wonders
 label: 'In Whispers and Furtive Glances: Assessing Cuban Digital Literacies and (H)ac(k)tivism
   in Post-Embargo Cuba'
+caridischo_genre: Cabinet of Wonders
 claimed_genre: a project proposal
 link: https://marktriana.wixsite.com/whispersandglances
-open_access: 'TRUE'
+access: open
 status: In Development
 language: en
 creators: Mark Daniel Triana
 stewards:
-blurb: '\"In Whispers and Furtive Glances: Assessing Cuban Digital Literacies and
-  (H)ac(k)tivism in Post-Embargo Cuba\" is a prospective digital humanities project
-  that discusses the ways in which Cuban peoples have cultivated a unique and compelling
-  digital presence in the twenty-first century despite the many challenges that have
-  been posed by surveillance, lack of material access, and severe network and hardware
-  limitations.'
+blurb: "&quot; In Whispers and Furtive Glances: Assessing Cuban Digital Literacies
+  and (H)ac(k)tivism in Post-Embargo Cuba&quot;  is a prospective digital humanities
+  project that discusses the ways in which Cuban peoples have cultivated a unique
+  and compelling digital presence in the twenty-first century despite the many challenges
+  that have been posed by surveillance, lack of material access, and severe network
+  and hardware limitations."
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '148'
 layout: caridischo_item
 collection: caridischo

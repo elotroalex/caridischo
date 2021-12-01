@@ -1,21 +1,24 @@
 ---
 pid: cds52
-caridischo_genre: Reference
 label: Directorio de Afrocubanas
+caridischo_genre: Reference
 claimed_genre: directorio
 link: https://directoriodeafrocubanas.com/
-open_access: 'TRUE'
+access: open
 status: Active
 language: es
 creators: Sandra Alvarez
 stewards:
-blurb: "\r\nThe Directory of Afro-Cubans is a digital tool that collects files on
+blurb: The Directory of Afrocubanas is a digital directory that collects files on
   Afro-descendant Cuban women, who have contributed significantly to national culture
-  and history."
+  and history.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '117'
 layout: caridischo_item
 collection: caridischo

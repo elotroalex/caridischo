@@ -1,20 +1,23 @@
 ---
 pid: cds74
-caridischo_genre: Collections & Curations
 label: Curaçao Nationaal Archief
+caridischo_genre: Digital Libraries
 claimed_genre: een archief
 link: https://www.nationaalarchief.cw/
-open_access: 'TRUE'
+access: open
 status: Active
 language: du
 creators:
 stewards: National Archives of Curaçao
 blurb: A new voyage of discovery ... Search, browse and discover the original sources
   of Curaçao History.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '141'
 layout: caridischo_item
 collection: caridischo

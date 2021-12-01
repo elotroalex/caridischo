@@ -1,10 +1,10 @@
 ---
 pid: cds56
-caridischo_genre: Collections & Curations
 label: Caribbean Diaspora Project
+caridischo_genre: Thematic Curations
 claimed_genre: a Digital Humanities initiative
 link: caribbeandiasporaproject.org
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators: Mirerza González-Vélez, Nadjah Ríos Villarini
@@ -13,10 +13,13 @@ blurb: 'Caribbean Diasporas: Panorama of Carnival Practices is a Digital Humanit
   initiative by The Diaspora Project aiming to revitalize, reuse and recover primary
   and secondary sources, as well as artifacts, all related to carnival practices and
   mobility in the Caribbean.'
+related_to: cds31
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '121'
 layout: caridischo_item
 collection: caridischo

@@ -1,10 +1,10 @@
 ---
 pid: cds42
-caridischo_genre: Collections & Curations
 label: Archivo de Respuestas Emergencias de Puerto Rico (AREPR)
+caridischo_genre: Thematic Curations
 claimed_genre: archivo
 link: http://arepr.org/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en, es
 creators: Christina Boyles
@@ -15,10 +15,13 @@ blurb: Supported by the Andrew W. Mellon Foundation, the Archivo de Respuestas E
   Rico in the wake of both natural and man-made disasters. The project involves collaboration
   between the University of Puerto Rico-Río Piedras, the University of Puerto Rico-Mayagüez,
   Michigan State University, and the Digital Library of the Caribbean.
+related_to: cds31
 added_by: Christina Boyles
 twitter: "@clboyles"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '106'
 layout: caridischo_item
 collection: caridischo

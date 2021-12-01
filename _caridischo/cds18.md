@@ -1,19 +1,22 @@
 ---
 pid: cds18
-caridischo_genre: Collections & Curations
 label: 'Biblioteca Nacional Aruba: Coleccion Digital'
+caridischo_genre: Digital Libraries
 claimed_genre: colección digital
 link: https://archive.org/details/bibliotecanacionalaruba&sort=date
-open_access: 'TRUE'
+access: open
 status: Archived
 language: es
 creators: Biblioteca Nacional Aruba
 stewards: Internet Archive
 blurb: Digital Collection of the Aruba National Library.
+related_to:
 added_by: Alex Gil
 twitter: "@elotroalex"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '080'
 layout: caridischo_item
 collection: caridischo

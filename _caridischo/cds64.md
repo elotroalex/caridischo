@@ -1,10 +1,10 @@
 ---
 pid: cds64
-caridischo_genre: Maps & Visualizations
 label: In the Same Boats
+caridischo_genre: Maps & Visualizations
 claimed_genre: maps
 link: https://sameboats.org/
-open_access: 'TRUE'
+access: open
 status: In Development
 language: en
 creators: Kaiama Glover, Alex Gil
@@ -20,10 +20,13 @@ blurb: 'In the Same Boats is a work of multimodal scholarship designed to encour
   in the same political groups, perhaps even elbow-to-elbow in the same Parisian cafés
   and on the same transatlantic crossings––literally and metaphorically in the same
   boats––as they circulate throughout the Americas, Africa, Europe, and beyond.'
+related_to:
 added_by: Alex Gil
 twitter: "@elotroalex"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '130'
 layout: caridischo_item
 collection: caridischo

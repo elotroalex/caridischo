@@ -1,10 +1,10 @@
 ---
 pid: cds73
-caridischo_genre: Collections & Curations
 label: First Blacks in the Americas
+caridischo_genre: Thematic Curations
 claimed_genre: 'a digital educational platform '
 link: http://firstblacks.org/en/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en, es
 creators: Lisette Acosta, Dominican Studies Institute
@@ -15,10 +15,13 @@ blurb: First Blacks in the Americas is a fully bilingual (English and Spanish) d
   of the Americas of modern times, the society of the colony named La Española (‘The
   Spanish One’) by the Spanish colonizers when they arrived in 1492 and throughout
   the sixteenth-century.
+related_to:
 added_by: Alex Gil
 twitter: "@elotroalex"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '140'
 layout: caridischo_item
 collection: caridischo

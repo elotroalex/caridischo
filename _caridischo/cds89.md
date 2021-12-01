@@ -1,10 +1,10 @@
 ---
 pid: cds89
-caridischo_genre: Collections & Curations
 label: Legacies of British Slave-ownership
+caridischo_genre: Thematic Curations
 claimed_genre: database
 link: https://www.ucl.ac.uk/lbs//
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators: Matthew Smith et al.
@@ -18,10 +18,13 @@ blurb: Colonial slavery shaped modern Britain and we all still live with its leg
   and we hope that the database produced in the first two phases of the project, while
   at present primarily a resource for studying slave-owners, will also provide information
   of value to those researching enslaved people.
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
-notes: "Are we cool with projects by the colonizers?\r\n\U0001F602 "
+census_year: '2020'
+notes: "Are we cool with projects by the colonizers? \n\U0001F602 "
+sub_collections:
+open_data:
 order: '156'
 layout: caridischo_item
 collection: caridischo

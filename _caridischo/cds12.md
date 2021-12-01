@@ -1,20 +1,23 @@
 ---
 pid: cds12
-caridischo_genre: Collections & Curations
 label: Alternative Considerations of Jonestown and Peoples Temple
+caridischo_genre: Thematic Curations
 claimed_genre: a digital humanities project; annotated documents
 link: https://jonestown.sdsu.edu/?page_id=70587
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators: Fielding M. McGehee, Rebecca Moore
 stewards: San Diego State University
 blurb: This website is designed to give personal and scholarly perspectives on a major
   event in the history of religion in America.
+related_to:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '023'
 layout: caridischo_item
 collection: caridischo

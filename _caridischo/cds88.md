@@ -1,10 +1,10 @@
 ---
 pid: cds88
-caridischo_genre: Collections & Curations
 label: Musical Passage
+caridischo_genre: Scholarly Editions
 claimed_genre: exhibit
 link: http://www.musicalpassage.org/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en
 creators: Mary Caton Lingold, David Garner, Laurent Dubois
@@ -21,10 +21,13 @@ blurb: Developed by historian Laurent Dubois, PhD candidate in English Mary Cato
   interpreted here were likely survivors of the Middle Passage who may have been playing
   music they had learned in their homelands. They may also have been in the process
   of creating entirely new performance traditions.
+related_to:
 added_by: Alex Gil
 twitter: "@elotroalex"
-added_year: '2020'
+census_year: '2020'
 notes: Can't copy text from the original site.
+sub_collections:
+open_data:
 order: '155'
 layout: caridischo_item
 collection: caridischo

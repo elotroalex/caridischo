@@ -1,20 +1,23 @@
 ---
 pid: cds68
-caridischo_genre: Collections & Curations
 label: Curaçao | History
+caridischo_genre: Thematic Curations
 claimed_genre: a timeline
 link: https://www.curacaohistory.com/
-open_access: 'TRUE'
+access: open
 status: Stable
 language: en
 creators:
 stewards: Nationaal Archief Curaçao
 blurb: Experience the modern & ancient historic past events, people and governments
   of Curaçao
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '134'
 layout: caridischo_item
 collection: caridischo

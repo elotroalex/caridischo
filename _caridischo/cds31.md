@@ -1,20 +1,23 @@
 ---
 pid: cds31
-caridischo_genre: Collections & Curations
 label: Digital Library of the Caribbean
+caridischo_genre: Digital Libraries
 claimed_genre: digital library
 link: https://www.dloc.com/
-open_access: 'TRUE'
+access: open
 status: Active
 language: en, fr, es, du, ht
 creators: UFL/FIU
 stewards: UFL/FIU
 blurb: The Digital Library of the Caribbean (dLOC) is a cooperative digital library
   for resources from and about the Caribbean and circum-Caribbean.
+related_to:
 added_by: Alex Gil
 twitter: "@elotroalex"
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '094'
 layout: caridischo_item
 collection: caridischo

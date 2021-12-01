@@ -1,20 +1,23 @@
 ---
 pid: cds58
-caridischo_genre: Reference
 label: Ecured
+caridischo_genre: Reference
 claimed_genre: enciclopedia
 link: https://www.ecured.cu/EcuRed
-open_access: 'TRUE'
+access: open
 status: Stable
 language: es
 creators: Martín Campos, Javier
 stewards:
 blurb: Collaborative encyclopedia on the Cuban network, in Spanish, born from the
   will to create and disseminate knowledge, with everyone and for everyone.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '123'
 layout: caridischo_item
 collection: caridischo

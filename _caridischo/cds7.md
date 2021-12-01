@@ -1,10 +1,10 @@
 ---
 pid: cds7
-caridischo_genre: Collections & Curations
 label: Banjology
+caridischo_genre: Cabinet of Wonders
 claimed_genre: showcase
 link: https://sites.duke.edu/banjology/the-banjo-in-haiti/
-open_access: 'TRUE'
+access: open
 status: Stable
 language: en
 creators: Laurent Dubois  David Garner  Mary Caton Lingold
@@ -16,10 +16,13 @@ blurb: The banjo has a rich history in the Caribbean, the region where we first 
   in this region, from the 1680s, and those from North America, which are from the
   late 1730s. Here, we offer a few avenues for understanding the fascinating history
   of the banjo in the Caribbean.
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '136'
 layout: caridischo_item
 collection: caridischo

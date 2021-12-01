@@ -1,10 +1,10 @@
 ---
 pid: cds17
-caridischo_genre: Collections & Curations
 label: Banque Numérique des Patrimoines Martiniquais
+caridischo_genre: Digital Libraries
 claimed_genre: banque numérique
 link: https://www.patrimoines-martinique.org/
-open_access: 'TRUE'
+access: open
 status: Active
 language: fr
 creators:
@@ -13,10 +13,13 @@ blurb: Initiated by the former General Council of Martinique, the Banque Numéri
   des Patrimoines Martiniquais is an access portal to documentary resources on the
   cultural and historical heritage of Martinique backed by the geographic information
   system of Martinique (SIGMA).
+related_to:
 added_by:
 twitter:
-added_year: '2020'
+census_year: '2020'
 notes:
+sub_collections:
+open_data:
 order: '078'
 layout: caridischo_item
 collection: caridischo

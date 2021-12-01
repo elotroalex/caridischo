@@ -10,6 +10,23 @@ We are now experiencing a new, intense round of (re-)production of that past in 
 
 ---
 
+Navigate to...
+
+* TOC
+{:toc}
+
+---
+
+### Digital Libraries
+
 In no particular order...
 
-{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Collections & Curations' %}
+{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Digital Libraries' %}
+
+### Thematic Curations
+
+{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Thematic Curations' %}
+
+### Scholarly Editions
+
+{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Scholarly Editions' %}
