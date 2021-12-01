@@ -7,7 +7,7 @@ collection: caridischo
 
 ### Leaguesourcing
 
-Our first data set was compiled during one of the out-of-synch events that defined [The Caribbean Digital VII](http://caribbeandigitalnyc.net/2020/directory/) conference. We shared a "[Data Sheet](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit#gid=0)" on Google docs with our colleagues on social media and on our site. Soon after many joined us adding their own projects or the projects they knew about. You can find [the original data set used in CariDiScho 2020](https://github.com/elotroalex/caridischo/blob/main/_data/2020.csv) on GitHub.
+Our first data set was compiled during one of the out-of-synch events that defined [The Caribbean Digital VII](http://caribbeandigitalnyc.net/2020/directory/) conference. We shared a "[Data Sheet](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit#gid=1461016146)" on Google Sheets with our colleagues on social media and on our site. Soon after many joined us adding their own projects or the projects they knew about. You can find [the original data set used in CariDiScho 2020](https://github.com/elotroalex/caridischo/blob/main/_data/2020.csv) on GitHub.
 
 In 2021, we received more entries. Since we know most---if not all---of the contributors to the sheet, perhaps it's more appropriate to call our method of data-gathering leaguesourcing.Akin to a census, this directory therefore is a snapshot of our record up to the end of 2021.
 
