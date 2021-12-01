@@ -19,14 +19,28 @@ Navigate to...
 
 ### Digital Libraries
 
+Larger digital libraries can be distinguished by the fact that they themselves hold many collections within them. They abide by a larger thematic gravity, be it the nations and territories of the Caribbean, or the region as a whole as the case of the Digital Library of the Caribbean.
+
 In no particular order...
 
 {% include subset_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Digital Libraries' %}
 
+---
+
 ### Thematic Curations
+
+Not the cup of tea of surrealists, but very useful to the rest of us, thematic curatorial exercises respond to the nature of the broken documentary record. Themes---an author's work, evidence from a historic episode, and so on---are often found scattered across many libraries, or co-existing with others in a larger library. These are often accompanied by narratives in the form of exhibits, and increasingly explore the possibilities of the medium by adding visual, interactive browsing mechanisms. We find these curations in and outside our universities, produced by researchers, students, librarians, communities, and vendors---divsion of labor be damned. They are also the most common genre in the Caribbean Digital, and testify to the cultural richness of our Caribbean pasts.
+
+In no particular order...
 
 {% include subset_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Thematic Curations' %}
 
+---
+
 ### Scholarly Editions
+
+Not all editions are made the same, and by extension, not all collections of documents. We give pride of place to the curatorial work that enriches our literary and historical documents with scholarly research, and gives due attention to the materiality of our documentary record. The call to care for the cultural and historical documents that tell the stories of our brutal colonization, resistance, life, justice and freedom is particularly poignant for our communities. We believe, following the lead of Kim Gallon's "[Making a Case for the Black Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb)," that the "technologies of recovery" are central to the Caribbean Digital as well, and in this scholarly genre we find some of its most promising avenues.
+
+In no particular order...
 
 {% include subset_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Scholarly Editions' %}
