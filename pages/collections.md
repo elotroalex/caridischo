@@ -21,12 +21,12 @@ Navigate to...
 
 In no particular order...
 
-{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Digital Libraries' %}
+{% include subset_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Digital Libraries' %}
 
 ### Thematic Curations
 
-{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Thematic Curations' %}
+{% include subset_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Thematic Curations' %}
 
 ### Scholarly Editions
 
-{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Scholarly Editions' %}
+{% include subset_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Scholarly Editions' %}
