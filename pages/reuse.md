@@ -7,9 +7,11 @@ collection: caridischo
 
 ### Leaguesourcing
 
-All of our entries were compiled during one of the out-of-synch events that defined [The Caribbean Digital VII](http://caribbeandigitalnyc.net/2020/directory/) conference. We shared a "[Data Sheet](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit#gid=0)" on Google docs with our colleagues on social media and on our site. Soon after many joined us adding their own projects or the projects they knew about. Since we know most---if not all---of the contributors to the sheet, perhaps it's more appropriate to call our method of data-gathering leaguesourcing.
+Our first data set was compiled during one of the out-of-synch events that defined [The Caribbean Digital VII](http://caribbeandigitalnyc.net/2020/directory/) conference. We shared a "[Data Sheet](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit#gid=0)" on Google docs with our colleagues on social media and on our site. Soon after many joined us adding their own projects or the projects they knew about. You can find [the original data set used in CariDiScho 2020](https://github.com/elotroalex/caridischo/blob/main/_data/2020.csv) on GitHub.
 
-We are certainly not the first to compile a similar list. Here are some other useful attempts, that in turn served as sources for CariDiScho2020:
+In 2021, we received more entries. Since we know most---if not all---of the contributors to the sheet, perhaps it's more appropriate to call our method of data-gathering leaguesourcing.Akin to a census, this directory therefore is a snapshot of our record up to the end of 2021.
+
+We are certainly not the first to compile a similar list. Here are some other useful attempts, that in turn served as sources for CariDiScho:
 
 - "[Black Digital Humanities Projects & Resources](https://docs.google.com/document/d/1rZwucjyAAR7QiEZl238_hhRPXo5-UKXt2_KCrwPZkiQ/edit#heading=h.lfar8xoosxqv)" by [Colored Conventions](https://twitter.com/CCP_org)
 - This [Twitter thread](https://twitter.com/jmjafrx/status/1285202367605022720) by Jessica Marie Johnson
@@ -19,10 +21,9 @@ We are certainly not the first to compile a similar list. Here are some other us
 - "[Jamaica: Online sources for research in arts, history, and culture](https://crln.acrl.org/index.php/crlnews/article/view/9496/10780)"
 - [DLOC Search Results for Digital Humanities](https://dloc.com/results/?t=digital%20humanities)
 - "[Indotel Bibliotecas Virtuales](http://cti.indotel.gob.do/bibliotecas-virtuales/)"
+- The Links section on the [Haiti Lab](https://sites.duke.edu/haitilab/)
 - and the [LACLI](https://salalm.org/lane/lacli/) directory.
-
-
-Ten days before the event, Soraya Limare and Alex Gil started curating, adding to and refining the data that was available. Akin to a census, this directory therefore is a snapshot of our record up to the end of 2020---the last week of November, 2020, to be precise. 
+ 
 
 ### Reuse the Data
 

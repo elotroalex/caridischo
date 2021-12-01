@@ -6,11 +6,17 @@ permalink: '/credits/'
 
 ### The Data Sheet
 
-Many colleagues, students and friends contributed to our data sheet. Here's credit where credit is due, in order of number of contributions:
+Many colleagues, students and friends contributed to our data sheet. Here's credit where credit is due, in order of number of contributions by year:
+
+#### 2020
 
 [Roopika Risam](https://twitter.com/roopikarisam), with an award-winning 42 contributions---slow clap; [Alex Gil](https://twitter.com/elotroalex), [Kaiama L. Glover](https://twitter.com/inthewhirld), [Amalia S. Levi](https://twitter.com/amaliasl) and [Schuyler Esprit](https://twitter.com/schuyleresprit) with several entries; [Kaneesha Parsard](https://twitter.com/kaneeshaparsard), [Perry Collins](https://twitter.com/perrycollins), [Tao Leigh Goffe](https://twitter.com/taoleighgoffe) and [Stephanie Curci](https://twitter.com/stephcurci) with a couple of great entries; and, tapering off to the very much appreciated in-and-out, [Adrian Wisnicki](https://twitter.com/AdrianWisnicki), [Ellen Fernandez-Sacco](https://twitter.com/efsacco), [Greg Pierrot](https://twitter.com/wwjjddo), [S. Max Edelson](https://twitter.com/maxedelson), [Melissa Jerome](https://twitter.com/mmespino20), [Nadine Zubair](https://twitter.com/NadineZubair), [Mary Borgo Ton](https://twitter.com/maryeborgo), [Winnie Pérez Martínez](https://twitter.com/_wepm), [Christina Boyles](https://twitter.com/clboyles), [Ariana Hernandez-Reguant](https://twitter.com/ArturoVictoria4), [Joshua Ortiz Baco](https://twitter.com/jgob), Laura Wagner, Arturo Victoriano, Emilie Boone and Liberty Martin.
 
 Once the data was in, an enormous amount of labor fell on Soraya Limare to clean up the data, provide screenshots where there were none, and add missing data.
+
+#### 2021
+
+This year's cake is shared between [Kelly Baker Josephs](https://twitter.com/kbjosephs) with 8 new entries, and [Alex Gil](](https://twitter.com/elotroalex) with 9. Shout-outs to [Gaiutra Bahadur](https://twitter.com/gbahadur), [Margarita Vargas-Betancourt](https://twitter.com/ArchivistVargas), [Hadassah St. Hubert](https://twitter.com/Dr_Saint_Herard) and [Katerina Gonzalez Seligmann](https://twitter.com/malamanuense) for their contributions.
 
 
 ### The Site

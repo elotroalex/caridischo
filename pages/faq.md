@@ -14,13 +14,13 @@ Sure. How about... The digital archives we use and produce for our research, and
 
 ### Why is my project not here?
 
-This directory was compiled over a period of over a month by a [group of our colleagues]({{ '/credits/' | absolute_url}})---librarians and scholars. These colleagues heard about the directory through social media networks and word of mouth. We did our best to promote the collection of data in order to make sure that most of us knew we were building a directory. We don't know why your project is not here.
+This directory is sourced froom a [group of our colleagues]({{ '/credits/' | absolute_url}})---librarians and scholars. These colleagues have  heard about the directory through social media networks and word of mouth. We did our best to promote the collection of data in order to make sure that most of us knew we were building this directory. We don't know why your project is not here.
 
 ### So... how do I add my project?
 
 The website for this directory was built as a static site by design. It is meant to be a snapshot, a census, not a platform. We decided to do this because of [our gravitation towards minimal computing practices](https://web.archive.org/web/20200326054116/https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/), but also because of the history of project directories in the larger world of digital humanities. Simply put, we're dealing here with Walter Benjamin's angel of history: nothing but disaster has befallen most previous attempts at building these comprehensive, exhaustive, always-open-for-business databases of projects. 
 
-Do not despair, though. We are keeping [our original data sheet on Google docs](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit#gid=0) open and available to everyone. You can share your project there! A new column was added that asks for the year a new entry was added. Make sure to use it. We have discussed building a new directory a few years from now, for a future Caribbean Digital conference. Who knows... perhaps we're starting a tradition.
+Do not despair, though. We are keeping [an active data sheet on Google docs](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit#gid=0) open and available to everyone. You can share your project there! A new column was added that asks for the year a new entry was added. Make sure to use it. We've decided to refresh the pretty web version of the directory this year, but we're not commiting to doing it every year. The data sheet above can always serve as the on-time bibliography if we stop.
 
 ### I found a serious error in your data. Who do I talk to?
 
