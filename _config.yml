@@ -18,21 +18,21 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'CariDiScho2020'
-description:      'A Directory of Caribbean Digital Scholarship'
-url:              ''
-baseurl:          '/caridischo'
-copyright:        'CC-BY 4.0 International'
-logo:             '/img/logo.png'
+title: "CariDiScho2020"
+description: "A Directory of Caribbean Digital Scholarship"
+url: ""
+baseurl: "/caridischo"
+copyright: "CC-BY 4.0 International"
+logo: "/img/logo.png"
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
 
-permalink:        'pretty'
+permalink: "pretty"
 sass:
-    style: compressed
+  style: compressed
 exclude:
   - Gemfile*
   - Rakefile
@@ -43,8 +43,7 @@ exclude:
   - package.json
 webrick:
   headers:
-    'Access-Control-Allow-Origin': '*'
-
+    "Access-Control-Allow-Origin": "*"
 
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
@@ -60,12 +59,18 @@ collections:
     output: true
   caridischo: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'caridischo_item' # the layout for the pages to use
+    layout: "caridischo_item" # the layout for the pages to use
     metadata:
-      source: 'caridischo.csv' # path to the metadata file within `_data`
+      source: "caridischo.csv" # path to the metadata file within `_data`
     images:
-      source: 'raw_images/caridischo' # path to the directory of images within `_data`
-
+      source: "raw_images/caridischo" # path to the directory of images within `_data`
+  test: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "test" # the layout for the pages to use
+    metadata:
+      source: "test.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/test" # path to the directory of images within `_data`
 # --------------------------------------------------------------
 # LUNR SEARCH INDEX SETTINGS
 # --------------------------------------------------------------
@@ -78,7 +83,7 @@ collections:
 
 search:
   main:
-    index: '/search/index.json' # file the index will get written to
+    index: "/search/index.json" # file the index will get written to
     collections:
       caridischo:
         content: false # whether or not to index page content
@@ -99,30 +104,28 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Browse'
-    sub:     
-      - label: 'Collections & Curations'
-        link: '/collections/'
-      - label: 'Maps & Visualizations'
-        link: '/visualizations/'
-      - label: 'Publications & Blogs'
-        link: '/publications/'
-      - label: 'Reference Works'
-        link: '/reference/'
-      - label: 'Cabinet of Wonders'
-        link: '/wonders/'
-  - label: 'Search'
-    link: '/search/'
-  - label: 'About'
+  - label: "Browse"
     sub:
-      - label: 'Sources'
-        link: '/reuse/'      
-      - label: 'Credits'
-        link: '/credits/'
-      - label: 'FAQ'
-        link: '/faq/'
-
-
+      - label: "Collections & Curations"
+        link: "/collections/"
+      - label: "Maps & Visualizations"
+        link: "/visualizations/"
+      - label: "Publications & Blogs"
+        link: "/publications/"
+      - label: "Reference Works"
+        link: "/reference/"
+      - label: "Cabinet of Wonders"
+        link: "/wonders/"
+  - label: "Search"
+    link: "/search/"
+  - label: "About"
+    sub:
+      - label: "Sources"
+        link: "/reuse/"
+      - label: "Credits"
+        link: "/credits/"
+      - label: "FAQ"
+        link: "/faq/"
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -131,13 +134,12 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/elotroalex/caridischo'
-    - label: 'Contact'
-      link: 'mailto:agil@columbia.edu'
+    - label: "GitHub"
+      link: "https://github.com/elotroalex/caridischo"
+    - label: "Contact"
+      link: "mailto:agil@columbia.edu"
   logos:
-    - img: '/img/logo.png'
-    - img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2r40VYrf2Q5jkJiPGjPkl7xZoHJliwgVtHCLVXmAsRKw0ZudD'
-      link: 'https://library.columbia.edu'
-
+    - img: "/img/logo.png"
+    - img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2r40VYrf2Q5jkJiPGjPkl7xZoHJliwgVtHCLVXmAsRKw0ZudD"
+      link: "https://library.columbia.edu"
 # FIN

@@ -24,7 +24,25 @@
             </a>
           {%- endcapture -%}
         {% endif %}
+
       {% endif %}
+      {% if item.value == 'page.related_to' %}
+      {% assign words = value | split: ', ' %}
+      {%- capture value -%}
+        {% for i in words %}
+        {%- capture title -%}
+            {% for p in site.caridischo %} 
+            {% if p.pid == i %} 
+            <a href="{{site.baseurl}}/caridischo/{{i}}/">
+              {{ p.label }}
+            </a><br>
+            {% endif %} 
+            {% endfor %}
+        {%- endcapture -%}
+        {{title}}
+        {% endfor %}
+      {%- endcapture -%}      
+    {% endif %}
         <dt>{{ item.label }}</dt>
         <dd>{{ value | strip }}</dd>
     {% endif %}
