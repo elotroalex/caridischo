@@ -19,7 +19,7 @@ We are certainly not the first to compile a similar list. Here are some other us
 - This crowdsourced list of "[Latin American, Caribbean, \[and Latinx\] Digital Humanities Projects & Resources](https://docs.google.com/document/d/1JE5s77JETxUC6Qx_ZOd7aiRxfr2WBPNDweTemJGcYT8/edit#heading=h.epa9pw1nzaoj)"
 - This fantastic "database": "[Caribbean Digital : Media + Arts + Culture Projects](https://docs.google.com/spreadsheets/d/1_v7LmyvN7Xwgev0Fqhs22gzUxraB5sZoZ9amF8G2cxE/edit#gid=0)" created by Annis R. Sands
 - "[Jamaica: Online sources for research in arts, history, and culture](https://crln.acrl.org/index.php/crlnews/article/view/9496/10780)"
-- [DLOC Search Results for Digital Humanities](https://dloc.com/results/?t=digital%20humanities)
+- [DLOC Search Results for Digital Humanities](https://dloc.com/results?q=Digital+Humanities)
 - "[Indotel Bibliotecas Virtuales](http://cti.indotel.gob.do/bibliotecas-virtuales/)"
 - The Links section on the [Haiti Lab](https://sites.duke.edu/haitilab/)
 - and the [LACLI](https://salalm.org/lane/lacli/) directory.

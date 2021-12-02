@@ -12,4 +12,4 @@ No wonder then that we end up with constructs that defy easy classification. A D
 
 In no particular order...
 
-{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Cabinet of Wonders' %}
+{% include collection_gallery.html  collection='main' facet_by='caridischo_genre' only='Cabinet of Wonders' %}

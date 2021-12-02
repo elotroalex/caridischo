@@ -23,7 +23,7 @@ Larger digital libraries can be distinguished by the fact that they themselves h
 
 In no particular order...
 
-{% include subset_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Digital Libraries' %}
+{% include subset_gallery.html  collection='main' facet_by='caridischo_genre' only='Digital Libraries' %}
 
 ---
 
@@ -33,7 +33,7 @@ Not the cup of tea of surrealists, but very useful to the rest of us, thematic c
 
 In no particular order...
 
-{% include subset_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Thematic Curations' %}
+{% include subset_gallery.html  collection='main' facet_by='caridischo_genre' only='Thematic Curations' %}
 
 ---
 
@@ -43,4 +43,4 @@ Not all editions are made the same, and by extension, not all collections of doc
 
 In no particular order...
 
-{% include subset_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Scholarly Editions' %}
+{% include subset_gallery.html  collection='main' facet_by='caridischo_genre' only='Scholarly Editions' %}

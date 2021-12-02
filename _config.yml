@@ -58,7 +58,7 @@ webrick:
 collections:
   exhibits:
     output: true
-  caridischo: # name of collection
+  main: # name of collection
     output: true # makes sure pages are output as html files
     layout: "caridischo_item" # the layout for the pages to use
     metadata:
@@ -86,7 +86,7 @@ search:
   main:
     index: "/search/index.json" # file the index will get written to
     collections:
-      caridischo:
+      main:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - label

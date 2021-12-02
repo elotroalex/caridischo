@@ -12,4 +12,4 @@ And yet... these war machines, these eyes, can and have been used by those who r
 
 In no particular order... 
 
-{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Maps & Visualizations' %}
+{% include collection_gallery.html  collection='main' facet_by='caridischo_genre' only='Maps & Visualizations' %}

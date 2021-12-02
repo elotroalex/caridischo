@@ -14,4 +14,4 @@ Included in this list is *Arc*, the beloved art magazine that is no longer activ
 
 In no particular order...
 
-{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Publications & Blogs' %}
+{% include collection_gallery.html  collection='main' facet_by='caridischo_genre' only='Publications & Blogs' %}
