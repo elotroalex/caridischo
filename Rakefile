@@ -13,7 +13,9 @@ namespace :wax do
       disable_external: false,
       empty_alt_ignore: true,
       only_4xx: true,
-      verbose: true
+      verbose: true,
+      # FALSE POSITIVES LIST
+      url_ignore: ["https://dloc.com/collections/ibsrp", "https://dloc.com/collections/icirngfm", "https://dloc.com/results?q=Digital+Humanities"]
     }
     HTMLProofer.check_directory('./_site', opts).run
     system('bundle exec rspec') if File.exist?('.rspec')
