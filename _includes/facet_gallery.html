@@ -80,21 +80,19 @@
         
         <fieldset id="language-set" class="card ml-2 facet-card">
             <div class="facet-header">
-                <a class="facet-bn" data-toggle="collapse" href="#{{item | slugify }}-collapse" role="button" aria-expanded="false" aria-controls="{{item | slugify }}-collapse">
+                <a class="facet-bn" data-toggle="collapse" href="#language-collapse" role="button" aria-expanded="false" aria-controls="language-collapse">
                     <legend>
-                        {{item | replace: "_", " "}}
+                        language                        
                         <span aria-hidden="true" class="facets-chevron facets-chevron-bottom float-right ml-2"></span>
                     </legend>
-                </a>
-                {% assign options = subset | map: item | compact | uniq | sort_natural
-            %}
+                </a>               
             </div>
-            <div class="collapse" id="{{item | slugify }}-collapse">
+            <div class="collapse" id="language-collapse">
                 <div class="card-body">
-                    {% for option in options %}
+                    {% for language in languages %}
                         <div class="facet-item">
-                            <input id="{{option | slugify}}" class="{{item | slugify}}" type="checkbox" name="{{option}}" value="{{option}}"/>
-                            <label for="{{option}}">{{option}}</label>
+                            <input id="{{language | slugify}}" class="{{item | slugify}}" type="checkbox" name="{{language}}" value="{{language}}"/>
+                            <label for="{{language}}">{{language}}</label>
                         </div>
                     {% endfor %}
                 </div>
