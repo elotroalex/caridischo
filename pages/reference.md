@@ -14,4 +14,4 @@ In no particular order...
 
 {% comment %}{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Reference' %}{% endcomment %}
 
-{% include facet_gallery.html collection='main' field='caridischo_genre' value='Reference' facet_by='access|status' %}
+{% include facet_gallery.html collection='main' field='caridischo_genre' value='Reference' facet_by='language|status' %}

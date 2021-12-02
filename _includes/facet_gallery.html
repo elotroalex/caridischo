@@ -5,8 +5,102 @@
     {% assign subset = site[include.collection] | where: include.field, include.value | sort: 'order' %}
     {% assign facet_list = include.facet_by | split: "|" %}
 
+<!-- TEST -->
+<h3>TEST</h3>
+{% for item in facet_list %}
+    {% if item == "language" %}
+    {% assign original_options = subset | map: item | compact | uniq | sort_natural %}
+    {% assign temp_languages_list = "" %}
+    {% for option in original_options %}
+        {% unless option contains "," %}
+        {% capture temp_languages_list %}{{ temp_languages_list | append: option}}|{% endcapture %}
+        {% endunless %}
+    {% endfor %}
+    {% for option in original_options %}
+        {% if option contains "," %}
+        {% assign lang_list = {{option}} | split: "," %}
+        {% for l in lang_list %}
+            {% capture temp_languages_list %}{{ temp_languages_list | append: l}}|{% endcapture %}
+        {% endfor %}
+        {% else  %}
+        {% endif %}
+    {% endfor %}
+
+    {% capture temp_languages_list%}{{ temp_languages_list | remove: " "}}{% endcapture %}
+    {% assign languages = temp_languages_list | split: "|" | uniq %}
+
+<p>My temp array: </p>
+
+<h4>Deduped List</h4>
+<ul>
+    {% for language in languages %}
+    <li>{{language}}</li>
+    {% endfor %}
+</ul> 
+
+<h4>Original List</h4>
+<ul>
+    {% for option in original_options %}
+    <li>{{option}}</li>
+    {% endfor %}
+</ul> 
+    {% else %}
+    {% endif %}
+
+{% endfor %}
+
+<!-- END-TEST -->
+
 <form class="row" id="facets">
     {% for item in facet_list %}
+        {% comment%}Handle Language Category{% endcomment %}
+        {% if item == "language" %}
+        {% comment%}Create Array of Unique Languages{% endcomment %}
+        {% assign original_options = subset | map: item | compact | uniq | sort_natural %}
+        {% assign temp_languages_list = "" %}
+        {% for option in original_options %}
+            {% unless option contains "," %}
+            {% capture temp_languages_list %}{{ temp_languages_list | append: option}}|{% endcapture %}
+            {% endunless %}
+        {% endfor %}
+        {% for option in original_options %}
+            {% if option contains "," %}
+            {% assign lang_list = {{option}} | split: "," %}
+            {% for l in lang_list %}
+                {% capture temp_languages_list %}{{ temp_languages_list | append: l}}|{% endcapture %}
+            {% endfor %}
+            {% else  %}
+            {% endif %}
+        {% endfor %}
+    
+        {% capture temp_languages_list%}{{ temp_languages_list | remove: " "}}{% endcapture %}
+        {% assign languages = temp_languages_list | split: "|" | uniq %}
+
+        {% comment%}Populate FieldSet with unique languages{% endcomment %}
+        
+        <fieldset id="language-set" class="card ml-2 facet-card">
+            <div class="facet-header">
+                <a class="facet-bn" data-toggle="collapse" href="#language-collapse" role="button" aria-expanded="false" aria-controls="language-collapse">
+                    <legend>
+                        <span aria-hidden="true" class="facets-chevron facets-chevron-bottom float-right ml-2"></span>
+                    </legend>
+                </a>
+                {% assign options = subset | map: item | compact | uniq | sort_natural
+            %}
+            </div>
+            <div class="collapse" id="language-collapse">
+                <div class="card-body">
+                    {% for option in options %}
+                        <div class="facet-item">
+                            <input id="{{option | slugify}}" class="{{item | slugify}}" type="checkbox" name="{{option}}" value="{{option}}"/>
+                            <label for="{{option}}">{{option}}</label>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </fieldset>
+
+        {% else %}
         <fieldset id="{{item | slugify}}-set" class="card ml-2 facet-card">
             <div class="facet-header">
                 <a class="facet-bn" data-toggle="collapse" href="#{{item | slugify }}-collapse" role="button" aria-expanded="false" aria-controls="{{item | slugify }}-collapse">
@@ -29,6 +123,7 @@
                 </div>
             </div>
         </fieldset>
+        {% endif %}
     {% endfor %}
 </form>
 
