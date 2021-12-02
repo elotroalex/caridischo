@@ -1,0 +1,101 @@
+
+{% assign min_column_width = 1 %}
+
+{% if include.facet_by and include.collection %}
+    {% assign subset = site[include.collection] | where: include.field, include.value | sort: 'order' %}
+    {% assign facet_list = include.facet_by | split: "|" %}
+
+<form class="row" id="facets">
+    {% for item in facet_list %}
+        <fieldset id="{{item | slugify}}-set" class="card ml-2 facet-card">
+            <div class="facet-header">
+                <a class="facet-bn" data-toggle="collapse" href="#{{item | slugify }}-collapse" role="button" aria-expanded="false" aria-controls="{{item | slugify }}-collapse">
+                    <legend>
+                        {{item | replace: "_", " "}}
+                        <span aria-hidden="true" class="facets-chevron facets-chevron-bottom float-right ml-2"></span>
+                    </legend>
+                </a>
+                {% assign options = subset | map: item | compact | uniq | sort_natural
+            %}
+            </div>
+            <div class="collapse" id="{{item | slugify }}-collapse">
+                <div class="card-body">
+                    {% for option in options %}
+                        <div class="facet-item">
+                            <input id="{{option | slugify}}" class="{{item | slugify}}" type="checkbox" name="{{option}}" value="{{option}}"/>
+                            <label for="{{option}}">{{option}}</label>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </fieldset>
+    {% endfor %}
+</form>
+
+<!-- Build the gallery by iterating through items in the collection. If there are
+          facets specified, fine the items' values for those fields and add them as
+          classes to the gallery-item object. The classes are used by JavaScript
+          that reacts to changes to the checkbox filters. -->
+
+<div class="wax-gallery-container full-width" id="wax-gallery-{{ include.value | downcase | replace: ' ', '-' }}-container">
+    <div class="wax-inline-container">
+        <div class="wax-gallery" id="wax-gallery-{{ include.value | downcase | replace: ' ', '-' }}">
+            <div class="row">
+                {% for item in subset %}
+                    {% assign newClasses = '' | split: ' ' %}
+                    {% for fieldSet in facet_list %}
+                        {% assign itemFieldValue = item[fieldSet] %}
+                        {% if itemFieldValue.first %}
+                            {% assign fieldSetArray = '' | split: ' ' %}
+                            {% for val in itemFieldValue %}
+                                {% assign slugVal = val | slugify | split: ' ' %}
+                                {% assign fieldSetArray = fieldSetArray | concat: slugVal %}
+                            {% endfor %}
+                        {% else %}
+                            {% assign fieldSetArray = itemFieldValue | slugify | split: ' ' %}
+                        {% endif %}
+                        {% assign newClasses = newClasses | concat: fieldSetArray %}
+                    {% endfor %}
+                    <div class="gallery-item-facets {{  newClasses | join: ' ' }}">
+                        <a href='{{ item.url | absolute_url }}'>
+                            <div class='hovereffect'>
+                                <img class='img-responsive gallery-wide-thumb' src='{{site.baseurl}}/img/derivatives/simple/{{ item.pid }}/fullwidth.jpg'/>
+                                <div class='overlay'>
+                                    <p class='info'>{{ item.label }}</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        console.log({{ facet_list | jsonify }})
+        // liquid array of one or more fields for facetting
+        // This JavaScript controls the expanding and contracting facet headers.
+        // Additional JS for this page in assets/js/facets.js
+        $(".facet-bn[aria-expanded]").click(function (event) {
+            $(this)
+                .parent()
+                .parent()
+                .toggleClass("active");
+            // this selector might return multiple elements
+            $(this)
+                .children("legend")
+                .children(".facets-chevron")
+                .toggleClass("facets-chevron-bottom facets-chevron-top");
+        });
+    });
+</script>
+
+{% else %}
+<p style="color: red">
+    Check your code. You didn't specify what to face by.
+    <code>include</code>
+    command.
+</p>
+
+{% endif %} 
