@@ -1,8 +1,8 @@
 ---
 pid: cds54
 label: Digital Grainger
-caridischo_genre: Collections & Curations
-subgenre: Scholarly Editions
+section: Collections & Curations
+genre: Scholarly Editions
 claimed_genre: an online edition
 link: http://caribbeandigitalnyc.net/2020/
 access: open

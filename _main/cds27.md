@@ -1,8 +1,8 @@
 ---
 pid: cds27
 label: The Barbadian
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: digitization
 link: https://eap.bl.uk/project/EAP1251
 access: open

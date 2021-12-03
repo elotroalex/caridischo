@@ -1,8 +1,8 @@
 ---
 pid: cds47
 label: Digital Archeological Archive of Comparative Slavery
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: digital archeological archive
 link: https://www.daacs.org
 access: open

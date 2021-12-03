@@ -1,8 +1,8 @@
 ---
 pid: cds64
 label: In the Same Boats
-caridischo_genre: Maps & Visualizations
-subgenre: Maps
+section: Maps & Visualizations
+genre: Maps
 claimed_genre: maps
 link: https://sameboats.org/
 access: open

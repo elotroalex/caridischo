@@ -1,8 +1,8 @@
 ---
 pid: cds3
 label: 'AImé Césaire: Open Blibiography on Zotero'
-caridischo_genre: Reference
-subgenre: Bibliographies
+section: Reference
+genre: Bibliographies
 claimed_genre: a bibliography
 link: https://www.zotero.org/groups/232193/aime_cesaire/library
 access: open

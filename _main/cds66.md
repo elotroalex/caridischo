@@ -1,8 +1,8 @@
 ---
 pid: cds66
 label: Île en île
-caridischo_genre: Reference
-subgenre: Encyclopedias
+section: Reference
+genre: Encyclopedias
 claimed_genre: a website
 link: http://ile-en-ile.org/
 access: open

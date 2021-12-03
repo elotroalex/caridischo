@@ -1,8 +1,8 @@
 ---
 pid: cds52
 label: Directorio de Afrocubanas
-caridischo_genre: Reference
-subgenre: Encyclopedias
+section: Reference
+genre: Encyclopedias
 claimed_genre: directorio
 link: https://directoriodeafrocubanas.com/
 access: open

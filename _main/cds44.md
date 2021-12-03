@@ -1,8 +1,8 @@
 ---
 pid: cds44
 label: Cuban Heritage Connection
-caridischo_genre: Collections & Curations
-subgenre: Digital Libraries
+section: Collections & Curations
+genre: Digital Libraries
 claimed_genre: digital collections
 link: https://merrick.library.miami.edu/digitalprojects/chc.php
 access: open

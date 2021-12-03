@@ -1,8 +1,8 @@
 ---
 pid: cds45
 label: Cuba Counterpoints
-caridischo_genre: Publications & Blogs
-subgenre: Journals
+section: Publications & Blogs
+genre: Journals
 claimed_genre: a journal
 link: http://cubacounterpoints.com/
 access: open

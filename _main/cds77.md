@@ -1,8 +1,8 @@
 ---
 pid: cds77
 label: George Padmore Institute Archive
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: archive
 link: https://www.georgepadmoreinstitute.org/
 access: private

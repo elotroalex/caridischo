@@ -1,8 +1,8 @@
 ---
 pid: cds69
 label: Freedom to Believe
-caridischo_genre: Cabinet of Wonders
-subgenre: Sui Generis
+section: Cabinet of Wonders
+genre: Sui Generis
 claimed_genre: project
 link: https://www.freedomtobelieve.info/
 access: open

@@ -1,8 +1,8 @@
 ---
 pid: cds42
 label: Archivo de Respuestas Emergencias de Puerto Rico (AREPR)
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: archivo
 link: http://arepr.org/
 access: open

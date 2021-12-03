@@ -1,8 +1,8 @@
 ---
 pid: cds87
 label: Mapping Marronage
-caridischo_genre: Maps & Visualizations
-subgenre: Maps
+section: Maps & Visualizations
+genre: Maps
 claimed_genre: maps
 link: http://mapping-marronage.rll.lsa.umich.edu/
 access: open

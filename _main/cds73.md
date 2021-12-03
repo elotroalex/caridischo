@@ -1,8 +1,8 @@
 ---
 pid: cds73
 label: First Blacks in the Americas
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: 'a digital educational platform '
 link: http://firstblacks.org/en/
 access: open

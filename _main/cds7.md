@@ -1,8 +1,8 @@
 ---
 pid: cds7
 label: Banjology
-caridischo_genre: Cabinet of Wonders
-subgenre: Sui Generis
+section: Cabinet of Wonders
+genre: Sui Generis
 claimed_genre: showcase
 link: https://sites.duke.edu/banjology/the-banjo-in-haiti/
 access: open

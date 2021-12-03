@@ -1,8 +1,8 @@
 ---
 pid: cds83
 label: Haiti and the Atlantic World
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: website
 link: https://haitidoi.com/
 access: open

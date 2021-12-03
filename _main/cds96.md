@@ -1,8 +1,8 @@
 ---
 pid: cds96
 label: 'Imagined Homeland: Dominica''s Literary Geographies'
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a project
 link: https://dominicadh.org/homeland/
 access: open

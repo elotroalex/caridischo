@@ -1,8 +1,8 @@
 ---
 pid: cds75
 label: Indian Indenture
-caridischo_genre: Maps & Visualizations
-subgenre: Maps
+section: Maps & Visualizations
+genre: Maps
 claimed_genre: map
 link: https://indianindenture.wordpress.com/
 access: open

@@ -1,8 +1,8 @@
 ---
 pid: cds1
 label: archipelagos journal
-caridischo_genre: Publications & Blogs
-subgenre: Journals
+section: Publications & Blogs
+genre: Journals
 claimed_genre: an academic journal
 link: http://archipelagosjournal.org/
 access: open

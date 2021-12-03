@@ -1,8 +1,8 @@
 ---
 pid: cds13
 label: A Colony in Crisis
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a curation and translations
 link: https://colonyincrisis.lib.umd.edu
 access: open

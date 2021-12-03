@@ -1,8 +1,8 @@
 ---
 pid: cds2
 label: "...... et les chiens se taisaient"
-caridischo_genre: Collections & Curations
-subgenre: Scholarly Editions
+section: Collections & Curations
+genre: Scholarly Editions
 claimed_genre: a scholarly edition
 link: http://cesaire.elotroalex.com/chiens/
 access: open

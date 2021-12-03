@@ -1,8 +1,8 @@
 ---
 pid: cds85
 label: Guantánamo Public Memory Project
-caridischo_genre: Cabinet of Wonders
-subgenre: Sui Generis
+section: Cabinet of Wonders
+genre: Sui Generis
 claimed_genre: a project
 link: https://gitmomemory.org/stories/
 access: open

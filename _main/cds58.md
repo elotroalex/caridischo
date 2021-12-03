@@ -1,8 +1,8 @@
 ---
 pid: cds58
 label: Ecured
-caridischo_genre: Reference
-subgenre: Encyclopedias
+section: Reference
+genre: Encyclopedias
 claimed_genre: enciclopedia
 link: https://www.ecured.cu/EcuRed
 access: open

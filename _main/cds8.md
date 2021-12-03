@@ -1,8 +1,8 @@
 ---
 pid: cds8
 label: Biblioteca de Literatura Afrocolombiana
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: colección digital
 link: http://babel.banrepcultural.org/digital/collection/p17054coll7
 access: open

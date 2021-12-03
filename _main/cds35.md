@@ -1,8 +1,8 @@
 ---
 pid: cds35
 label: Carmelita Tropicana Online Digital Archive
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: digital archive
 link: http://tropicanavideoarchive.blogspot.com/
 access: open

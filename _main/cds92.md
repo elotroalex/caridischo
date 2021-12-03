@@ -2,8 +2,8 @@
 pid: cds92
 label: 'Caribbean Sexualities: Love | Hope | Community: Sexualities & Social Justice
   in the Caribbean'
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: online collection
 link: http://caribbeansexualities.org/
 access: open

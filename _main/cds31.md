@@ -1,8 +1,8 @@
 ---
 pid: cds31
 label: Digital Library of the Caribbean
-caridischo_genre: Collections & Curations
-subgenre: Digital Libraries
+section: Collections & Curations
+genre: Digital Libraries
 claimed_genre: digital library
 link: https://www.dloc.com/
 access: open

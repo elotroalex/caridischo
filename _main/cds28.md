@@ -1,8 +1,8 @@
 ---
 pid: cds28
 label: Barbados Ephemera Collection
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: digitized ephemera
 link: https://meap.library.ucla.edu/ephemera-barbados
 access: open

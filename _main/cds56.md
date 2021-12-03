@@ -1,8 +1,8 @@
 ---
 pid: cds56
 label: Caribbean Diaspora Project
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a Digital Humanities initiative
 link: http://caribbeandiasporaproject.org/
 access: open

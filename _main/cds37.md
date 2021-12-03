@@ -1,8 +1,8 @@
 ---
 pid: cds37
 label: Caribbean Review of Gender Studies
-caridischo_genre: Publications & Blogs
-subgenre: Journals
+section: Publications & Blogs
+genre: Journals
 claimed_genre: academic journal
 link: https://sta.uwi.edu/crgs/
 access: open

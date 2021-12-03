@@ -1,8 +1,8 @@
 ---
 pid: cds19
 label: Age of Revolutions
-caridischo_genre: Publications & Blogs
-subgenre: Journals
+section: Publications & Blogs
+genre: Journals
 claimed_genre: an open-access, peer-reviewed academic journal
 link: https://ageofrevolutions.com/
 access: open

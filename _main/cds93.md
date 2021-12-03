@@ -1,8 +1,8 @@
 ---
 pid: cds93
 label: Maroon Country
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: digital archive
 link: http://marooncountry.org
 access: open

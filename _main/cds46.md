@@ -1,8 +1,8 @@
 ---
 pid: cds46
 label: 'Claude McKay''s Early Poetry (1911-1922): A Digital Collection'
-caridischo_genre: Collections & Curations
-subgenre: Scholarly Editions
+section: Collections & Curations
+genre: Scholarly Editions
 claimed_genre: digital collection
 link: https://scalar.lehigh.edu/mckay/index
 access: open

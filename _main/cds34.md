@@ -1,8 +1,8 @@
 ---
 pid: cds34
 label: Caribbean Memory Project
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: collection of archives
 link: https://www.caribbeanmemoryproject.com/
 access: open

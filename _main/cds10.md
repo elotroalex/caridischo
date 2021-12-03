@@ -1,8 +1,8 @@
 ---
 pid: cds10
 label: ".break .dance: a choreo-essay"
-caridischo_genre: Cabinet of Wonders
-subgenre: Sui Generis
+section: Cabinet of Wonders
+genre: Sui Generis
 claimed_genre: a choreo-essay
 link: http://smallaxe.net/sxarchipelagos/issue03/parham/parham.html
 access: open

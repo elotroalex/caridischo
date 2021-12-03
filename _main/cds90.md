@@ -1,8 +1,8 @@
 ---
 pid: cds90
 label: 'Haitian Art: a Digital Crossroads'
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: grant project
 link: https://hadc.sites.grinnell.edu/
 access: private

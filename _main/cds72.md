@@ -1,8 +1,8 @@
 ---
 pid: cds72
 label: 'International Digital Ephemera Project: Cuban Ephemera'
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a collection
 link: https://idep.library.ucla.edu/search#!/collection=Cuban+Ephemera
 access: open

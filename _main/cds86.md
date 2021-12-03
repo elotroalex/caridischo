@@ -1,8 +1,8 @@
 ---
 pid: cds86
 label: Haiti an Island Luminous
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: 'a site '
 link: http://islandluminous.fiu.edu/index-english.html
 access: open

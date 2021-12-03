@@ -1,8 +1,8 @@
 ---
 pid: cds41
 label: Centro for Puerto Rican Studies Digital Collection
-caridischo_genre: Collections & Curations
-subgenre: Digital Libraries
+section: Collections & Curations
+genre: Digital Libraries
 claimed_genre: digital collection
 link: https://centroca.hunter.cuny.edu/index.php
 access: open

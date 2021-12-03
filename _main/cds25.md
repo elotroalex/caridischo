@@ -1,8 +1,8 @@
 ---
 pid: cds25
 label: Archivo Mesoamericano
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: archivo
 link: https://archivomesoamericano.org/
 access: open

@@ -1,8 +1,8 @@
 ---
 pid: cds48
 label: 'Digital History at UWI: Hist 2807 Digital History Course'
-caridischo_genre: Reference
-subgenre: Syllabi
+section: Reference
+genre: Syllabi
 claimed_genre: a syllabus
 link: https://uwidigitalhistory.wordpress.com/instructor-information/
 access: open

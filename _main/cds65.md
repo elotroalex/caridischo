@@ -1,8 +1,8 @@
 ---
 pid: cds65
 label: Early Caribbean Digital Archive
-caridischo_genre: Collections & Curations
-subgenre: Scholarly Editions
+section: Collections & Curations
+genre: Scholarly Editions
 claimed_genre: digital archive
 link: https://ecda.northeastern.edu
 access: open

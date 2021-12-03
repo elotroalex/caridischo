@@ -1,8 +1,8 @@
 ---
 pid: cds98
 label: La Gazette Royale d'Haïti
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: digital archive
 link: http://lagazetteroyale.com
 access: open

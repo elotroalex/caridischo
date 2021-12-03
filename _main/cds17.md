@@ -1,8 +1,8 @@
 ---
 pid: cds17
 label: Banque Numérique des Patrimoines Martiniquais
-caridischo_genre: Collections & Curations
-subgenre: Digital Libraries
+section: Collections & Curations
+genre: Digital Libraries
 claimed_genre: banque numérique
 link: https://www.patrimoines-martinique.org/
 access: open

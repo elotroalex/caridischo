@@ -1,8 +1,8 @@
 ---
 pid: cds88
 label: Musical Passage
-caridischo_genre: Collections & Curations
-subgenre: Scholarly Editions
+section: Collections & Curations
+genre: Scholarly Editions
 claimed_genre: exhibit
 link: http://www.musicalpassage.org/
 access: open

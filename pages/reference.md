@@ -10,8 +10,4 @@ This directory is itself a reference work, and so are the bibliographies and syl
 
 ---
 
-In no particular order...
-
-{% comment %}{% include collection_gallery.html  collection='caridischo' facet_by='caridischo_genre' only='Reference' %}{% endcomment %}
-
-{% include facet_gallery.html collection='main' field='caridischo_genre' value='Reference' facet_by='language|status' %}
+{% include facet_gallery.html collection='main' field='section' value='Reference' facet_by='genre|language' %}

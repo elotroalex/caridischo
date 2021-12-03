@@ -2,8 +2,8 @@
 pid: cds81
 label: 'In Whispers and Furtive Glances: Assessing Cuban Digital Literacies and (H)ac(k)tivism
   in Post-Embargo Cuba'
-caridischo_genre: Cabinet of Wonders
-subgenre: Sui Generis
+section: Cabinet of Wonders
+genre: Sui Generis
 claimed_genre: a project proposal
 link: https://marktriana.wixsite.com/whispersandglances
 access: open

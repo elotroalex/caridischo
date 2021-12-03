@@ -1,8 +1,8 @@
 ---
 pid: cds33
 label: Carisealand
-caridischo_genre: Cabinet of Wonders
-subgenre: Sui Generis
+section: Cabinet of Wonders
+genre: Sui Generis
 claimed_genre: digital research project
 link: http://archipelagosjournal.org/issue04/esprit-carisealand.html
 access: open

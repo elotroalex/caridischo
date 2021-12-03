@@ -1,8 +1,8 @@
 ---
 pid: cds59
 label: The Gay Freedom Movement in Jamaica
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: collection
 link: https://dloc.com/collections/icirngfm
 access: open

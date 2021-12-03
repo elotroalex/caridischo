@@ -1,8 +1,8 @@
 ---
 pid: cds61
 label: 'Ghosts in the Water: Chinese Women in Trinidad'
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a project
 link: https://ghostsinthewater.wordpress.com/
 access: open

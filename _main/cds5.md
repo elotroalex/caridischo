@@ -1,8 +1,8 @@
 ---
 pid: cds5
 label: Alma Jordan Library Digital Collections
-caridischo_genre: Collections & Curations
-subgenre: Digital Libraries
+section: Collections & Curations
+genre: Digital Libraries
 claimed_genre: digital collections
 link: https://uwispace.sta.uwi.edu/dspace/handle/2139/10
 access: open

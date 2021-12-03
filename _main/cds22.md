@@ -1,8 +1,8 @@
 ---
 pid: cds22
 label: Caribbean Literary Heritage
-caridischo_genre: Cabinet of Wonders
-subgenre: Sui Generis
+section: Cabinet of Wonders
+genre: Sui Generis
 claimed_genre: a project
 link: https://www.caribbeanliteraryheritage.com/
 access: open

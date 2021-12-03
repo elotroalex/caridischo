@@ -1,8 +1,8 @@
 ---
 pid: cds78
 label: Ecologies Entrelacées
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a digital humanities project
 link: https://www.ecologiesentrelacees.com/
 access: open

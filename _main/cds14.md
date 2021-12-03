@@ -1,8 +1,8 @@
 ---
 pid: cds14
 label: Branding the Cuban Revolution
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: "[digital collection]"
 link: https://brandingrevolution.omeka.net/exhibits/show/branding-the-cuban-revolution
 access: open

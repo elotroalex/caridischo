@@ -1,8 +1,8 @@
 ---
 pid: cds11
 label: 'Archives Nationales d''Outre Mer: Archives Numérisées'
-caridischo_genre: Collections & Curations
-subgenre: Digital Libraries
+section: Collections & Curations
+genre: Digital Libraries
 claimed_genre: des archives numérisees
 link: http://anom.archivesnationales.culture.gouv.fr/ir?classification=archives_numerisees
 access: open

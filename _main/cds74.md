@@ -1,8 +1,8 @@
 ---
 pid: cds74
 label: Curaçao Nationaal Archief
-caridischo_genre: Collections & Curations
-subgenre: Digital Libraries
+section: Collections & Curations
+genre: Digital Libraries
 claimed_genre: een archief
 link: https://www.nationaalarchief.cw/
 access: open

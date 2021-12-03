@@ -1,8 +1,8 @@
 ---
 pid: cds91
 label: La Revista América Negra
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: publicaciones
 link: https://www.javeriana.edu.co/ins-genetica/investigacion/publicaciones/libros/america-negra
 access: open

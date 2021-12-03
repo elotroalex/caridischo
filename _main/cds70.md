@@ -1,8 +1,8 @@
 ---
 pid: cds70
 label: 'Aftermaths: Community Responses to Climate Disaster'
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a participatory public memory project
 link: http://climatesofinequality.org/story/aftermaths-community-responses-to-climate-disaster/
 access: open

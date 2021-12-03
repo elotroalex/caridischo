@@ -1,8 +1,8 @@
 ---
 pid: cds55
 label: 'Dominica History: Building Communities 1838 – 1938'
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: web resource
 link: https://dominicahistory.org/2016/
 access: open

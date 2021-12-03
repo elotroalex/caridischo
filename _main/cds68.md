@@ -1,8 +1,8 @@
 ---
 pid: cds68
 label: Curaçao | History
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a timeline
 link: https://www.curacaohistory.com/
 access: open

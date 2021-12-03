@@ -1,8 +1,8 @@
 ---
 pid: cds6
 label: "#ADPhD"
-caridischo_genre: Publications & Blogs
-subgenre: Blogs
+section: Publications & Blogs
+genre: Blogs
 claimed_genre: a curated blog
 link: https://africandiasporaphd.com/
 access: open

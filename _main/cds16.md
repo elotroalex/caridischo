@@ -1,8 +1,8 @@
 ---
 pid: cds16
 label: Bibliography for &quot; runaway&quot;  enslaved people
-caridischo_genre: Reference
-subgenre: Bibliographies
+section: Reference
+genre: Bibliographies
 claimed_genre: a bibliography
 link: https://docs.google.com/document/d/16oamSiSVIzrI6Sd_wvPSXVNlNscEhG71GwsLH27WaK0/edit
 access: open

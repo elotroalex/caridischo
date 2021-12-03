@@ -1,8 +1,8 @@
 ---
 pid: cds36
 label: Caribbean Religious Trials
-caridischo_genre: Reference
-subgenre: Compendium
+section: Reference
+genre: Compendium
 claimed_genre: website
 link: https://www.caribbeanreligioustrials.org/
 access: open

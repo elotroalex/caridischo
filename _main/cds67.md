@@ -1,8 +1,8 @@
 ---
 pid: cds67
 label: Harlem Shadows
-caridischo_genre: Collections & Curations
-subgenre: Scholarly Editions
+section: Collections & Curations
+genre: Scholarly Editions
 claimed_genre: edition
 link: http://www.harlemshadows.org/
 access: open

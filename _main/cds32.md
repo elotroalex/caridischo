@@ -1,8 +1,8 @@
 ---
 pid: cds32
 label: 'CUNY Dominican Institute Publications '
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: publications
 link: https://academicworks.cuny.edu/dsi_pubs/
 access: open

@@ -1,8 +1,8 @@
 ---
 pid: cds20
 label: 19th Century Caribbean Cholera Timemap
-caridischo_genre: Maps & Visualizations
-subgenre: Timelines
+section: Maps & Visualizations
+genre: Timelines
 claimed_genre: a timemap
 link: http://caribbeancholera.org/cholera_timemap11.html#zoom=5&center=20.13847031245115,-74.3994140625&date=1853-05-01
 access: open

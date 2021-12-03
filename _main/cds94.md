@@ -1,8 +1,8 @@
 ---
 pid: cds94
 label: Library of Glissant Studies
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a digital library
 link: https://www.glissantstudies.com/
 access: open

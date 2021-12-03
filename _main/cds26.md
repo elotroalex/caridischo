@@ -1,8 +1,8 @@
 ---
 pid: cds26
 label: A Boricua Abroad
-caridischo_genre: Publications & Blogs
-subgenre: Blogs
+section: Publications & Blogs
+genre: Blogs
 claimed_genre: blog
 link: https://aboricuaabroad.wordpress.com/
 access: open

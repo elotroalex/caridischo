@@ -1,8 +1,8 @@
 ---
 pid: cds12
 label: Alternative Considerations of Jonestown and Peoples Temple
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: a digital humanities project; annotated documents
 link: https://jonestown.sdsu.edu/?page_id=70587
 access: open

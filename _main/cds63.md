@@ -1,8 +1,8 @@
 ---
 pid: cds63
 label: Dutch Caribbean Heritage Collection
-caridischo_genre: Collections & Curations
-subgenre: Thematic Curations
+section: Collections & Curations
+genre: Thematic Curations
 claimed_genre: collection
 link: https://dcdp.uoc.cw/dutcarhercol
 access: open

@@ -1,8 +1,8 @@
 ---
 pid: cds18
 label: 'Biblioteca Nacional Aruba: Coleccion Digital'
-caridischo_genre: Collections & Curations
-subgenre: Digital Libraries
+section: Collections & Curations
+genre: Digital Libraries
 claimed_genre: colección digital
 link: https://archive.org/details/bibliotecanacionalaruba&sort=date
 access: open

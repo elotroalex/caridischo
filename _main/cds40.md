@@ -1,8 +1,8 @@
 ---
 pid: cds40
 label: Digital Map of the Afro-Cuban Web
-caridischo_genre: Maps & Visualizations
-subgenre: Maps
+section: Maps & Visualizations
+genre: Maps
 claimed_genre: digital map
 link: https://hcommons.org/deposits/item/hc:28035/
 access: open

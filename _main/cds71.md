@@ -1,8 +1,8 @@
 ---
 pid: cds71
 label: Fictions of the Haitian Revolution
-caridischo_genre: Reference
-subgenre: Bibliographies
+section: Reference
+genre: Bibliographies
 claimed_genre: online bibliography
 link: http://haitianrevolutionaryfictions.com
 access: open

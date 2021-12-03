@@ -1,8 +1,8 @@
 ---
 pid: cds50
 label: Documents from the History of the Dominican Republic
-caridischo_genre: Collections & Curations
-subgenre: Scholarly Editions
+section: Collections & Curations
+genre: Scholarly Editions
 claimed_genre: project
 link: https://www.marxists.org/history/dominican-republic/index.htm
 access: open
