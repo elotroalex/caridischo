@@ -1,7 +1,8 @@
 ---
 pid: cds93
 label: Maroon Country
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digital archive
 link: http://marooncountry.org
 access: open
@@ -18,7 +19,7 @@ added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 census_year: '2020'
 notes:
-order: '161'
+order: '074'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds93/thumbnail.jpg

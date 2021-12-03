@@ -1,7 +1,8 @@
 ---
 pid: cds89
 label: Legacies of British Slave-ownership
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: database
 link: https://www.ucl.ac.uk/lbs//
 access: open
@@ -24,8 +25,8 @@ open_data:
 added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
-notes: "Are we cool with projects by the colonizers? \n\U0001F602 "
-order: '156'
+notes: "Are we cool with projects by the colonizers? \r\n\U0001F602 "
+order: '071'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds89/thumbnail.jpg

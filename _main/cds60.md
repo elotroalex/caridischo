@@ -1,12 +1,13 @@
 ---
 pid: cds60
 label: Digital Aponte
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: a site
 link: http://aponte.hosting.nyu.edu/
 access: open
 status: Stable
-language: en, es
+language: en,es
 creators: Linda Rodriguez, Ada Ferrer, Kris Minhae Choe, Eric Anderson, et al
 stewards: NYU
 blurb: Welcome to Digital Aponte, a site dedicated to the life and work of José Antonio
@@ -19,7 +20,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '126'
+order: '090'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds60/thumbnail.jpg

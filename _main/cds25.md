@@ -1,12 +1,13 @@
 ---
 pid: cds25
 label: Archivo Mesoamericano
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: archivo
 link: https://archivomesoamericano.org/
 access: open
 status: Active
-language: es, en
+language: es,en
 creators:
 stewards: Digital Collection Services, Indiana University
 blurb: 'El Archivo Mesoamericano representa un archivo digital que consiste de grabaciones
@@ -25,7 +26,7 @@ added_by: Mary Borgo Ton
 twitter: "@maryeborgo"
 census_year: '2020'
 notes:
-order: '087'
+order: '117'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds25/thumbnail.jpg

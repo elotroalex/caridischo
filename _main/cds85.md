@@ -2,6 +2,7 @@
 pid: cds85
 label: Guantánamo Public Memory Project
 caridischo_genre: Cabinet of Wonders
+subgenre: Sui Generis
 claimed_genre: a project
 link: https://gitmomemory.org/stories/
 access: open
@@ -18,7 +19,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '152'
+order: '017'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds85/thumbnail.jpg

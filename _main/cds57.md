@@ -1,7 +1,8 @@
 ---
 pid: cds57
 label: Digital Photographic Archive of Historic Havana
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digitial photographic archive
 link: https://compass.fivecolleges.edu/collections/digital-photographic-archive-historic-havana
 access: private
@@ -23,7 +24,7 @@ added_by: 'Arturo Victoriano '
 twitter: "@ArturoVictoria4"
 census_year: '2020'
 notes:
-order: '122'
+order: '060'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds57/thumbnail.jpg

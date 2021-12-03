@@ -1,7 +1,8 @@
 ---
 pid: cds88
 label: Musical Passage
-caridischo_genre: Scholarly Editions
+caridischo_genre: Collections & Curations
+subgenre: Scholarly Editions
 claimed_genre: exhibit
 link: http://www.musicalpassage.org/
 access: open
@@ -28,7 +29,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes: Can't copy text from the original site.
-order: '155'
+order: '070'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds88/thumbnail.jpg

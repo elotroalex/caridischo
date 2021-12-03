@@ -1,7 +1,8 @@
 ---
 pid: cds47
 label: Digital Archeological Archive of Comparative Slavery
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digital archeological archive
 link: https://www.daacs.org
 access: open
@@ -19,7 +20,7 @@ added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
 notes:
-order: '111'
+order: '054'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds47/thumbnail.jpg

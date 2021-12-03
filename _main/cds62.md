@@ -1,7 +1,8 @@
 ---
 pid: cds62
 label: 'Dominica History: The Road To Independence '
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digital archive
 link: https://dominicahistory.org/start/
 access: open
@@ -18,7 +19,7 @@ added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 census_year: '2020'
 notes:
-order: '128'
+order: '063'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds62/thumbnail.jpg

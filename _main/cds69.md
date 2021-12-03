@@ -2,6 +2,7 @@
 pid: cds69
 label: Freedom to Believe
 caridischo_genre: Cabinet of Wonders
+subgenre: Sui Generis
 claimed_genre: project
 link: https://www.freedomtobelieve.info/
 access: open
@@ -19,7 +20,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '135'
+order: '013'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds69/thumbnail.jpg

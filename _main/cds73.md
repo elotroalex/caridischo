@@ -1,12 +1,13 @@
 ---
 pid: cds73
 label: First Blacks in the Americas
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: 'a digital educational platform '
 link: http://firstblacks.org/en/
 access: open
 status: Active
-language: en, es
+language: en,es
 creators: Lisette Acosta, Dominican Studies Institute
 stewards: CUNY
 blurb: First Blacks in the Americas is a fully bilingual (English and Spanish) digital
@@ -22,7 +23,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '140'
+order: '092'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds73/thumbnail.jpg

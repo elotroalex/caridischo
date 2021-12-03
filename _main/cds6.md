@@ -2,6 +2,7 @@
 pid: cds6
 label: "#ADPhD"
 caridischo_genre: Publications & Blogs
+subgenre: Blogs
 claimed_genre: a curated blog
 link: https://africandiasporaphd.com/
 access: open
@@ -18,7 +19,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '125'
+order: '161'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds6/thumbnail.jpg

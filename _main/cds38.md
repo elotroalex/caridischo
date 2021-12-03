@@ -1,7 +1,8 @@
 ---
 pid: cds38
 label: Collections of Cultural Property | Centro León
-caridischo_genre: Digital Libraries
+caridischo_genre: Collections & Curations
+subgenre: Digital Libraries
 claimed_genre: eMuseum
 link: https://centroleon.org.do/cl/
 access: private
@@ -25,7 +26,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '101'
+order: '113'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds38/thumbnail.jpg

@@ -1,7 +1,8 @@
 ---
 pid: cds54
 label: Digital Grainger
-caridischo_genre: Scholarly Editions
+caridischo_genre: Collections & Curations
+subgenre: Scholarly Editions
 claimed_genre: an online edition
 link: http://caribbeandigitalnyc.net/2020/
 access: open
@@ -21,7 +22,7 @@ added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
 notes:
-order: '119'
+order: '057'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds54/thumbnail.jpg

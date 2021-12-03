@@ -2,6 +2,7 @@
 pid: cds19
 label: Age of Revolutions
 caridischo_genre: Publications & Blogs
+subgenre: Journals
 claimed_genre: an open-access, peer-reviewed academic journal
 link: https://ageofrevolutions.com/
 access: open
@@ -21,7 +22,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '081'
+order: '156'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds19/thumbnail.jpg

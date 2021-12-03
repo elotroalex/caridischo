@@ -1,12 +1,13 @@
 ---
 pid: cds84
 label: John Carter Brown Library Haiti Collection
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digital collection
 link: https://archive.org/details/jcbhaiti
 access: open
 status: Active
-language: en, fr
+language: en,fr
 creators:
 stewards: Brown University
 blurb: Our rare books, maps and newspapers tell the story of the founding of the French
@@ -20,7 +21,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '151'
+order: '098'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds84/thumbnail.jpg

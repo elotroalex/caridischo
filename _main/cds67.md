@@ -1,7 +1,8 @@
 ---
 pid: cds67
 label: Harlem Shadows
-caridischo_genre: Scholarly Editions
+caridischo_genre: Collections & Curations
+subgenre: Scholarly Editions
 claimed_genre: edition
 link: http://www.harlemshadows.org/
 access: open
@@ -19,7 +20,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '133'
+order: '065'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds67/thumbnail.jpg

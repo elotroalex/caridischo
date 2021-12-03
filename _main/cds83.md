@@ -1,7 +1,8 @@
 ---
 pid: cds83
 label: Haiti and the Atlantic World
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: website
 link: https://haitidoi.com/
 access: open
@@ -18,7 +19,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '150'
+order: '068'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds83/thumbnail.jpg

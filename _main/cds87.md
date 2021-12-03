@@ -2,6 +2,7 @@
 pid: cds87
 label: Mapping Marronage
 caridischo_genre: Maps & Visualizations
+subgenre: Maps
 claimed_genre: maps
 link: http://mapping-marronage.rll.lsa.umich.edu/
 access: open
@@ -20,7 +21,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '154'
+order: '145'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds87/thumbnail.jpg

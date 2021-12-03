@@ -2,6 +2,7 @@
 pid: cds45
 label: Cuba Counterpoints
 caridischo_genre: Publications & Blogs
+subgenre: Journals
 claimed_genre: a journal
 link: http://cubacounterpoints.com/
 access: open
@@ -19,7 +20,7 @@ added_by: Ariana Hernandez-Reguant
 twitter:
 census_year: '2020'
 notes: "\U0001F49C"
-order: '109'
+order: '160'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds45/thumbnail.jpg

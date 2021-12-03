@@ -1,12 +1,13 @@
 ---
 pid: cds63
 label: Dutch Caribbean Heritage Collection
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: collection
 link: https://dcdp.uoc.cw/dutcarhercol
 access: open
 status: Stable
-language: en, es, du, pap
+language: en,es,nl,pap
 creators:
 stewards:
 blurb: This Special Collection presents all unrestrictedly available digital material
@@ -18,7 +19,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '129'
+order: '093'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds63/thumbnail.jpg

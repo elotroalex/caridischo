@@ -1,7 +1,8 @@
 ---
 pid: cds95
 label: Junkanoo in Grand Bahama
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: an initial exploration
 link: https://junkanooingb.com/
 access: open
@@ -20,7 +21,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '163'
+order: '075'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds95/thumbnail.jpg

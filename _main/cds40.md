@@ -2,6 +2,7 @@
 pid: cds40
 label: Digital Map of the Afro-Cuban Web
 caridischo_genre: Maps & Visualizations
+subgenre: Maps
 claimed_genre: digital map
 link: https://hcommons.org/deposits/item/hc:28035/
 access: open
@@ -18,7 +19,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '104'
+order: '142'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds40/thumbnail.jpg

@@ -1,7 +1,8 @@
 ---
 pid: cds29
 label: Caribbean Literature
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: collection
 link: https://alexanderstreet.com/products/caribbean-literature
 access: vendor
@@ -25,7 +26,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '091'
+order: '048'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds29/thumbnail.jpg

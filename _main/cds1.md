@@ -2,11 +2,12 @@
 pid: cds1
 label: archipelagos journal
 caridischo_genre: Publications & Blogs
+subgenre: Journals
 claimed_genre: an academic journal
 link: http://archipelagosjournal.org/
 access: open
 status: Active
-language: en, fr, es
+language: en,fr,es
 creators: Kaiama Glover, Alex Gil
 stewards: Columbia University Library
 blurb: 'archipelagos is a born-digital, peer-reviewed publication devoted to creative
@@ -24,7 +25,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '000'
+order: '172'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds1/thumbnail.jpg

@@ -1,7 +1,8 @@
 ---
 pid: cds5
 label: Alma Jordan Library Digital Collections
-caridischo_genre: Digital Libraries
+caridischo_genre: Collections & Curations
+subgenre: Digital Libraries
 claimed_genre: digital collections
 link: https://uwispace.sta.uwi.edu/dspace/handle/2139/10
 access: open
@@ -20,7 +21,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes: Herein lie subcollections
-order: '114'
+order: '055'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds5/thumbnail.jpg

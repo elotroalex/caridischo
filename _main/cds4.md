@@ -1,7 +1,8 @@
 ---
 pid: cds4
 label: Barbados Runaways
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: a platform
 link: https://barbadosmercury.wordpress.com/
 access: open
@@ -17,7 +18,7 @@ added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
 notes:
-order: '103'
+order: '051'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds4/thumbnail.jpg

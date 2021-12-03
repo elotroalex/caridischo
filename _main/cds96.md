@@ -1,7 +1,8 @@
 ---
 pid: cds96
 label: 'Imagined Homeland: Dominica''s Literary Geographies'
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: a project
 link: https://dominicadh.org/homeland/
 access: open
@@ -22,7 +23,7 @@ added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 census_year: '2020'
 notes:
-order: '164'
+order: '076'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds96/thumbnail.jpg

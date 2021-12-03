@@ -2,6 +2,7 @@
 pid: cds33
 label: Carisealand
 caridischo_genre: Cabinet of Wonders
+subgenre: Sui Generis
 claimed_genre: digital research project
 link: http://archipelagosjournal.org/issue04/esprit-carisealand.html
 access: open
@@ -24,7 +25,7 @@ added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
 notes:
-order: '096'
+order: '009'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds33/thumbnail.jpg

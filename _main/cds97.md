@@ -1,7 +1,8 @@
 ---
 pid: cds97
 label: Liberated Africans
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: an exhibit
 link: https://liberatedafricans.dev.matrix.msu.edu/
 access: open
@@ -19,7 +20,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '165'
+order: '077'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds97/thumbnail.jpg

@@ -2,6 +2,7 @@
 pid: cds82
 label: In All My Dreams
 caridischo_genre: Cabinet of Wonders
+subgenre: Sui Generis
 claimed_genre: exhibit
 link: http://iamdbookclub.com
 access: open
@@ -19,7 +20,7 @@ added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
 notes: "\U0001F60D"
-order: '149'
+order: '016'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds82/thumbnail.jpg

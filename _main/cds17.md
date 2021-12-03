@@ -1,7 +1,8 @@
 ---
 pid: cds17
 label: Banque Numérique des Patrimoines Martiniquais
-caridischo_genre: Digital Libraries
+caridischo_genre: Collections & Curations
+subgenre: Digital Libraries
 claimed_genre: banque numérique
 link: https://www.patrimoines-martinique.org/
 access: open
@@ -20,7 +21,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '078'
+order: '126'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds17/thumbnail.jpg

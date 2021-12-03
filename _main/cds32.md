@@ -1,7 +1,8 @@
 ---
 pid: cds32
 label: 'CUNY Dominican Institute Publications '
-caridischo_genre: Publications & Blogs
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: publications
 link: https://academicworks.cuny.edu/dsi_pubs/
 access: open
@@ -20,7 +21,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '095'
+order: '158'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds32/thumbnail.jpg

@@ -2,7 +2,8 @@
 pid: cds26
 label: A Boricua Abroad
 caridischo_genre: Publications & Blogs
-claimed_genre: "[blog]"
+subgenre: Blogs
+claimed_genre: blog
 link: https://aboricuaabroad.wordpress.com/
 access: open
 status: Stable
@@ -21,7 +22,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '088'
+order: '157'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds26/thumbnail.jpg

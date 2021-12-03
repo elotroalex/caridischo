@@ -2,6 +2,7 @@
 pid: cds49
 label: Create Caribbean
 caridischo_genre: Cabinet of Wonders
+subgenre: Sui Generis
 claimed_genre: a digital humanities center
 link: http://createcaribbean.org/create/
 access: open
@@ -22,7 +23,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '113'
+order: '012'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds49/thumbnail.jpg

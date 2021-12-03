@@ -1,7 +1,8 @@
 ---
 pid: cds27
 label: The Barbadian
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digitization
 link: https://eap.bl.uk/project/EAP1251
 access: open
@@ -17,7 +18,7 @@ added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
 notes:
-order: '089'
+order: '046'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds27/thumbnail.jpg

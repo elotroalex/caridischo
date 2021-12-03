@@ -2,6 +2,7 @@
 pid: cds15
 label: Arquitecture of necessity/Arquitectura de la necesidad
 caridischo_genre: Publications & Blogs
+subgenre: Blogs
 claimed_genre: blog
 link: http://architectureofnecessity.com/
 access: open
@@ -20,7 +21,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '056'
+order: '174'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds15/thumbnail.jpg

@@ -1,7 +1,8 @@
 ---
 pid: cds34
 label: Caribbean Memory Project
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: collection of archives
 link: https://www.caribbeanmemoryproject.com/
 access: open
@@ -19,9 +20,9 @@ added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
 notes:
-order: '097'
+order: '049'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds34/thumbnail.jpg
-full: img/derivatives/simple/cds34/fullwidth.jpg
+thumbnail: ''
+full: ''
 ---

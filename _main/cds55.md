@@ -1,7 +1,8 @@
 ---
 pid: cds55
 label: 'Dominica History: Building Communities 1838 – 1938'
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: web resource
 link: https://dominicahistory.org/2016/
 access: open
@@ -19,7 +20,7 @@ added_by: 'Schuyler Esprit '
 twitter: "@schuyleresprit"
 census_year: '2020'
 notes:
-order: '120'
+order: '058'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds55/thumbnail.jpg

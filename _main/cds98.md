@@ -1,12 +1,13 @@
 ---
 pid: cds98
 label: La Gazette Royale d'Haïti
-caridischo_genre: Thematic Curations
+caridischo_genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digital archive
 link: http://lagazetteroyale.com
 access: open
 status: Active
-language: en, fr
+language: en,fr
 creators: Marlene L. Daut
 stewards:
 blurb: The La Gazette Royale project, which I first began to develop in 2014, is designed
@@ -21,7 +22,7 @@ added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
 notes:
-order: '166'
+order: '100'
 layout: caridischo_item
 collection: main
 thumbnail: img/derivatives/simple/cds98/thumbnail.jpg

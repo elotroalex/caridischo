@@ -2,6 +2,7 @@
 pid: cds37
 label: Caribbean Review of Gender Studies
 caridischo_genre: Publications & Blogs
+subgenre: Journals
 claimed_genre: academic journal
 link: https://sta.uwi.edu/crgs/
 access: open
@@ -24,9 +25,9 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '100'
+order: '159'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds37/thumbnail.jpg
-full: img/derivatives/simple/cds37/fullwidth.jpg
+thumbnail: ''
+full: ''
 ---

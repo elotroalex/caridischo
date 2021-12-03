@@ -2,6 +2,7 @@
 pid: cds22
 label: Caribbean Literary Heritage
 caridischo_genre: Cabinet of Wonders
+subgenre: Sui Generis
 claimed_genre: a project
 link: https://www.caribbeanliteraryheritage.com/
 access: open
@@ -20,9 +21,9 @@ added_by: Nadine Zubair
 twitter: "@NadineZubair"
 census_year: '2020'
 notes:
-order: '085'
+order: '008'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds22/thumbnail.jpg
-full: img/derivatives/simple/cds22/fullwidth.jpg
+thumbnail: ''
+full: ''
 ---
