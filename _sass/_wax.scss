@@ -61,6 +61,10 @@ header & nav bar
     font-weight: 700;
     color: $accent-light;
     font-size: 2rem;
+
+    @media (max-width: 768px) {
+      font-size: 1.6rem;
+    }
   }
 
   .navbar-brand a:hover {
