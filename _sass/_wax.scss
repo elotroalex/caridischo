@@ -440,12 +440,17 @@ search box
     flex-wrap: wrap;
     justify-content: flex-start;
 
+    .row {
+      flex-grow: 1;
+    }
+
     .gallery-item-facets {
       padding: 0;
       margin: 0.25rem;
       background-color: #ffffff;
       width: 100%;
       border: 1px grey solid;
+      max-height: 200px;
 
       .gallery-wide-thumb {
         object-position: 50% 0%;

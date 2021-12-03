@@ -10,6 +10,4 @@ No wonder then that we end up with constructs that defy easy classification. A D
 
 ---
 
-In no particular order...
-
-{% include collection_gallery.html  collection='main' facet_by='caridischo_genre' only='Cabinet of Wonders' %}
+{% include facet_gallery.html collection='main' field='section' value='Cabinet of Wonders' facet_by='language' %}
