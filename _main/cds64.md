@@ -1,7 +1,8 @@
 ---
 pid: cds64
 label: In the Same Boats
-caridischo_genre: Maps & Visualizations
+genre: Maps & Visualizations
+subgenre: Maps
 claimed_genre: maps
 link: https://sameboats.org/
 access: open
@@ -27,9 +28,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '130'
+order: '143'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds64/thumbnail.jpg
-full: img/derivatives/simple/cds64/fullwidth.jpg
 ---

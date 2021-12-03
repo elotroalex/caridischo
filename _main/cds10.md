@@ -1,7 +1,8 @@
 ---
 pid: cds10
 label: ".break .dance: a choreo-essay"
-caridischo_genre: Cabinet of Wonders
+genre: Cabinet of Wonders
+subgenre: Sui Generis
 claimed_genre: a choreo-essay
 link: http://smallaxe.net/sxarchipelagos/issue03/parham/parham.html
 access: open
@@ -19,9 +20,7 @@ added_by: Schuyler Esprit
 twitter: "@schuyleresprit"
 census_year: '2020'
 notes:
-order: '001'
+order: '000'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds10/thumbnail.jpg
-full: img/derivatives/simple/cds10/fullwidth.jpg
 ---

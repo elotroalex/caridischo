@@ -1,7 +1,8 @@
 ---
 pid: cds36
 label: Caribbean Religious Trials
-caridischo_genre: Reference
+genre: Reference
+subgenre: Compendium
 claimed_genre: website
 link: https://www.caribbeanreligioustrials.org/
 access: open
@@ -18,9 +19,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '099'
+order: '179'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds36/thumbnail.jpg
-full: img/derivatives/simple/cds36/fullwidth.jpg
 ---

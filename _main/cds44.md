@@ -1,12 +1,13 @@
 ---
 pid: cds44
 label: Cuban Heritage Connection
-caridischo_genre: Digital Libraries
+genre: Collections & Curations
+subgenre: Digital Libraries
 claimed_genre: digital collections
 link: https://merrick.library.miami.edu/digitalprojects/chc.php
 access: open
 status: Active
-language: en, es
+language: en,es
 creators:
 stewards: University of Miami
 blurb: Below are descriptions and links to Cuban Heritage Collection digital collections
@@ -19,9 +20,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes: There are approximately infinity subcollections
-order: '108'
+order: '087'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds44/thumbnail.jpg
-full: img/derivatives/simple/cds44/fullwidth.jpg
 ---

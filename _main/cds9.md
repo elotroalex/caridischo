@@ -1,7 +1,8 @@
 ---
 pid: cds9
 label: 'Antologías del Pensamiento Social Latinoamericano y Caribeño '
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: antología
 link: https://www.clacso.org.ar/antologias/index.php
 access: open
@@ -19,9 +20,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '157'
+order: '115'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds9/thumbnail.jpg
-full: img/derivatives/simple/cds9/fullwidth.jpg
 ---

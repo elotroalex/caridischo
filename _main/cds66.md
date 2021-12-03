@@ -1,8 +1,9 @@
 ---
 pid: cds66
 label: Île en île
-caridischo_genre: Reference
-claimed_genre: un site web
+genre: Reference
+subgenre: Encyclopedias
+claimed_genre: a website
 link: http://ile-en-ile.org/
 access: open
 status: Active
@@ -19,9 +20,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '132'
+order: '193'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds66/thumbnail.jpg
-full: img/derivatives/simple/cds66/fullwidth.jpg
 ---

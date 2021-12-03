@@ -1,7 +1,8 @@
 ---
 pid: cds79
 label: Haitian History Blog
-caridischo_genre: Publications & Blogs
+genre: Publications & Blogs
+subgenre: Blogs
 claimed_genre: blog
 link: https://haitianhistory.tumblr.com/
 access: open
@@ -20,9 +21,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '146'
+order: '162'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds79/thumbnail.jpg
-full: img/derivatives/simple/cds79/fullwidth.jpg
 ---

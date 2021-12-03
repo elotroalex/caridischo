@@ -1,7 +1,8 @@
 ---
 pid: cds39
 label: Dark Laboratory
-caridischo_genre: Cabinet of Wonders
+genre: Cabinet of Wonders
+subgenre: Sui Generis
 claimed_genre: a laboratory
 link: https://www.darklaboratory.com/
 access: open
@@ -18,9 +19,7 @@ added_by: Tao Leigh Goffe
 twitter: "@taoleighgoffe"
 census_year: '2020'
 notes:
-order: '102'
+order: '010'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds39/thumbnail.jpg
-full: img/derivatives/simple/cds39/fullwidth.jpg
 ---

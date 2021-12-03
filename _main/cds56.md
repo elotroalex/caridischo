@@ -1,7 +1,8 @@
 ---
 pid: cds56
 label: Caribbean Diaspora Project
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: a Digital Humanities initiative
 link: http://caribbeandiasporaproject.org/
 access: open
@@ -20,9 +21,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '121'
+order: '059'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds56/thumbnail.jpg
-full: img/derivatives/simple/cds56/fullwidth.jpg
 ---

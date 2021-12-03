@@ -1,7 +1,8 @@
 ---
 pid: cds86
 label: Haiti an Island Luminous
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: 'a site '
 link: http://islandluminous.fiu.edu/index-english.html
 access: open
@@ -21,9 +22,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '153'
+order: '069'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds86/thumbnail.jpg
-full: img/derivatives/simple/cds86/fullwidth.jpg
 ---

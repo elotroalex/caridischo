@@ -1,7 +1,8 @@
 ---
 pid: cds58
 label: Ecured
-caridischo_genre: Reference
+genre: Reference
+subgenre: Encyclopedias
 claimed_genre: enciclopedia
 link: https://www.ecured.cu/EcuRed
 access: open
@@ -18,9 +19,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '123'
+order: '192'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds58/thumbnail.jpg
-full: img/derivatives/simple/cds58/fullwidth.jpg
 ---

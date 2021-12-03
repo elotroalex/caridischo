@@ -1,7 +1,8 @@
 ---
 pid: cds28
 label: Barbados Ephemera Collection
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digitized ephemera
 link: https://meap.library.ucla.edu/ephemera-barbados
 access: open
@@ -17,9 +18,7 @@ added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
 notes:
-order: '090'
+order: '047'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds28/thumbnail.jpg
-full: img/derivatives/simple/cds28/fullwidth.jpg
 ---

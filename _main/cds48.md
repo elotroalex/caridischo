@@ -1,7 +1,8 @@
 ---
 pid: cds48
 label: 'Digital History at UWI: Hist 2807 Digital History Course'
-caridischo_genre: Reference
+genre: Reference
+subgenre: Syllabi
 claimed_genre: a syllabus
 link: https://uwidigitalhistory.wordpress.com/instructor-information/
 access: open
@@ -19,9 +20,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '112'
+order: '180'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds48/thumbnail.jpg
-full: img/derivatives/simple/cds48/fullwidth.jpg
 ---

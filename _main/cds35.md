@@ -1,7 +1,8 @@
 ---
 pid: cds35
 label: Carmelita Tropicana Online Digital Archive
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digital archive
 link: http://tropicanavideoarchive.blogspot.com/
 access: open
@@ -17,9 +18,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '098'
+order: '050'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds35/thumbnail.jpg
-full: img/derivatives/simple/cds35/fullwidth.jpg
 ---

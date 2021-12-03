@@ -1,12 +1,13 @@
 ---
 pid: cds51
 label: Cuban Theatre Digital Archives
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digital archives
 link: http://ctda.library.miami.edu/
 access: open
 status: Active
-language: en, es
+language: en,es
 creators: Lillian Manzor et al.
 stewards: University of Miami
 blurb: The Cuban Theater Digital Archive (CTDA) is a resource for research, teaching
@@ -20,9 +21,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '116'
+order: '089'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds51/thumbnail.jpg
-full: img/derivatives/simple/cds51/fullwidth.jpg
 ---

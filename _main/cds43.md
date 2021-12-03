@@ -1,7 +1,8 @@
 ---
 pid: cds43
 label: 'dLOC as Data: A Thematic Approach to Caribbean Newspapers'
-caridischo_genre: Cabinet of Wonders
+genre: Cabinet of Wonders
+subgenre: Sui Generis
 claimed_genre: an initiative
 link: http://dlocasdata.domains.uflib.ufl.edu/
 access: open
@@ -25,9 +26,7 @@ added_by: Perry Collins
 twitter: "@perrycollins"
 census_year: '2020'
 notes:
-order: '107'
+order: '011'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds43/thumbnail.jpg
-full: img/derivatives/simple/cds43/fullwidth.jpg
 ---

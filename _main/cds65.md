@@ -1,7 +1,8 @@
 ---
 pid: cds65
 label: Early Caribbean Digital Archive
-caridischo_genre: Scholarly Editions
+genre: Collections & Curations
+subgenre: Scholarly Editions
 claimed_genre: digital archive
 link: https://ecda.northeastern.edu
 access: open
@@ -20,9 +21,7 @@ added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
 notes:
-order: '131'
+order: '064'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds65/thumbnail.jpg
-full: img/derivatives/simple/cds65/fullwidth.jpg
 ---

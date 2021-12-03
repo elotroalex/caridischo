@@ -1,7 +1,8 @@
 ---
 pid: cds16
 label: Bibliography for &quot; runaway&quot;  enslaved people
-caridischo_genre: Reference
+genre: Reference
+subgenre: Bibliographies
 claimed_genre: a bibliography
 link: https://docs.google.com/document/d/16oamSiSVIzrI6Sd_wvPSXVNlNscEhG71GwsLH27WaK0/edit
 access: open
@@ -18,9 +19,7 @@ added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
 notes:
-order: '067'
+order: '177'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds16/thumbnail.jpg
-full: img/derivatives/simple/cds16/fullwidth.jpg
 ---

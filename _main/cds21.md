@@ -1,7 +1,8 @@
 ---
 pid: cds21
 label: 'Academia Historia Dominicana: Revista Clío'
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: publicaciones
 link: https://www.academiadominicanahistoria.org.do/?page_id=53
 access: open
@@ -19,9 +20,7 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '084'
+order: '112'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds21/thumbnail.jpg
-full: img/derivatives/simple/cds21/fullwidth.jpg
 ---

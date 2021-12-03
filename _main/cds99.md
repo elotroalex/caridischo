@@ -1,12 +1,13 @@
 ---
 pid: cds99
 label: Puerto Rico Architectural Heritage Archive
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: digital archive
 link: https://mellon.org/grants/grants-database/grants/fundacion-luis-munoz-marin-inc/2004-07580/
 access: open
 status: In Development
-language: es, en
+language: es,en
 creators: 'Jacqueline Hayden '
 stewards: Fundación Luis Muñoz Marín
 blurb: |-
@@ -32,9 +33,7 @@ added_by: Joshua Ortiz Baco
 twitter: "@jgob"
 census_year: '2020'
 notes:
-order: '167'
+order: '119'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds99/thumbnail.jpg
-full: img/derivatives/simple/cds99/fullwidth.jpg
 ---

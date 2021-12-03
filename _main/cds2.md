@@ -1,12 +1,13 @@
 ---
 pid: cds2
 label: "...... et les chiens se taisaient"
-caridischo_genre: Scholarly Editions
+genre: Collections & Curations
+subgenre: Scholarly Editions
 claimed_genre: a scholarly edition
 link: http://cesaire.elotroalex.com/chiens/
 access: open
 status: Stable
-language: en, fr
+language: en,fr
 creators: Alex Gil
 stewards:
 blurb: During the height of the fascist Vichy regime in Martinique, Aimé Césaire was
@@ -22,9 +23,7 @@ added_by: Alex Gil
 twitter: "@elotroalex"
 census_year: '2020'
 notes:
-order: '082'
+order: '096'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds2/thumbnail.jpg
-full: img/derivatives/simple/cds2/fullwidth.jpg
 ---

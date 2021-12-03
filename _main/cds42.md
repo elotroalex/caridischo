@@ -1,12 +1,13 @@
 ---
 pid: cds42
 label: Archivo de Respuestas Emergencias de Puerto Rico (AREPR)
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: archivo
 link: http://arepr.org/
 access: open
 status: Active
-language: en, es
+language: en,es
 creators: Christina Boyles
 stewards: DLoC/Michigan State University
 blurb: Supported by the Andrew W. Mellon Foundation, the Archivo de Respuestas Emergencias
@@ -22,9 +23,7 @@ added_by: Christina Boyles
 twitter: "@clboyles"
 census_year: '2020'
 notes:
-order: '106'
+order: '086'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds42/thumbnail.jpg
-full: img/derivatives/simple/cds42/fullwidth.jpg
 ---

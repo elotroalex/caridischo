@@ -1,7 +1,8 @@
 ---
 pid: cds76
 label: Jews of Barbados - Bibliography
-caridischo_genre: Reference
+genre: Reference
+subgenre: Bibliographies
 claimed_genre: online bibliography
 link: https://www.zotero.org/groups/2333941/jews_of_barbados_-_bibliography
 access: open
@@ -17,9 +18,7 @@ added_by: Amalia S. Levi
 twitter: "@amaliasl"
 census_year: '2020'
 notes:
-order: '143'
+order: '181'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds76/thumbnail.jpg
-full: img/derivatives/simple/cds76/fullwidth.jpg
 ---

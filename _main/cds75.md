@@ -1,7 +1,8 @@
 ---
 pid: cds75
 label: Indian Indenture
-caridischo_genre: Maps & Visualizations
+genre: Maps & Visualizations
+subgenre: Maps
 claimed_genre: map
 link: https://indianindenture.wordpress.com/
 access: open
@@ -20,9 +21,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '142'
+order: '144'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds75/thumbnail.jpg
-full: img/derivatives/simple/cds75/fullwidth.jpg
 ---

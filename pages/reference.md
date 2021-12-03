@@ -10,4 +10,6 @@ This directory is itself a reference work, and so are the bibliographies and syl
 
 ---
 
-{% include facet_gallery.html collection='main' field='caridischo_genre' value='Reference' facet_by='language|status' %}
+{% include facet_gallery.html collection='main' field='genre' value='Reference' facet_by='language|status' %}
+
+

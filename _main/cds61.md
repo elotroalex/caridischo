@@ -1,7 +1,8 @@
 ---
 pid: cds61
 label: 'Ghosts in the Water: Chinese Women in Trinidad'
-caridischo_genre: Thematic Curations
+genre: Collections & Curations
+subgenre: Thematic Curations
 claimed_genre: a project
 link: https://ghostsinthewater.wordpress.com/
 access: open
@@ -19,9 +20,7 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '127'
+order: '062'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds61/thumbnail.jpg
-full: img/derivatives/simple/cds61/fullwidth.jpg
 ---
