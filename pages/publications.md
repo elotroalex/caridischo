@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications and Blogs
+title: Periodicals and Blogs
 permalink: /publications/
 ---
 
@@ -12,6 +12,4 @@ Included in this list is *Arc*, the beloved art magazine that is no longer activ
 
 ---
 
-In no particular order...
-
-{% include collection_gallery.html  collection='main' facet_by='caridischo_genre' only='Publications & Blogs' %}
+{% include facet_gallery.html collection='main' field='section' value='Publications & Blogs' facet_by='genre|language' %}
