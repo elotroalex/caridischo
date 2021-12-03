@@ -5,11 +5,9 @@
     {% assign subset = site[include.collection] | where: include.field, include.value | sort: 'order' %}
     {% assign facet_list = include.facet_by | split: "|" %}
 
- {% comment%}Create Arrays of Combined and Individuated Languages{% endcomment %}
+ {% comment%}BEGIN LANGUAGE SETUP{% endcomment %}
  {% if facet_list contains "language" %}
  {% assign original_options = subset | map: "language" | compact | uniq | sort_natural %}
-
-
 
 {% comment%}Create Array of Individuated Languages{% endcomment %}
  {% assign temp_languages_list = "" %}
@@ -32,12 +30,11 @@
 
  {% assign languages = temp_languages_list | split: "|" | uniq %}
 
- {% comment%}Create array of language names {% endcomment %}
+ {% comment%}Create array of language names. This needs a data file with iso values matching descriptions. {% endcomment %}
 
-
- {% assign temp_language_names_list = "" %}
+{% assign temp_language_names_list = "" %}
  
- {% for language in languages %}
+{% for language in languages %}
     {% for i in site.data.languages %}
         {% if i.iso == language %}
             {% assign language_name = i.description %}
@@ -45,8 +42,37 @@
     {% endfor %}
     {% capture temp_language_names_list %}{{ temp_language_names_list | append: language_name}}|{% endcapture %}
 {% endfor %}
-    {% assign language_names = temp_language_names_list | split: "|" %}
+
+{% comment %}Missing language test{% endcomment %}  
+
+{% assign language_names = temp_language_names_list | split: "|" %}
+{% assign unique_names = language_names | uniq %}
+
+{% if languages.size  > unique_names.size %}
+
+    <!-- ERROR: MISSING LANGUAGE IN LANGUAGE NAMES FILE-->
+<div class="error-message">
+    <p>The languages in your collection are: {{languages.size}}</p>
+    <ul>
+        {% for language in languages %}
+        <li>{{language}}</li>
+        {% endfor %}
+    </ul>
+    <p>The languages found in your language name data are: {{unique_names.size}}</p>
+    <ul>
+        {% for language in unique_names %}
+        <li>{{language}}</li>
+        {% endfor %}
+    </ul>
+</div>
+
+    <!-- END ERROR MESSAGE -->
 {% endif %}
+
+{% endif %}
+
+
+{% comment %}END LANGUAGE SETUP{% endcomment %}
 
 <form class="row" id="facets">
     {% for item in facet_list %}

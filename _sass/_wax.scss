@@ -531,28 +531,13 @@ ul {
   list-style-type:circle;
 }
 
+.error-message {
+  border:rgba(0, 0, 0, 0.125);
+  border-style: dotted;
+  padding: 2rem;
+}
+
 // FACETS CSS
-
-// .image-viewer {
-//   display: flex;
-//   justify-content: center;
-//   align-items: center;
-//   height: 80vh;
-// }
-
-// .gallery-thumb {
-//   height: 30vh;
-//   object-fit: cover;
-//   object-position: 50% 0%;
-// }
-
-// .item-view {
-//   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
-// }
-
-// .card-title {
-//   font-size: 1.2rem;
-// }
 
 p.card-text {
   color: #444444;
