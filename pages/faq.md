@@ -14,7 +14,7 @@ Sure. How about... The digital archives we use and produce for our research, and
 
 ### Why is my project not here?
 
-This directory is sourced froom a [group of our colleagues]({{ '/credits/' | absolute_url}})---librarians and scholars. These colleagues have  heard about the directory through social media networks and word of mouth. We did our best to promote the collection of data in order to make sure that most of us knew we were building this directory. We don't know why your project is not here.
+This directory is sourced from a [group of our colleagues]({{ '/credits/' | absolute_url}})---librarians and scholars. These colleagues have  heard about the directory through social media networks and word of mouth. We did our best to promote the collection of data in order to make sure that most of us knew we were building this directory. We don't know why your project is not here.
 
 ### So... how do I add my project?
 
