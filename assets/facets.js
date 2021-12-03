@@ -1,7 +1,7 @@
 /*
 
 This JavaScript code specifies the operation of the checkbox
-filters in the collection_gallery.html include.
+filters in the facets_gallery.html include.
 
 */
 
