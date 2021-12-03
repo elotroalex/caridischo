@@ -1,7 +1,7 @@
 ---
 pid: cds19
 label: Age of Revolutions
-section: Publications & Blogs
+section: Periodicals & Blogs
 genre: Journals
 claimed_genre: an open-access, peer-reviewed academic journal
 link: https://ageofrevolutions.com/

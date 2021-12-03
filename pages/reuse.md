@@ -2,7 +2,7 @@
 layout: page
 title: Sources
 permalink: /reuse/
-collection: caridischo
+collection: main
 ---
 
 ### Leaguesourcing

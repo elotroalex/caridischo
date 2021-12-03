@@ -1,7 +1,7 @@
 ---
 pid: cds26
 label: A Boricua Abroad
-section: Publications & Blogs
+section: Periodicals & Blogs
 genre: Blogs
 claimed_genre: blog
 link: https://aboricuaabroad.wordpress.com/

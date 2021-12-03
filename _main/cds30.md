@@ -24,6 +24,6 @@ notes:
 order: '021'
 layout: caridischo_item
 collection: main
-thumbnail: ''
-full: ''
+thumbnail: img/derivatives/simple/cds30/thumbnail.jpg
+full: img/derivatives/simple/cds30/fullwidth.jpg
 ---

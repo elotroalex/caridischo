@@ -1,7 +1,7 @@
 ---
 pid: cds1
 label: archipelagos journal
-section: Publications & Blogs
+section: Periodicals & Blogs
 genre: Journals
 claimed_genre: an academic journal
 link: http://archipelagosjournal.org/

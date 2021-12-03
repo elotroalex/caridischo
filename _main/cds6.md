@@ -1,7 +1,7 @@
 ---
 pid: cds6
 label: "#ADPhD"
-section: Publications & Blogs
+section: Periodicals & Blogs
 genre: Blogs
 claimed_genre: a curated blog
 link: https://africandiasporaphd.com/

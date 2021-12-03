@@ -1,7 +1,7 @@
 ---
 pid: cds45
 label: Cuba Counterpoints
-section: Publications & Blogs
+section: Periodicals & Blogs
 genre: Journals
 claimed_genre: a journal
 link: http://cubacounterpoints.com/

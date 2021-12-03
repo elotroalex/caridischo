@@ -1,7 +1,7 @@
 ---
 pid: cds15
 label: Arquitecture of necessity/Arquitectura de la necesidad
-section: Publications & Blogs
+section: Periodicals & Blogs
 genre: Blogs
 claimed_genre: blog
 link: http://architectureofnecessity.com/

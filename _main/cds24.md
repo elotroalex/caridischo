@@ -1,7 +1,7 @@
 ---
 pid: cds24
 label: Beyond the Sugar Curtain
-section: Publications & Blogs
+section: Periodicals & Blogs
 genre: Journals
 claimed_genre: a project
 link: https://www.brown.edu/research/projects/tracing-cuba-us-connections/home-inicio
@@ -24,6 +24,6 @@ notes:
 order: '170'
 layout: caridischo_item
 collection: main
-thumbnail: ''
-full: ''
+thumbnail: img/derivatives/simple/cds24/thumbnail.jpg
+full: img/derivatives/simple/cds24/fullwidth.jpg
 ---

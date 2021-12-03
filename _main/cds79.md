@@ -1,7 +1,7 @@
 ---
 pid: cds79
 label: Haitian History Blog
-section: Publications & Blogs
+section: Periodicals & Blogs
 genre: Blogs
 claimed_genre: blog
 link: https://haitianhistory.tumblr.com/

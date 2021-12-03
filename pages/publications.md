@@ -12,4 +12,4 @@ Included in this list is *Arc*, the beloved art magazine that is no longer activ
 
 ---
 
-{% include facet_gallery.html collection='main' field='section' value='Publications & Blogs' facet_by='genre|language' %}
+{% include facet_gallery.html collection='main' field='section' value='Periodicals & Blogs' facet_by='genre|language' %}
