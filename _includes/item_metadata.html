@@ -26,12 +26,14 @@
         {% endif %}
 
       {% endif %}
+
       {% if item.value == 'page.related_to' %}
+
       {% assign words = value | split: ', ' %}
       {%- capture value -%}
         {% for i in words %}
         {%- capture title -%}
-            {% for p in site.caridischo %} 
+            {% for p in site.main %} 
             {% if p.pid == i %} 
             <a href="{{site.baseurl}}/main/{{i}}/">
               {{ p.label }}
