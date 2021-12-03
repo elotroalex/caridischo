@@ -63,8 +63,9 @@ header & nav bar
     font-size: 2rem;
   }
 
-  .navbar-brand:hover {
+  .navbar-brand a:hover {
     color: $accent-dark !important;
+    text-decoration: none;
   }
 
   .navbar-toggler {
@@ -418,6 +419,14 @@ search box
   }
 }
 
+a.facet-bn {
+  text-decoration: none;
+}
+
+input[type="checkbox"] {
+  margin-right: 4px;
+}
+
 .wax-gallery-container {
   .facet-buttons {
     .facet {
@@ -533,7 +542,7 @@ search box
 }
 
 ul {
-  list-style-type:circle;
+  list-style-type: circle;
 }
 
 // FACETS CSS
@@ -570,7 +579,7 @@ p.card-text {
 .facet-header {
   border: 1px solid rgba(0, 0, 0, 0.125);
   margin-bottom: 0;
-  background-color: rgba(0,0,0,0.03);
+  background-color: rgba(0, 0, 0, 0.03);
   padding: 0.5rem 1.25rem 0rem 1.25rem;
 }
 
