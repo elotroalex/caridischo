@@ -5,79 +5,42 @@
     {% assign subset = site[include.collection] | where: include.field, include.value | sort: 'order' %}
     {% assign facet_list = include.facet_by | split: "|" %}
 
-<!-- TEST -->
-<h3>TEST</h3>
-{% for item in facet_list %}
-    {% if item == "language" %}
-    {% assign original_options = subset | map: item | compact | uniq | sort_natural %}
-    {% assign temp_languages_list = "" %}
-    {% for option in original_options %}
-        {% unless option contains "," %}
-        {% capture temp_languages_list %}{{ temp_languages_list | append: option}}|{% endcapture %}
-        {% endunless %}
-    {% endfor %}
-    {% for option in original_options %}
-        {% if option contains "," %}
-        {% assign lang_list = {{option}} | split: "," %}
-        {% for l in lang_list %}
-            {% capture temp_languages_list %}{{ temp_languages_list | append: l}}|{% endcapture %}
-        {% endfor %}
-        {% else  %}
-        {% endif %}
-    {% endfor %}
+ {% comment%}Create Arrays of Combined and Individuated Languages{% endcomment %}
+ {% if facet_list contains "language" %}
+ {% assign original_options = subset | map: "language" | compact | uniq | sort_natural %}
 
-    {% capture temp_languages_list%}{{ temp_languages_list | remove: " "}}{% endcapture %}
-    {% assign languages = temp_languages_list | split: "|" | uniq %}
 
-<p>My temp array: </p>
 
-<h4>Deduped List</h4>
-<ul>
-    {% for language in languages %}
-    <li>{{language}}</li>
-    {% endfor %}
-</ul> 
+{% comment%}Create Array of Individuated Languages{% endcomment %}
+ {% assign temp_languages_list = "" %}
+ {% for option in original_options %}
+     {% unless option contains "," %}
+     {% capture temp_languages_list %}{{ temp_languages_list | append: option}}|{% endcapture %}
+     {% endunless %}
+ {% endfor %}
 
-<h4>Original List</h4>
-<ul>
-    {% for option in original_options %}
-    <li>{{option}}</li>
-    {% endfor %}
-</ul> 
-    {% else %}
-    {% endif %}
+ {% for option in original_options %}
+     {% if option contains "," %}   
+     {% assign lang_individuated = {{option}} | split: "," %}
+     {% for l in lang_individuated %}
+         {% capture temp_languages_list %}{{ temp_languages_list | append: l}}|{% endcapture %}
+     {% endfor %}
+     {% else  %}
+     {% endif %}
+ {% endfor %}
+ {% capture temp_languages_list%}{{ temp_languages_list | remove: " "}}{% endcapture %}
 
-{% endfor %}
+ {% assign languages = temp_languages_list | split: "|" | uniq %}
 
-<!-- END-TEST -->
+ {% endif %}
 
 <form class="row" id="facets">
     {% for item in facet_list %}
-        {% comment%}Handle Language Category{% endcomment %}
-        {% if item == "language" %}
-        {% comment%}Create Array of Unique Languages{% endcomment %}
-        {% assign original_options = subset | map: item | compact | uniq | sort_natural %}
-        {% assign temp_languages_list = "" %}
-        {% for option in original_options %}
-            {% unless option contains "," %}
-            {% capture temp_languages_list %}{{ temp_languages_list | append: option}}|{% endcapture %}
-            {% endunless %}
-        {% endfor %}
-        {% for option in original_options %}
-            {% if option contains "," %}
-            {% assign lang_list = {{option}} | split: "," %}
-            {% for l in lang_list %}
-                {% capture temp_languages_list %}{{ temp_languages_list | append: l}}|{% endcapture %}
-            {% endfor %}
-            {% else  %}
-            {% endif %}
-        {% endfor %}
-    
-        {% capture temp_languages_list%}{{ temp_languages_list | remove: " "}}{% endcapture %}
-        {% assign languages = temp_languages_list | split: "|" | uniq %}
 
-        {% comment%}Populate FieldSet with unique languages{% endcomment %}
-        
+        {% comment%}Handle Language Category {% endcomment %}
+        {% if item == "language" %}
+
+        {% comment%}Populate FieldSet with unique languages{% endcomment %}        
         <fieldset id="language-set" class="card ml-2 facet-card">
             <div class="facet-header">
                 <a class="facet-bn" data-toggle="collapse" href="#language-collapse" role="button" aria-expanded="false" aria-controls="language-collapse">
@@ -136,19 +99,34 @@
         <div class="wax-gallery" id="wax-gallery-{{ include.value | downcase | replace: ' ', '-' }}">
             <div class="row">
                 {% for item in subset %}
-                    {% assign newClasses = '' | split: ' ' %}
+                    {% assign newClasses = '' | split: ' ' %}                    
                     {% for fieldSet in facet_list %}
-                        {% assign itemFieldValue = item[fieldSet] %}
-                        {% if itemFieldValue.first %}
-                            {% assign fieldSetArray = '' | split: ' ' %}
-                            {% for val in itemFieldValue %}
-                                {% assign slugVal = val | slugify | split: ' ' %}
-                                {% assign fieldSetArray = fieldSetArray | concat: slugVal %}
-                            {% endfor %}
+                    {% comment %}Handle language by stripping commas and removing slugify{% endcomment %}
+                        {% if fieldSet == "language" %}
+                            {% assign itemFieldValue = item[fieldSet] | replace: ",", " " %}
+                            {% if itemFieldValue.first %}
+                                {% assign fieldSetArray = '' | split: ' ' %}
+                                {% for val in itemFieldValue %}
+                                    {% assign slugVal = val | split: ' ' %}
+                                    {% assign fieldSetArray = fieldSetArray | concat: slugVal %}
+                                {% endfor %}
+                            {% else %}
+                                {% assign fieldSetArray = itemFieldValue | split: ' ' %}
+                            {% endif %}
+                            {% assign newClasses = newClasses | concat: fieldSetArray %}
                         {% else %}
-                            {% assign fieldSetArray = itemFieldValue | slugify | split: ' ' %}
+                            {% assign itemFieldValue = item[fieldSet] %}
+                            {% if itemFieldValue.first %}
+                                {% assign fieldSetArray = '' | split: ' ' %}
+                                {% for val in itemFieldValue %}
+                                    {% assign slugVal = val | slugify | split: ' ' %}
+                                    {% assign fieldSetArray = fieldSetArray | concat: slugVal %}
+                                {% endfor %}
+                            {% else %}
+                                {% assign fieldSetArray = itemFieldValue | slugify | split: ' ' %}
+                            {% endif %}
+                            {% assign newClasses = newClasses | concat: fieldSetArray %}
                         {% endif %}
-                        {% assign newClasses = newClasses | concat: fieldSetArray %}
                     {% endfor %}
                     <div class="gallery-item-facets {{  newClasses | join: ' ' }}">
                         <a href='{{ item.url | absolute_url }}'>
