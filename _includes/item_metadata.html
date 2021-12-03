@@ -35,7 +35,8 @@
         {%- capture title -%}
             {% for p in site.main %} 
             {% if p.pid == i %} 
-            <a href="{{site.baseurl}}/main/{{i}}/">
+            {% capture resource_link %}main/{{i}}/{% endcapture %}
+            <a href="{{ resource_link | absolute_url }}">
               {{ p.label }}
             </a><br>
             {% endif %} 
