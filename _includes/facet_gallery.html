@@ -140,9 +140,9 @@
           classes to the gallery-item object. The classes are used by JavaScript
           that reacts to changes to the checkbox filters. -->
 
-<div class="wax-gallery-container full-width" id="wax-gallery-{{ include.value | downcase | replace: ' ', '-' }}-container">
+<div class="wax-gallery-container full-width" id="wax-gallery-{{ include.value | slugify }}-container">
     <div class="wax-inline-container">
-        <div class="wax-gallery" id="wax-gallery-{{ include.value | downcase | replace: ' ', '-' }}">
+        <div class="wax-gallery" id="wax-gallery-{{ include.value | slugify }}">
             <div class="row">
                 {% for item in subset %}
                     {% assign newClasses = '' | split: ' ' %}                    
@@ -174,16 +174,7 @@
                             {% assign newClasses = newClasses | concat: fieldSetArray %}
                         {% endif %}
                     {% endfor %}
-                    <div class="gallery-item-facets {{  newClasses | join: ' ' }}">
-                        <a href='{{ item.url | absolute_url }}'>
-                            <div class='hovereffect'>
-                                <img class='img-responsive gallery-wide-thumb' src='{{site.baseurl}}/img/derivatives/simple/{{ item.pid }}/fullwidth.jpg'/>
-                                <div class='overlay'>
-                                    <p class='info'>{{ item.label }}</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
+                    
                 {% endfor %}
             </div>
         </div>
@@ -207,6 +198,16 @@
                 .toggleClass("facets-chevron-bottom facets-chevron-top");
         });
     });
+
+    var gallery = $('#wax-gallery-{{ include.value | slugify }}');
+    
+    {% for item in subset %}
+        {%- capture item_html -%}
+          "<div class='gallery-item-facets {{  newClasses | join: ' ' }}'> <a href='{{ item.url | absolute_url }}'> <div class='hovereffect'> <img class='img-responsive gallery-wide-thumb' src='{{site.baseurl}}/img/derivatives/simple/{{ item.pid }}/fullwidth.jpg'/> <div class='overlay'> <p class='info'>{{ item.label }}</p> </div> </div> </a> </div>"
+        {%- endcapture -%}
+        gallery.append({{ item_html | strip_newlines }});
+      {% endfor %}
+
 </script>
 
 {% else %}

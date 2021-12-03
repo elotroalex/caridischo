@@ -14,6 +14,7 @@ namespace :wax do
       empty_alt_ignore: true,
       only_4xx: true,
       verbose: true,
+      assume_extension: true,
       http_status_ignore: [301],
       # TYPHOEUS TESTING
       # :typhoeus => { 
