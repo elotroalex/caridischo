@@ -174,7 +174,17 @@
                             {% assign newClasses = newClasses | concat: fieldSetArray %}
                         {% endif %}
                     {% endfor %}
-                    
+                    <div class="gallery-item-facets {{  newClasses | join: ' ' }}">
+                        <a href='{{ item.url | absolute_url }}'>
+                            <div class='hovereffect'>
+                                {% capture img_link %}{{ item.full | absolute_url }}{% endcapture %}
+                                <img class='img-responsive gallery-wide-thumb' src='{{ img_link }}'/>
+                                <div class='overlay'>
+                                    <p class='info'>{{ item.label }}</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                 {% endfor %}
             </div>
         </div>
@@ -198,16 +208,6 @@
                 .toggleClass("facets-chevron-bottom facets-chevron-top");
         });
     });
-
-    var gallery = $('#wax-gallery-{{ include.value | slugify }}');
-    
-    {% for item in subset %}
-        {%- capture item_html -%}
-          "<div class='gallery-item-facets {{  newClasses | join: ' ' }}'> <a href='{{ item.url | absolute_url }}'> <div class='hovereffect'> <img class='img-responsive gallery-wide-thumb' src='{{site.baseurl}}/img/derivatives/simple/{{ item.pid }}/fullwidth.jpg'/> <div class='overlay'> <p class='info'>{{ item.label }}</p> </div> </div> </a> </div>"
-        {%- endcapture -%}
-        gallery.append({{ item_html | strip_newlines }});
-      {% endfor %}
-
 </script>
 
 {% else %}

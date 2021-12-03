@@ -10,7 +10,7 @@ namespace :wax do
       check_external_hash: true,
       allow_hash_href: true,
       check_html: true,
-      disable_external: false,
+      disable_external: true,
       empty_alt_ignore: true,
       only_4xx: true,
       verbose: true,
