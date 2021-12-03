@@ -3,6 +3,6 @@
 $ magick mogrify -path . -resize 1200x600 -quality 100 *.png
 $ magick mogrify -crop 1200x300+0+0 -path ../banner *.png
 
-# Add right permissions to image folder
+# Add right permissions to image folder in the server (ssh)
 
-$ cdchmod -R 755 .
+$ chmod -R 755 .
