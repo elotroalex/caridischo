@@ -32,7 +32,21 @@
 
  {% assign languages = temp_languages_list | split: "|" | uniq %}
 
- {% endif %}
+ {% comment%}Create array of language names {% endcomment %}
+
+
+ {% assign temp_language_names_list = "" %}
+ 
+ {% for language in languages %}
+    {% for i in site.data.languages %}
+        {% if i.iso == language %}
+            {% assign language_name = i.description %}
+        {% endif %}
+    {% endfor %}
+    {% capture temp_language_names_list %}{{ temp_language_names_list | append: language_name}}|{% endcapture %}
+{% endfor %}
+    {% assign language_names = temp_language_names_list | split: "|" %}
+{% endif %}
 
 <form class="row" id="facets">
     {% for item in facet_list %}
@@ -52,7 +66,7 @@
             </div>
             <div class="collapse" id="language-collapse">
                 <div class="card-body">
-                    {% for language in languages %}
+                    {% for language in language_names %}
                         <div class="facet-item">
                             <input id="{{language | slugify}}" class="{{item | slugify}}" type="checkbox" name="{{language}}" value="{{language}}"/>
                             <label for="{{language}}">{{language}}</label>
