@@ -1,7 +1,8 @@
 ---
 layout: page
 title: FAQ
-permalink: '/faq/'
+permalink: 'faq/'
+lang: en
 ---
 
 ### What is digital scholarship? 

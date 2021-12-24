@@ -1,7 +1,8 @@
 ---
 layout: page
 show_title: false
-
+lang: en
+permalink: "/"
 ---
 
 ## A Directory of Caribbean Digital Scholarship
