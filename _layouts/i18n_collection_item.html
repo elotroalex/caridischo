@@ -28,6 +28,12 @@ layout: default
 {% endif %}
 
 <h3 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h3>
+{% for lang in site.languages %}
+  {% if lang == site.active_lang %}
+    {% capture translated_title %}label_{{lang}}{% endcapture %}
+    <h4 class='item-translated-label'>{% if page[translated_title] %}({% endif %}{{ page[translated_title] }}{% if page[translated_title] %}){% endif %}</h4>
+  {% endif %}
+{% endfor %}
 
     {% if page.open_access == 'FALSE' %}
       <p class="item-access">[Access is limited, restricted or paywalled]</p>
