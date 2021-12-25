@@ -105,28 +105,52 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: "Browse"
-    sub:
-      - label: "Collections & Curations"
-        link: "/collections/"
-      - label: "Maps & Visualizations"
-        link: "/visualizations/"
-      - label: "Periodicals & Blogs"
-        link: "/publications/"
-      - label: "Reference Works"
-        link: "/reference/"
-      - label: "Cabinet of Wonders"
-        link: "/wonders/"
-  - label: "Search"
-    link: "/search/"
-  - label: "About"
-    sub:
-      - label: "Sources"
-        link: "/reuse/"
-      - label: "Credits"
-        link: "/credits/"
-      - label: "FAQ"
-        link: "/faq/"
+  en:
+    - label: "Browse"
+      sub:
+        - label: "Collections & Curations"
+          link: "/collections/"
+        - label: "Maps & Visualizations"
+          link: "/visualizations/"
+        - label: "Periodicals & Blogs"
+          link: "/publications/"
+        - label: "Reference Works"
+          link: "/reference/"
+        - label: "Cabinet of Wonders"
+          link: "/wonders/"
+    - label: "Search"
+      link: "/search/"
+    - label: "About"
+      sub:
+        - label: "Sources"
+          link: "/reuse/"
+        - label: "Credits"
+          link: "/credits/"
+        - label: "FAQ"
+          link: "/faq/"
+  es:
+    - label: "Navegar"
+      sub:
+        - label: "Colecciones"
+          link: "/collections/"
+        - label: "Mapas & Visualizaciones"
+          link: "/visualizations/"
+        - label: "Publicaciones"
+          link: "/publications/"
+        - label: "Referencia"
+          link: "/reference/"
+        - label: "Gabinete de maravillas"
+          link: "/wonders/"
+    - label: "Busqueda"
+      link: "/search/"
+    - label: "Acerca de"
+      sub:
+        - label: "Fuentes"
+          link: "/reuse/"
+        - label: "Creditos"
+          link: "/credits/"
+        - label: "Preguntas frecuentes"
+          link: "/faq/"
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
