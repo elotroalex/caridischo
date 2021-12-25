@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: "Preguntas frecuentes"
 permalink: 'faq/'
 lang: es
 ---
@@ -9,7 +9,7 @@ lang: es
 
 El registro académico y cultural es hoy día una realidad material híbrida: en parte analóga y en parte digital. Enormes bibliotecas comerciales y pequeñas colecciones, seleccionadas con todo cuidado, de artefactos históricos y culturales digitalizados nos ofrecen hoy fuentes comunes para la investigación; la mayor parte de nuestra escritura para publicación ocurre directamente en y para la computadora, siendo la impresión un efecto secundario; los mismos destinos de tales publicaciones están cada vez más accesibles en línea. Como resultado, una enorme cantidad de datos ahora conllevan nuestras culturas e historias. Estos datos, como tales, también pueden ser manipulados mediante algoritmos, a menudo para detectar patrones en un corpus, y en otras ocasiones para crear nuevos conocimientos, o incluso falsedades convincentes; Las poderosas herramientas de trabajo en red parecen alimentar un nuevo tipo de colaboración reconocida, fuera del servicio y las relaciones clientelistas en la producción y acumulación del conocimiento. *Las humanidades digitales* nos señalan este nuevo mundo valiente, y a esos objetos y arquitecturas que permiten nuestros movimientos a través de él.
 
-### ¿No puedes decirmelo sin tanta melopea?
+### ¿No puedes decirmelo sin tanto barroquismo?
 
 Dale. Qué te parece ... Los archivos digitales que usamos y producimos para nuestra investigación, y las nuevas formas que nuestra investigación, enseñanza y publicaciones pueden tomar gracias a las computadoras.
 
