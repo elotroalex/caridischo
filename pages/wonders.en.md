@@ -2,6 +2,7 @@
 layout: page
 title: A Cabinet of Wonders
 permalink: /wonders/
+lang: en
 ---
 
 By now, we hope that you have had a chance to question the genres we used to organize the entries in our directory. We hope you noticed too that we were careful to listen to how creators describe or define their projects---the results speak of a library of Babylon. One thing is clear: the question of genre remains open. Even as the dust settles on some trends, we could readily trace lines that would blur a map with a library, or a blog with a bibliography. The machines remain agnostic as they arrange and re-arrange bits and bytes into buckets of our own creation.

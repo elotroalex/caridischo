@@ -2,6 +2,7 @@
 layout: page
 title: Periodicals and Blogs
 permalink: /publications/
+lang: en
 ---
 
 Below we include journals we know of that were born for the internet, that deal with Caribbean digital scholarship, or both. To accompany them, we include the blogs that contribute original scholarly content or serve as serious and consistent review of cultural phenomena of the Caribbean.

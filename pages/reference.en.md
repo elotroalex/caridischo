@@ -2,6 +2,7 @@
 layout: page
 title: Reference Works
 permalink: /reference/
+lange: en
 ---
 
 We even have our own encyclopedias and dictionaries, as one should. A strange, more complete set of "Tlön, Uqbar, Orbis Tertius," *EcuRed* includes what Wikipedia lives out. So does *The Caribbean Dictionary*. Reference built by us will always reflect our own worlds in a manner that the universalists cannot. A reference work is always a series of breadcrumbs, a shout out that points us to that which is unique, and may be ours.
