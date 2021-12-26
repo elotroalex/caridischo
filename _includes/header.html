@@ -19,7 +19,8 @@
 
     <div class="collapse navbar-collapse" id="wax-header-navbar">
       <ul class="nav navbar-nav ml-auto justify-content-end">
-        {% for item in site.menu[site.active_lang] %} {% if item.sub %}
+        {% for item in site.data[site.active_lang]["menu"] %} 
+        {% if item.sub %}
         <li class="nav-item dropdown">
           <a
             class="nav-link dropdown-toggle"
