@@ -2,6 +2,7 @@
 layout: page
 title: Collections and Curations
 permalink: /collections/
+lang: en
 ---
 
 In *Silencing the Past*, Michel-Rolph Trouillot reminds us that the past exists in its material traces, and that those material traces are produced---our past is a product, and so are its consequences. He goes on to place power at the center of that production: “inequalities experienced by the actors lead to uneven historical power in the inscription of traces… Sources are thus instances of inclusion, the other face of which is, of course, what is excluded” (p.48).
