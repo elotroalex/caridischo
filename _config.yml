@@ -123,7 +123,7 @@ menu:
     - label: "About"
       sub:
         - label: "Sources"
-          link: "/reuse/"
+          link: "/sources/"
         - label: "Credits"
           link: "/credits/"
         - label: "FAQ"
@@ -146,7 +146,7 @@ menu:
     - label: "Acerca de"
       sub:
         - label: "Fuentes"
-          link: "/reuse/"
+          link: "/sources/"
         - label: "Creditos"
           link: "/credits/"
         - label: "Preguntas frecuentes"

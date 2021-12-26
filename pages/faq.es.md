@@ -27,6 +27,6 @@ Sin embargo, no se desespere. Mantenemos [una hoja de datos activa en los docume
 
 Si el error es realmente grave, habla con Alex Gil. El asume toda la responsabilidad por el contenido de este sitio y sus errores y desgracias. Los ejemplos de errores graves incluyen atribuciones erróneas en la categoría "creador" o en la categoría "acceso abierto".
 
-### ¿Qué pega con el ron dominicano?
+### ¿Qué va con el ron dominicano?
 
 Hielo. Quizás un poquito de limón.

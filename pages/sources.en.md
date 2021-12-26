@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Sources
-permalink: /reuse/
-collection: main
+permalink: /sources/
+lang: en
 ---
 
 ### Leaguesourcing

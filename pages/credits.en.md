@@ -2,6 +2,7 @@
 layout: page
 title: Credits
 permalink: '/credits/'
+lang: en
 ---
 
 ### The Data Sheet
