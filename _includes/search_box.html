@@ -1,4 +1,10 @@
-{% assign placeholder = include.placeholder | default: 'Search... ' %}
+{% if site.active_lang == "es" %}
+  {% assign default_text = 'Buscar...' %}
+{% else %}
+  {% assign default_text = 'Search...' %}
+{% endif %}
+
+{% assign placeholder = include.placeholder | default: default_text %}
 {% assign key = include.search | default: 'main' %}
 {% assign config = site.search[key] %}
 {% assign index = config.index | absolute_url %}
