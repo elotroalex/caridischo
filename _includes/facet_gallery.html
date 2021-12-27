@@ -59,7 +59,7 @@ language_names = temp_language_names_list | split: "|" %} {% assign unique_names
         aria-controls="language-collapse"
       >
         <legend>
-          language
+          {{site.data[site.active_lang]["facets"]["language"]}}
           <span
             aria-hidden="true"
             class="facets-chevron facets-chevron-bottom float-right ml-2"
@@ -100,7 +100,11 @@ language_names = temp_language_names_list | split: "|" %} {% assign unique_names
         aria-controls="{{item | slugify }}-collapse"
       >
         <legend>
-          {{item | replace: "_", " "}}
+          <!-- If you are using this theme for your own directory, you need to 
+          design a more general solution for implementing i18n for your 
+          categories. You may use the variable item instead of the hard-coded
+          "genre" in the next line  -->
+          {{site.data[site.active_lang]["facets"]["genre"]}}
           <span
             aria-hidden="true"
             class="facets-chevron facets-chevron-bottom float-right ml-2"
@@ -120,7 +124,8 @@ language_names = temp_language_names_list | split: "|" %} {% assign unique_names
             name="{{option}}"
             value="{{option}}"
           />
-          <label for="{{option}}">{{option}}</label>
+          {% assign slug_option = option | slugify %}
+          <label for="{{option}}">{{site.data[site.active_lang]["genre"][slug_option]}}</label>
         </div>
         {% endfor %}
       </div>
