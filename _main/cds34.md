@@ -1,18 +1,27 @@
 ---
 pid: cds34
 label: Caribbean Memory Project
+label_en:
+label_es: Proyecto de memoria del Caribe
 section: Collections & Curations
 genre: Thematic Curations
-claimed_genre: collection of archives
+claimed_genre_en: a collection of archives
+claimed_genre_es: una colección de archivos
 link: https://www.caribbeanmemoryproject.com/
 access: open
 status: Active
 language: en
 creators: Kevin Adonis Browne, Dawn Cumberbatch
 stewards:
-blurb: "​The Caribbean Memory Project promotes public awareness and participation
+blurb_orig: "​The Caribbean Memory Project promotes public awareness and participation
   in the collection and circulation of everyday archives for cultural, social, and
   historical research."
+blurb_en: "​The Caribbean Memory Project promotes public awareness and participation
+  in the collection and circulation of everyday archives for cultural, social, and
+  historical research."
+blurb_es: El proyecto de memoria del Caribe promueve la conciencia pública y la participación
+  en la recolección y circulación de los archivos cotidianos para la investigación
+  cultural, social e histórica.
 related_to:
 sub_collections:
 open_data:
@@ -20,9 +29,9 @@ added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
 notes:
-order: '049'
+order: '123'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds34/thumbnail.jpg
-full: img/derivatives/simple/cds34/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds34/thumbnail.jpg"
+full: "/img/derivatives/simple/cds34/fullwidth.jpg"
 ---

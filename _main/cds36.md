@@ -1,17 +1,25 @@
 ---
 pid: cds36
 label: Caribbean Religious Trials
+label_en:
+label_es: Pruebas religiosas del Caribe
 section: Reference
-genre: Compendium
-claimed_genre: website
+genre: Database
+claimed_genre_en: a website
+claimed_genre_es: un sitio web
 link: https://www.caribbeanreligioustrials.org/
 access: open
 status: In Development
 language: en
-creators: Diana Paton et al.
+creators: Diana Paton, et al.
 stewards: University of Edinburgh
-blurb: This website presents information about selected trials for religious crimes
+blurb_orig: This website presents information about selected trials for religious
+  crimes held in the Caribbean between the 1760s and the 1980s.
+blurb_en: This website presents information about selected trials for religious crimes
   held in the Caribbean between the 1760s and the 1980s.
+blurb_es: Este sitio web presenta información sobre una selección de juicios por delitos
+  religiosos que se dan lugar en el Caribe entre la década de 1760 y la década de
+  1980.
 related_to:
 sub_collections:
 open_data:
@@ -19,9 +27,9 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '179'
+order: '125'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds36/thumbnail.jpg
-full: img/derivatives/simple/cds36/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds36/thumbnail.jpg"
+full: "/img/derivatives/simple/cds36/fullwidth.jpg"
 ---

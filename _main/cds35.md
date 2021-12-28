@@ -1,16 +1,21 @@
 ---
 pid: cds35
 label: Carmelita Tropicana Online Digital Archive
+label_en:
+label_es: Carmelita Tropicana Archivo digital en línea
 section: Collections & Curations
 genre: Thematic Curations
-claimed_genre: digital archive
+claimed_genre_en: a digital archive
+claimed_genre_es: un archivo digital
 link: http://tropicanavideoarchive.blogspot.com/
 access: open
 status: In Disrepair
 language: en
-creators: 'Laura Lomas et al. '
+creators: 'Laura Lomas, et al. '
 stewards:
-blurb: An online video archive of performances by Carmelita Tropicana
+blurb_orig: An online video archive of performances by Carmelita Tropicana
+blurb_en: An online video archive of performances by Carmelita Tropicana
+blurb_es: Un archivo de video en línea de actuaciones de Carmelita Tropicana.
 related_to:
 sub_collections:
 open_data:
@@ -18,9 +23,9 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '050'
+order: '124'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds35/thumbnail.jpg
-full: img/derivatives/simple/cds35/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds35/thumbnail.jpg"
+full: "/img/derivatives/simple/cds35/fullwidth.jpg"
 ---

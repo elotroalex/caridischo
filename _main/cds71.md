@@ -1,16 +1,21 @@
 ---
 pid: cds71
 label: Fictions of the Haitian Revolution
+label_en:
+label_es: Ficciones de la revolución haitiana.
 section: Reference
 genre: Bibliographies
-claimed_genre: online bibliography
+claimed_genre_en: an online bibliography
+claimed_genre_es: una bibliografía en línea
 link: http://haitianrevolutionaryfictions.com
 access: open
 status: Active
 language: en,fr
 creators: Marlene L. Daut
 stewards:
-blurb: An online bibliography of Haitian fiction from 1787 to 1899.
+blurb_orig: An online bibliography of Haitian fiction from 1787 to 1899.
+blurb_en: An online bibliography of Haitian fiction from 1787 to 1899.
+blurb_es: Una bibliografía en línea de la ficción haitiana de 1787 a 1899.
 related_to:
 sub_collections:
 open_data:
@@ -18,9 +23,9 @@ added_by: Kaiama L. Glover
 twitter: "@inthewhirld"
 census_year: '2020'
 notes:
-order: '188'
+order: '163'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds71/thumbnail.jpg
-full: img/derivatives/simple/cds71/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds71/thumbnail.jpg"
+full: "/img/derivatives/simple/cds71/fullwidth.jpg"
 ---

@@ -1,17 +1,24 @@
 ---
 pid: cds58
 label: Ecured
+label_en:
+label_es:
 section: Reference
 genre: Encyclopedias
-claimed_genre: enciclopedia
+claimed_genre_en: an encyclopedia
+claimed_genre_es: una enciclopedia
 link: https://www.ecured.cu/EcuRed
 access: open
 status: Stable
 language: es
-creators: Martín Campos, Javier
+creators: Javier Martín Campos
 stewards:
-blurb: Collaborative encyclopedia on the Cuban network, in Spanish, born from the
+blurb_orig: Enciclopedia colaborativa en la red cubana, en español, nacida de la voluntad
+  para crear y difundir el conocimiento, con todos y para todos.
+blurb_en: Collaborative encyclopedia on the Cuban network, in Spanish, born from the
   will to create and disseminate knowledge, with everyone and for everyone.
+blurb_es: Enciclopedia colaborativa en la red cubana, en español, nacida de la voluntad
+  para crear y difundir el conocimiento, con todos y para todos.
 related_to:
 sub_collections:
 open_data:
@@ -19,9 +26,9 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '192'
+order: '148'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds58/thumbnail.jpg
-full: img/derivatives/simple/cds58/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds58/thumbnail.jpg"
+full: "/img/derivatives/simple/cds58/fullwidth.jpg"
 ---

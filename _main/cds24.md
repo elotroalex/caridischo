@@ -1,19 +1,31 @@
 ---
 pid: cds24
 label: Beyond the Sugar Curtain
+label_en:
+label_es: Más allá de la cortina de azúcar
 section: Periodicals & Blogs
 genre: Journals
-claimed_genre: a project
+claimed_genre_en: a project
+claimed_genre_es: un proyecto
 link: https://www.brown.edu/research/projects/tracing-cuba-us-connections/home-inicio
 access: open
 status: Active
 language: en,es
 creators: Jennifer Lambe
 stewards: Brown University
-blurb: Initiated by the former General Council of Martinique, the Banque Numérique
-  des Patrimoines Martiniquais is an access portal to documentary resources on the
-  cultural and historical heritage of Martinique backed by the geographic information
-  system of Martinique (SIGMA).
+blurb_orig: "&quot;Sugar curtain&quot;: the term’s provenance is something of a mystery.
+  It is hard to discern if anyone really coined it; no one quite owns it. Yet the
+  euphemism has persisted for decades, glossing the antagonism that has characterized
+  Cuba-U.S. relations since Cuba’s 1959 Revolution and the human impact of that divide."
+blurb_en: "&quot;Sugar curtain&quot;: the term’s provenance is something of a mystery.
+  It is hard to discern if anyone really coined it; no one quite owns it. Yet the
+  euphemism has persisted for decades, glossing the antagonism that has characterized
+  Cuba-U.S. relations since Cuba’s 1959 Revolution and the human impact of that divide."
+blurb_es: "&quot;El telón de azúcar&quot;: el origen de esta frase sigue siendo un
+  misterio. No sabemos exactamente quién lo acuñó; no pertenece a nadie. Pero aún
+  así el eufemismo ha persistido durante décadas, refiriéndose al antagonismo que
+  ha caracterizado las relaciones entre Cuba y los Estados Unidos a partir de la Revolución
+  Cubana de 1959, y también al impacto humano de esta división."
 related_to:
 sub_collections:
 open_data:
@@ -21,9 +33,9 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '170'
+order: '112'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds24/thumbnail.jpg
-full: img/derivatives/simple/cds24/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds24/thumbnail.jpg"
+full: "/img/derivatives/simple/cds24/fullwidth.jpg"
 ---

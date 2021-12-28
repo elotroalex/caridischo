@@ -1,17 +1,24 @@
 ---
 pid: cds74
 label: Curaçao Nationaal Archief
+label_en: Curaçao National Archive
+label_es: Archivo nacional de Curazao
 section: Collections & Curations
 genre: Digital Libraries
-claimed_genre: een archief
+claimed_genre_en: een archief
+claimed_genre_es: arqueo een
 link: https://www.nationaalarchief.cw/
 access: open
 status: Active
 language: nl
 creators:
 stewards: National Archives of Curaçao
-blurb: A new voyage of discovery ... Search, browse and discover the original sources
+blurb_orig: A new voyage of discovery ... Search, browse and discover the original
+  sources of Curaçao History.
+blurb_en: A new voyage of discovery ... Search, browse and discover the original sources
   of Curaçao History.
+blurb_es: Un nuevo viaje de descubrimiento ... Buscar, navegar y descubrir las fuentes
+  originales de la historia de Curaçao.
 related_to:
 sub_collections:
 open_data:
@@ -19,9 +26,9 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '026'
+order: '166'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds74/thumbnail.jpg
-full: img/derivatives/simple/cds74/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds74/thumbnail.jpg"
+full: "/img/derivatives/simple/cds74/fullwidth.jpg"
 ---

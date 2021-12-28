@@ -1,18 +1,27 @@
 ---
 pid: cds69
 label: Freedom to Believe
+label_en:
+label_es: Libertad para Creer
 section: Cabinet of Wonders
 genre: Sui Generis
-claimed_genre: project
+claimed_genre_en: a project
+claimed_genre_es: un proyecto
 link: https://www.freedomtobelieve.info/
 access: open
 status: Active
 language: en
-creators: Diana Paton et al.
+creators: Diana Paton, et al.
 stewards: University of Edinburgh
-blurb: Welcome to Freedom to Believe, part of a theatre in education project exploring
+blurb_orig: Welcome to Freedom to Believe, part of a theatre in education project
+  exploring Caribbean social and religious histoires led by Diana Paton and funded
+  by the Arts and Humanities Research Council.
+blurb_en: Welcome to Freedom to Believe, part of a theatre in education project exploring
   Caribbean social and religious histoires led by Diana Paton and funded by the Arts
   and Humanities Research Council.
+blurb_es: Bienvenido a la Libertad de creer, parte de un proyecto de teatro educacional
+  que explora las historias sociales y religiosas del Caribe, dirigido por Diana Paton
+  y financiado por el Consejo de Investigación de Artes y Humanidades.
 related_to:
 sub_collections:
 open_data:
@@ -20,9 +29,9 @@ added_by: Roopika Risam
 twitter: "@roopikarisam"
 census_year: '2020'
 notes:
-order: '013'
+order: '160'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds69/thumbnail.jpg
-full: img/derivatives/simple/cds69/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds69/thumbnail.jpg"
+full: "/img/derivatives/simple/cds69/fullwidth.jpg"
 ---

@@ -1,24 +1,31 @@
 ---
 pid: cds38
-label: Collections of Cultural Property | Centro León
+label: 'Centro León: Colecciones de Bienes Culturales'
+label_en: 'Centro León: Collections of Cultural Property'
+label_es:
 section: Collections & Curations
 genre: Digital Libraries
-claimed_genre: eMuseum
-link: https://centroleon.org.do/cl/
+claimed_genre_en: an eMuseum
+claimed_genre_es: un eMuseo
+link: https://colecciones.centroleon.org.do/collections
 access: private
 status: Active
 language: es
 creators: María Amalia León de Jorge
 stewards:
-blurb: The Eduardo León Jimenes Cultural Center (León Center) is located in the city
-  of Santiago de los Caballeros, Dominican Republic. It was devised by the León Asensio
-  brothers to honor the memory of their parents while giving the country an institution
-  for its educational and cultural development. It opened its doors in October 2003
-  with various spaces that are used for public and private activities, both inside
-  and around the main building, it has four exhibition rooms, a multipurpose activity
-  room, classroom, educational workshop, auditorium, media library, cafeteria, shop
-  , Caribbean patio and gardens, all of which comply with the international standards
-  established by ICOM / UNESCO for their design and operation.
+blurb_orig: Las Colecciones de bienes culturales del Centro León reunen información
+  correspondiente a la colección de objetos antropológicos y obras de arte catalogados
+  y clasificados por los departamentos de Antropología y Artes Visuales.
+blurb_en: The Eduardo León Jimenes Cultural Center (León Center) is located in the
+  city of Santiago de los Caballeros, Dominican Republic. It was devised by the León
+  Asensio brothers to honor the memory of their parents while giving the country an
+  institution for its educational and cultural development. The digital collection
+  gathers information corresponding to the collection of anthropological objects and
+  works of art cataloged and classified by the departments of Anthropology and Visual
+  Arts.
+blurb_es: Las Colecciones de bienes culturales del Centro León reunen información
+  correspondiente a la colección de objetos antropológicos y obras de arte catalogados
+  y clasificados por los departamentos de Antropología y Artes Visuales.
 related_to:
 sub_collections:
 open_data:
@@ -26,9 +33,9 @@ added_by:
 twitter:
 census_year: '2020'
 notes:
-order: '113'
+order: '127'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds38/thumbnail.jpg
-full: img/derivatives/simple/cds38/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds38/thumbnail.jpg"
+full: "/img/derivatives/simple/cds38/fullwidth.jpg"
 ---

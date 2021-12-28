@@ -1,22 +1,34 @@
 ---
 pid: cds57
 label: Digital Photographic Archive of Historic Havana
+label_en:
+label_es: Archivo fotográfico digital de la Havana Histórica.
 section: Collections & Curations
 genre: Thematic Curations
-claimed_genre: digitial photographic archive
+claimed_genre_en: a digital photographic archive
+claimed_genre_es: un archivo fotográfico digital
 link: https://compass.fivecolleges.edu/collections/digital-photographic-archive-historic-havana
 access: private
 status: Active
 language: en
 creators:
 stewards:
-blurb: Based on a common need for a robust infrastructure to manage their digital
-  cultural heritage, Hampshire, Mount Holyoke, and Smith colleges together launched
-  the Compass digital repository in June 2017. Compass supports our institutional
-  missions of teaching and research excellence through improved access to unique materials,
-  and creates a resource to engage both scholars and the general public. The colleges
-  have partnered with Born-Digital for development, design, and project management
-  support.
+blurb_orig: In 2012, Hampshire College through Professor Jacqueline Hayden initiated
+  the Havana Archive Project with Plan Maestro; a digital archive of the Cuban Institute
+  of Geodesy and Cartography 1980s photographs of the 1055 significant buildings in
+  the Historic Center of Havana as determined by Dr. Eusebio Leal, Director of the
+  Office of the Historian.
+blurb_en: In 2012, Hampshire College through Professor Jacqueline Hayden initiated
+  the Havana Archive Project with Plan Maestro; a digital archive of the Cuban Institute
+  of Geodesy and Cartography 1980s photographs of the 1055 significant buildings in
+  the Historic Center of Havana as determined by Dr. Eusebio Leal, Director of the
+  Office of the Historian.
+blurb_es: En 2012, Hampshire College, bajo la coordinación de la profesora Jacqueline
+  Hayden, inició el proyecto del archivo fotográfico digital de La Habana Vieja conjuntamente
+  con la Oficina del Plan Maestro. El archivo integraría parte de la colección de
+  imágenes fotográficas de 1055 edificios significativos del Centro Histórico de La
+  Habana tomadas en 1980 por personal del Instituto Cubano de Geodesia y Cartografía
+  según especificaciones del Dr. Eusebio Leal, Director de la Oficina del Historiador.
 related_to:
 sub_collections:
 open_data:
@@ -24,9 +36,9 @@ added_by: 'Arturo Victoriano '
 twitter: "@ArturoVictoria4"
 census_year: '2020'
 notes:
-order: '060'
+order: '147'
 layout: caridischo_item
 collection: main
-thumbnail: img/derivatives/simple/cds57/thumbnail.jpg
-full: img/derivatives/simple/cds57/fullwidth.jpg
+thumbnail: "/img/derivatives/simple/cds57/thumbnail.jpg"
+full: "/img/derivatives/simple/cds57/fullwidth.jpg"
 ---
