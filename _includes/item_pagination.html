@@ -1,15 +1,21 @@
+{% if site.active_lang == site.default_lang %}
+  {% assign lang_prefix = "" %}
+{% else %}
+  {% capture lang_prefix %}/{{site.active_lang }}{% endcapture %}
+{% endif %}
+
 {% assign links = site[page.collection] | sort: 'order' | map: 'url' %}
 {% for link in links %}
   {% if link == page.url %}
     {% if forloop.first %}
-      {% assign prevlink = links | last %}
-      {% assign nextlink = links[forloop.index] %}
+      {% assign prevlink = links | last | prepend: lang_prefix %}
+      {% assign nextlink = links[forloop.index] | prepend: lang_prefix %}
     {% elsif forloop.last %}
-      {% assign prevlink = prev %}
-      {% assign nextlink = links | first %}
+      {% assign prevlink = prev | prepend: lang_prefix %}
+      {% assign nextlink = links | first | prepend: lang_prefix %}
     {% else %}
-      {% assign prevlink = prev %}
-      {% assign nextlink = links[forloop.index] %}
+      {% assign prevlink = prev | prepend: lang_prefix %}
+      {% assign nextlink = links[forloop.index] | prepend: lang_prefix %}
     {% endif %}
   {% endif %}
   {% assign prev = link %}
