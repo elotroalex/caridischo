@@ -310,6 +310,7 @@ item pages (iiif + metadata)
   font-size: 1.2rem;
   color: gray;
   text-transform: none;
+  padding-top: .2rem;
 }
 
 p.item-access {
@@ -384,6 +385,7 @@ p.item-access {
   border: $neutral 1px solid;
   border-radius: 3px;
   padding: $less-margin;
+  margin-top: 2rem;
 }
 
 /*
