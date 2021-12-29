@@ -11,15 +11,18 @@ namespace :wax do
       allow_hash_href: true,
       check_html: true,
       disable_external: false,
+      external_only: false,
       empty_alt_ignore: true,
       only_4xx: true,
       verbose: true,
       assume_extension: true,
       http_status_ignore: [301],
+      #
       # TYPHOEUS TESTING
       # :typhoeus => { 
       #   :followlocation => false 
       # },
+      #
       # FALSE POSITIVES LIST
       url_ignore: ["https://dloc.com/collections/ibsrp", "https://dloc.com/collections/icirngfm", "https://dloc.com/results?q=Digital+Humanities"]
     }

@@ -15,7 +15,7 @@ Dale. Qué te parece ... Los archivos digitales que usamos y producimos para nue
 
 ### ¿Por qué mi proyecto no está aquí?
 
-Este directorio fur recolectado por un [grupo de nuestros colegas]({{'/ Credit /' | absolute_url}}) --- bibliotecarios y académicos. Estos colegas han oído hablar del directorio a través de las redes sociales y el boca a boca. Hicimos todo lo posible para promover la recopilación de datos con el fin de asegurarnos de que la mayoría de nosotros supiese que estábamos creando este directorio. No sabemos por qué tu proyecto no está aquí.
+Este directorio fur recolectado por un [grupo de nuestros colegas]({{'/credits/' | absolute_url}}) --- bibliotecarios y académicos. Estos colegas han oído hablar del directorio a través de las redes sociales y el boca a boca. Hicimos todo lo posible para promover la recopilación de datos con el fin de asegurarnos de que la mayoría de nosotros supiese que estábamos creando este directorio. No sabemos por qué tu proyecto no está aquí.
 
 ### Entonces ... ¿cómo agrego mi proyecto?
 
