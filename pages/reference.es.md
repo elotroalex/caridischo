@@ -11,4 +11,4 @@ Este directorio es en sí mismo un trabajo de referencia, al igual que las bibli
 
 ---
 
-{% include facet_gallery.html collection='main' field='section' value='Reference' facet_by='genre|language' %}
+{% include facet_gallery.html collection='reference' facet_by='genre|language' %}

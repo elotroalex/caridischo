@@ -58,41 +58,48 @@ webrick:
 collections:
   exhibits:
     output: true
-  main: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: "caridischo_item" # the layout for the pages to use
+  main: 
+    output: true 
+    layout: "caridischo_item" 
     metadata:
-      source: "2021.csv" # path to the metadata file within `_data`
+      source: "2021.csv" 
     images:
-      source: "raw_images/caridischo" # path to the directory of images within `_data`
-  curations: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: "caridischo_item" # the layout for the pages to use
+      source: "raw_images/caridischo" 
+  curations: 
+    output: true 
+    layout: "caridischo_item" 
     metadata:
-      source: "curations.csv" # path to the metadata file within `_data`
+      source: "curations.csv" 
     images:
-      source: "raw_images/curations" # path to the directory of images within `_data`
-  wonders: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: "caridischo_item" # the layout for the pages to use
+      source: "raw_images/curations" 
+  wonders: 
+    output: true 
+    layout: "caridischo_item" 
     metadata:
-      source: "wonders.csv" # path to the metadata file within `_data`
+      source: "wonders.csv" 
     images:
-      source: "raw_images/wonders" # path to the directory of images within `_data`
-  visualizations: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: "caridischo_item" # the layout for the pages to use
+      source: "raw_images/wonders" 
+  visualizations: 
+    output: true 
+    layout: "caridischo_item" 
     metadata:
-      source: "visualizations.csv" # path to the metadata file within `_data`
+      source: "visualizations.csv" 
     images:
-      source: "raw_images/visualizations" # path to the directory of images within `_data`
-  publications: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: "caridischo_item" # the layout for the pages to use
+      source: "raw_images/visualizations" 
+  publications: 
+    output: true 
+    layout: "caridischo_item" 
     metadata:
-      source: "publications.csv" # path to the metadata file within `_data`
+      source: "publications.csv" 
     images:
-      source: "raw_images/publications" # path to the directory of images within `_data`
+      source: "raw_images/publications" 
+  reference: 
+    output: true 
+    layout: "caridischo_item" 
+    metadata:
+      source: "reference.csv" 
+    images:
+      source: "raw_images/reference" 
 
 # --------------------------------------------------------------
 # LUNR SEARCH INDEX SETTINGS
@@ -106,11 +113,11 @@ collections:
 
 search:
   main:
-    index: "/search/index.json" # file the index will get written to
+    index: "/search/index.json" 
     collections:
       curations:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
+        content: false 
+        fields: 
           - label
           - label_en
           - label_es
@@ -122,8 +129,8 @@ search:
           - creators
           - stewards
       wonders:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
+        content: false 
+        fields: 
           - label
           - label_en
           - label_es
@@ -135,8 +142,8 @@ search:
           - creators
           - stewards
       visualizations:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
+        content: false 
+        fields: 
           - label
           - label_en
           - label_es
@@ -148,8 +155,8 @@ search:
           - creators
           - stewards
       publications:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
+        content: false 
+        fields: 
           - label
           - label_en
           - label_es
@@ -160,7 +167,19 @@ search:
           - language
           - creators
           - stewards
-
+      reference:
+        content: false 
+        fields: 
+          - label
+          - label_en
+          - label_es
+          - blurb_en
+          - blurb_es
+          - claimed_genre_en
+          - claimed_genre_es
+          - language
+          - creators
+          - stewards
 
 
 

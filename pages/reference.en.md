@@ -11,4 +11,4 @@ This directory is itself a reference work, and so are the bibliographies and syl
 
 ---
 
-{% include facet_gallery.html collection='main' field='section' value='Reference' facet_by='genre|language' %}
+{% include facet_gallery.html collection='reference' facet_by='genre|language' %}
