@@ -35,8 +35,10 @@ layout: default
   {% endif %}
 {% endfor %}
 
-    {% if page.open_access == 'FALSE' %}
-      <p class="item-access">[Access is limited, restricted or paywalled]</p>
+    {% if page.access == 'vendor' %}
+      <p class="item-access">[Access to this project is paywalled]</p>
+    {% elseif page.access == 'private' %}
+      <p class="item-access">[Access to this project is private]</p>
     {% endif %}
 
 {% comment %}
