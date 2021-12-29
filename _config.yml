@@ -99,7 +99,7 @@ collections:
     metadata:
       source: "reference.csv" 
     images:
-      source: "raw_images/reference" 
+      source: "raw_images/reference"
 
 # --------------------------------------------------------------
 # LUNR SEARCH INDEX SETTINGS
