@@ -48,9 +48,9 @@
         {%- capture value -%}
           {% for i in words %}
           {%- capture title -%}
-              {% for p in site.main %} 
+              {% for p in site.curations %} 
               {% if p.pid == i %} 
-              {% capture resource_link %}main/{{i}}/{% endcapture %}
+              {% capture resource_link %}curations/{{i}}/{% endcapture %}
               <a href="{{ resource_link | absolute_url }}">
                 {{ p.label }}
               </a><br>

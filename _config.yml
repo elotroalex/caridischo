@@ -72,6 +72,13 @@ collections:
       source: "curations.csv" # path to the metadata file within `_data`
     images:
       source: "raw_images/curations" # path to the directory of images within `_data`
+  wonders: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "caridischo_item" # the layout for the pages to use
+    metadata:
+      source: "wonders.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/wonders" # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # LUNR SEARCH INDEX SETTINGS
@@ -87,13 +94,29 @@ search:
   main:
     index: "/search/index.json" # file the index will get written to
     collections:
-      main:
+      curations:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - label
-          - blurb
-          - caridischo_genre
-          - claimed_genre
+          - label_en
+          - label_es
+          - blurb_en
+          - blurb_es
+          - claimed_genre_en
+          - claimed_genre_es
+          - language
+          - creators
+          - stewards
+      wonders:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - label_en
+          - label_es
+          - blurb_en
+          - blurb_es
+          - claimed_genre_en
+          - claimed_genre_es
           - language
           - creators
           - stewards

@@ -13,4 +13,4 @@ No es de extrañar entonces que terminemos con constructos que desafían la clas
 
 En ningún orden particular...
 
-{% include facet_gallery.html collection='main' field='section' value='Cabinet of Wonders' facet_by='language' %}
+{% include facet_gallery.html collection='wonders' facet_by='language' %}
