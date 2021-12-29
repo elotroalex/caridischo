@@ -26,7 +26,22 @@
           {% endif %}
   
         {% endif %}
-  
+        {% comment %}LANGUAGE{% endcomment %}   
+        {% if item.value == 'page.language' %}
+            {% assign languages = page.language | split: "," %}
+            {% assign language_string = "" %}
+            {% for language in languages %}
+              {% for i in site.data.languages %}
+                {% if i.iso == language %} 
+                  {% assign language_name = i.description %}
+                {% endif%}                
+              {% endfor %} 
+              {% capture language_string %}{{language_string | append: language_name}}{% unless forloop.last %}, {% endunless%}{% endcapture %}             
+            {% endfor %}
+            {%- capture value -%}{{language_string}}{%- endcapture -%}
+        {% endif %}
+
+        {% comment %}RELATED TO: NEEDS REVISION{% endcomment %}      
         {% if item.value == 'page.related_to' %}
   
         {% assign words = value | split: ', ' %}
