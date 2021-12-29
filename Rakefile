@@ -43,7 +43,7 @@ task :prod do
   user = 'caribbea'
   server = 'caribbeandigitalnyc.net'
   path = '/home/caribbea/public_html/caridischo'
-  sh "rsync -r -e \"ssh -p22\" _site/. #{user}@#{server}:#{path}"
+  sh "rsync -r -p -e \"ssh -p22\" _site/. #{user}@#{server}:#{path}"
   puts "\n"
   puts 'Bam! Your website is now published!'
   puts "\n"
