@@ -15,4 +15,4 @@ The resulting artifacts of all of this archive-making, sampled below, lie somewh
 
 ---
 
-{% include facet_gallery.html collection='main' field='section' value='Collections & Curations' facet_by='genre|language' %}
+{% include facet_gallery.html collection='curations' facet_by='genre|language' %}

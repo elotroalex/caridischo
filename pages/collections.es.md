@@ -13,4 +13,4 @@ Los artefactos resultantes de toda esta creación de archivos, que se muestran a
 
 ---
 
-{% include facet_gallery.html collection='main' field='section' value='Collections & Curations' facet_by='genre|language' %}
+{% include facet_gallery.html collection='curations' facet_by='genre|language' %}
