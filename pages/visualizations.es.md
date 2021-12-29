@@ -11,4 +11,4 @@ Y sin embargo ... estas máquinas de guerra, estos ojos, pueden y han sido utili
 
 ---
 
-{% include facet_gallery.html collection='main' field='section' value='Maps & Visualizations' facet_by='genre|language' %}
+{% include facet_gallery.html collection='visualizations' facet_by='genre|language' %}

@@ -11,4 +11,4 @@ And yet... these war machines, these eyes, can and have been used by those who r
 
 ---
 
-{% include facet_gallery.html collection='main' field='section' value='Maps & Visualizations' facet_by='genre|language' %}
+{% include facet_gallery.html collection='visualizations' facet_by='genre|language' %}
