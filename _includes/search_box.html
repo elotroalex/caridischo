@@ -28,10 +28,27 @@
 <script type='text/javascript' src="{{ '/assets/search-ui.js' | absolute_url }}"></script>
 <script type='text/javascript'>
   var fields    = {{ fields | jsonify }};
-  var indexFile = "{{ index }}";
-  var url       = "{{ '' | absolute_url }}";
 
+  var indexFile = "{{ index }}";
+
+// Language selection
+
+{% if site.active_lang == site.default_lang %}
+  var lang = '';
+{% else %}
+  var lang  = "{{ site.active_lang | prepend: '/' }}";
+{% endif %}
+
+{% if site.active_lang == 'en' %}
+  var the_word_results = 'results'
+{% elsif site.active_lang == 'es' %}
+  var the_word_results = 'resultados'
+{% endif %}
+
+// Link
+
+  var url  = "{{ '' | absolute_url }}";
   $(document).ready(function() {
-    startSearchUI(fields, indexFile, url);
+    startSearchUI(fields, indexFile, url, lang, the_word_results);
   });
 </script>
