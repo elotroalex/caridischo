@@ -5,16 +5,19 @@
         <p class='footer-title'>{{ site.title }}</p>
         <p class='footer-description'>{{ site.data["footer"]["subtitle"] }}</p>
         <p class='footer-copyright'>
-          {{ site.copyright }}<br>
-          {{site.data["footer"]["built_with"]}} <a href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
+          {% if site.active_lang == 'es' %}
+          Esta obra está bajo una <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.es"  target="_blank">Licencia Creative Commons Atribución 4.0 Internacional</a>.
+          {% elsif site.active_lang == 'en' %}
+          This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"  target="_blank">Creative Commons Attribution 4.0 International License</a>.{% endif %} {{site.data["footer"]["built_with"]}} <a href='https://github.com/minicomp/wax/' target="_blank">Minicomp/Wax.</a>
         </p>
         <p class='footer-logos'>
           {% for item in site.data["footer"]["logos"] %}
           {% assign link = item.link | default: '#' %}
-          <a href="{{ link | absolute_url }}" aria-label="Logo link to resource">
+          <a href="{{ link | absolute_url }}" aria-label="Logo link to resource"  target="_blank">
             <img src='{{ item.img | absolute_url }}' alt="logo"/>
           </a>
           {% endfor %}
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"  target="_blank"/></a>
         </p>
       </div>
       <div class='col'>
