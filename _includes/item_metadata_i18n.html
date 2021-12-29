@@ -41,12 +41,14 @@
             {%- capture value -%}{{language_string}}{%- endcapture -%}
         {% endif %}
 
+        
+
         {% comment %}RELATED TO: NEEDS REVISION{% endcomment %}      
         {% if item.value == 'page.related_to' %}
   
-        {% assign words = value | split: ', ' %}
+        {% assign related_items = value | split: ', ' %}
         {%- capture value -%}
-          {% for i in words %}
+          {% for i in related_items %}
           {%- capture title -%}
               {% for p in site.curations %} 
               {% if p.pid == i %} 

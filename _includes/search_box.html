@@ -11,11 +11,12 @@
 {%- capture fields -%}
   {%- for collection in config.collections -%}
     {%- for field in collection[1].fields -%}
-      {{ field }}{% unless forloop.last %}|||{% endunless %}
+      {{ field }}{% unless forloop.last %}&{% endunless %}
     {%- endfor -%}
   {%- endfor -%}
 {%- endcapture -%}
-{% assign fields = fields | split: '|||' | uniq %}
+{% assign fields = fields | split: '&' | uniq %}
+
 
 <div class='search-block'>
   <div class='input-group'>
@@ -45,10 +46,16 @@
   var the_word_results = 'resultados'
 {% endif %}
 
+{% if site.active_lang == 'en' %}
+  var blurb = "blurb_en"
+{% elsif site.active_lang == 'es' %}
+  var blurb = "blurb_es"
+{% endif %}
+
 // Link
 
   var url  = "{{ '' | absolute_url }}";
   $(document).ready(function() {
-    startSearchUI(fields, indexFile, url, lang, the_word_results);
+    startSearchUI(fields, indexFile, url, lang, the_word_results, blurb);
   });
 </script>

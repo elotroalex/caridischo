@@ -19,17 +19,17 @@ function getThumbnail(item, url) {
   }
 }
 
-function displayResult(item, fields, url, lang) {
+function displayResult(item, fields, url, lang, blurb) {
   var pid   = item.pid;
   var label = item.label || 'Untitled';
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
-  var meta  = excerptedString(item.blurb);
+  var meta  = excerptedString(eval("item." + blurb));
 
   return `<div class="result"><a href="${url}${lang}${link}">${thumb}<p><span class="title">${label}</span><br><span class="meta">${meta}</span></p></a></div>`;
 }
 
-function startSearchUI(fields, indexFile, url, lang, the_word_results) {
+function startSearchUI(fields, indexFile, url, lang, the_word_results, blurb) {
   $.getJSON(indexFile, function(store) {
     var index  = new elasticlunr.Index;
 
@@ -50,7 +50,7 @@ function startSearchUI(fields, indexFile, url, lang, the_word_results) {
       for (var r in results) {
         var ref    = results[r].ref;
         var item   = store[ref];
-        var result = displayResult(item, fields, url, lang);
+        var result = displayResult(item, fields, url, lang, blurb);
 
         results_div.append(result);
       }
