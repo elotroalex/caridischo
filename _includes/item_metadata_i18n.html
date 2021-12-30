@@ -44,16 +44,15 @@
         
 
         {% comment %}RELATED TO{% endcomment %}      
-        {% if item.value == 'page.related_to' %}
-  
-        {% assign related_items = value | split: ', ' %}
+        {% if item.value == 'page.related_to' %}   
+        {% assign related_items = value | split: ',' %}
         {%- capture value -%}
           {% for i in related_items %}
           {%- capture pid_label -%}
               {% for collection in site.collections %}
                 {% for document in site[collection.label] %}                  
                   {% if document.pid == i %} 
-                    {% capture resource_link %}curations/{{i}}/{% endcapture %}
+                    {% capture resource_link %}{{collection.label}}/{{i}}/{% endcapture %}
                     <a href="{{ resource_link | absolute_url }}">{{document.label}}</a><br>
                   {% endif %}
                 {% endfor %}
@@ -62,9 +61,10 @@
           {{pid_label}}
           {% endfor %}
         {%- endcapture -%}      
-      {% endif %}
-          <dt>{{ item.label }}</dt>
-          <dd>{{ value | strip }}</dd>
+        {% endif %}
+
+        <dt>{{ item.label }}</dt>
+        <dd>{{ value | strip }}</dd>
       {% endif %}
     {% endfor %}
   </dl>
