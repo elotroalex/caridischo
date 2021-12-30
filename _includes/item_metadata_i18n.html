@@ -8,13 +8,10 @@
       {% endif %}
   
   
-      {% comment %}
-      Only display non-empty values
-      {% endcomment %}
-      {% if value | strip != '' or value != "" %}
+      {% comment %}Only display non-empty values{% endcomment %}
+      {% if value | strip != '' %}
 
-        {% comment %}LINK{% endcomment %} 
-
+      {% comment %}Strip prefix from links{% endcomment %}
         {% if item.type == 'link' %}
           {% if key == 'manifest' %}
             {%- capture value -%}
@@ -29,45 +26,43 @@
           {% endif %}
         {% endif %}
 
-        {% comment %}LANGUAGE{% endcomment %}   
+        {% comment %}Convert language ISO code to its name{% endcomment %}   
         {% if item.value == 'page.language' %}
-            {% assign languages = page.language | split: "," %}
-            {% assign language_string = "" %}
-            {% for language in languages %}
-              {% for i in site.data.languages %}
-                {% if i.iso == language %} 
-                  {% assign language_name = i.description %}
-                {% endif%}                
-              {% endfor %} 
-              {% capture language_string %}{{language_string | append: language_name}}{% unless forloop.last %}, {% endunless%}{% endcapture %}             
-            {% endfor %}
-            {%- capture value -%}{{language_string}}{%- endcapture -%}
+          {% assign languages = page.language | split: "," %}
+          {% assign language_string = "" %}
+          {% for language in languages %}
+            {% for i in site.data.languages %}
+              {% if i.iso == language %} 
+                {% assign language_name = i.description %}
+              {% endif%}                
+            {% endfor %} 
+            {% capture language_string %}{{language_string | append: language_name}}{% unless forloop.last %}, {% endunless%}{% endcapture %}             
+          {% endfor %}
+          {%- capture value -%}{{language_string}}{%- endcapture -%}
         {% endif %}
-
         
-
         {% comment %}RELATED TO{% endcomment %}      
         {% if item.value == 'page.related_to' %}   
         {% assign related_items = value | split: ',' %}
         {%- capture value -%}
-          {% for i in related_items %}
-          {%- capture pid_label -%}
-              {% for collection in site.collections %}
+        {% for i in related_items %}
+            {%- capture pid_label -%}
+            {% for collection in site.collections %}
                 {% for document in site[collection.label] %}                  
-                  {% if document.pid == i %} 
-                    {% capture resource_link %}{{collection.label}}/{{i}}/{% endcapture %}
-                    <a href="{{ resource_link | absolute_url }}">{{document.label}}</a><br>
-                  {% endif %}
+                    {% if document.pid == i %} 
+                        {% capture resource_link %}{{collection.label}}/{{i}}/{% endcapture %}
+                        <a href="{{ resource_link | absolute_url }}">{{document.label}}</a><br>
+                    {% endif %}
                 {% endfor %}
-              {% endfor %}
-          {%- endcapture -%}
-          {{pid_label}}
-          {% endfor %}
+            {% endfor %}
+            {%- endcapture -%}
+            {{pid_label}}
+        {% endfor %}
         {%- endcapture -%}      
         {% endif %}
 
-        <dt>{{ item.label }}</dt>
-        <dd>{{ value | strip }}</dd>
+      <dt>{{ item.label }}</dt>
+      <dd>{{ value | strip }}</dd>
       {% endif %}
     {% endfor %}
   </dl>
