@@ -11,7 +11,10 @@
       {% comment %}
       Only display non-empty values
       {% endcomment %}
-      {% if value | strip != '' %}
+      {% if value | strip != '' or value != "" %}
+
+        {% comment %}LINK{% endcomment %} 
+
         {% if item.type == 'link' %}
           {% if key == 'manifest' %}
             {%- capture value -%}
@@ -24,8 +27,8 @@
               </a>
             {%- endcapture -%}
           {% endif %}
-  
         {% endif %}
+
         {% comment %}LANGUAGE{% endcomment %}   
         {% if item.value == 'page.language' %}
             {% assign languages = page.language | split: "," %}
