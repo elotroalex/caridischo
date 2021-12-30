@@ -30,7 +30,7 @@ logo: "/img/logo.png"
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
 
-# permalink: "pretty"
+permalink: "pretty"
 sass:
   style: compressed
 exclude:

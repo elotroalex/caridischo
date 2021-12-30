@@ -26,7 +26,7 @@ function displayResult(item, fields, url, lang, blurb) {
   var thumb = getThumbnail(item, url);
   var meta  = excerptedString(eval("item." + blurb));
 
-  return `<div class="result"><a href="${url}${lang}${link}">${thumb}<p><span class="title">${label}</span><br><span class="meta">${meta}</span></p></a></div>`;
+  return `<div class="result"><a href="${url}${lang}${link}.html">${thumb}<p><span class="title">${label}</span><br><span class="meta">${meta}</span></p></a></div>`;
 }
 
 function startSearchUI(fields, indexFile, url, lang, the_word_results, blurb) {
