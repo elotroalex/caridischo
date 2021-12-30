@@ -57,13 +57,6 @@ webrick:
 collections:
   exhibits:
     output: true
-  main: 
-    output: true 
-    layout: "caridischo_item" 
-    metadata:
-      source: "2021.csv" 
-    images:
-      source: "raw_images/caridischo" 
   curations: 
     output: true 
     layout: "caridischo_item" 
