@@ -510,18 +510,18 @@ input[type="checkbox"] {
         }
 
         .info {
-          // text-decoration: none;
-          // font-family: $heading-font !important;
-          // font-size: 1.2rem;
-          // color: $bg-color !important;
-          // background-color: transparent;
+          text-decoration: none;
+          font-family: $heading-font !important;
+          font-size: 1.2rem;
+          color: $bg-color !important;
+          background-color: transparent;
+          font-weight: normal;
+          line-height: 1.4rem;
           // opacity: 0;
           // filter: alpha(opacity=0);
           // -webkit-transform: scale(0);
           // -ms-transform: scale(0);
           // transform: scale(0);
-          // font-weight: normal;
-          // line-height: 1.4rem;
           // overflow: hidden;
           // display: table-cell;
           // vertical-align: middle;
