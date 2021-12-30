@@ -49,17 +49,17 @@
         {% assign related_items = value | split: ', ' %}
         {%- capture value -%}
           {% for i in related_items %}
-          {%- capture title -%}
-            {% for col in site.collections %}
-                {% if col[pid] == i %} 
-                {% capture resource_link %}curations/{{i}}.html/{% endcapture %}
-                <a href="{{ resource_link | absolute_url }}">
-                  {{ p.label }}
-                </a><br>
-                {% endif %} 
-            {% enfor %}
+          {%- capture pid_label -%}
+              {% for collection in site.collections %}
+                {% for document in site[collection.label] %}                  
+                  {% if document.pid == i %} 
+                    {% capture resource_link %}curations/{{i}}/{% endcapture %}
+                    <a href="{{ resource_link | absolute_url }}">{{document.label}}</a><br>
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
           {%- endcapture -%}
-          {{title}}
+          {{pid_label}}
           {% endfor %}
         {%- endcapture -%}      
       {% endif %}
