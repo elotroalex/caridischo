@@ -505,25 +505,27 @@ input[type="checkbox"] {
               display: block;
             }
           }
+        
+        
         }
 
         .info {
-          text-decoration: none;
-          font-family: $heading-font !important;
-          font-size: 1.2rem;
-          color: $bg-color !important;
-          background-color: transparent;
-          opacity: 0;
-          filter: alpha(opacity=0);
-          -webkit-transform: scale(0);
-          -ms-transform: scale(0);
-          transform: scale(0);
-          font-weight: normal;
-          line-height: 1.4rem;
-          overflow: hidden;
-          display: table-cell;
-          vertical-align: middle;
-          padding: 0 $margin 0 $margin;
+          // text-decoration: none;
+          // font-family: $heading-font !important;
+          // font-size: 1.2rem;
+          // color: $bg-color !important;
+          // background-color: transparent;
+          // opacity: 0;
+          // filter: alpha(opacity=0);
+          // -webkit-transform: scale(0);
+          // -ms-transform: scale(0);
+          // transform: scale(0);
+          // font-weight: normal;
+          // line-height: 1.4rem;
+          // overflow: hidden;
+          // display: table-cell;
+          // vertical-align: middle;
+          // padding: 0 $margin 0 $margin;
         }
 
         .overlay {
@@ -539,7 +541,39 @@ input[type="checkbox"] {
           display: table;
           height: 200px;
         }
+
+        @media (max-width: 767px) {
+          .overlay {
+            width: 100%;
+            position: absolute;
+            overflow: hidden;
+            top: 100px;
+            left: 0;
+            background-color: $accent-light;
+            opacity: .9;
+            height: 100px;
+          }
+
+          .info {
+            opacity: 1;
+            text-decoration: none;
+            font-family: $heading-font !important;
+            font-size: 1rem;
+            color: $bg-color !important;
+            background-color: transparent;
+            font-weight: normal;
+            line-height: 1.4rem;
+            overflow: hidden;
+            display: table-cell;
+            vertical-align: middle;
+            padding: 0 $margin 0 $margin;
+          }
+        
       }
+
+
+      
+    }
     }
   }
 }
@@ -595,7 +629,7 @@ p.card-text {
   border: 1px solid rgba(0, 0, 0, 0.125);
   margin-bottom: 0;
   background-color: rgba(0, 0, 0, 0.03);
-  padding: 0.5rem 1.25rem 0rem 1.25rem;
+  padding: 0.5rem 1.25rem 0.5rem 1.25rem;
 }
 
 .facet-bn {
