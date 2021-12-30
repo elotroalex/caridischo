@@ -50,14 +50,14 @@
         {%- capture value -%}
           {% for i in related_items %}
           {%- capture title -%}
-              {% for p in site.curations %} 
-              {% if p.pid == i %} 
-              {% capture resource_link %}curations/{{i}}/{% endcapture %}
-              <a href="{{ resource_link | absolute_url }}">
-                {{ p.label }}
-              </a><br>
-              {% endif %} 
-              {% endfor %}
+            {% for col in site.collections %}
+                {% if col[pid] == i %} 
+                {% capture resource_link %}curations/{{i}}.html/{% endcapture %}
+                <a href="{{ resource_link | absolute_url }}">
+                  {{ p.label }}
+                </a><br>
+                {% endif %} 
+            {% enfor %}
           {%- endcapture -%}
           {{title}}
           {% endfor %}
