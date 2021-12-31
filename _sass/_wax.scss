@@ -549,7 +549,7 @@ input[type="checkbox"] {
             overflow: hidden;
             top: 100px;
             left: 0;
-            background-color: $accent-light;
+            background-color: $bg-color;
             opacity: .9;
             height: 100px;
           }
@@ -559,7 +559,7 @@ input[type="checkbox"] {
             text-decoration: none;
             font-family: $heading-font !important;
             font-size: 1rem;
-            color: $bg-color !important;
+            color: $accent-light !important;
             background-color: transparent;
             font-weight: normal;
             line-height: 1.4rem;
