@@ -184,7 +184,7 @@ search:
 plugins:
   - jekyll-polyglot
 
-languages: ["en", "es"]
+languages: ["en", "es", "fr"]
 default_lang: "en"
 exclude_from_localization: ["img", "assets"]
 parallel_localization: true
